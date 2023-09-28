@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Issuing adjustments and supplements to the contents of class II and class III construction",
+    "intent_response_key_target": "cons_trans/q1_11195.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_11201.0",
+      "confidence": 0.5359817743301392
+    }
+  },
+  {
+    "text": "Register for adjustment and supplementation of content of class II and class III",
+    "intent_response_key_target": "cons_trans/q1_11195.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_11201.0",
+      "confidence": 0.5545087456703186
+    }
+  },
+  {
+    "text": "Application for issuance of adjustment and supplementation of content of certificate",
+    "intent_response_key_target": "cons_trans/q1_11195.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_11201.0",
+      "confidence": 0.4915488660335541
+    }
+  },
+  {
+    "text": "Procedures for granting adjustments and supplements to the content of class II and",
+    "intent_response_key_target": "cons_trans/q1_11195.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_11201.0",
+      "confidence": 0.5425107479095459
+    }
+  },
+  {
+    "text": "Appraisal of construction design implemented after basic design/adjustment of construction",
+    "intent_response_key_target": "cons_trans/q1_19609.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_16473.0",
+      "confidence": 0.4561580717563629
+    }
+  },
+  {
+    "text": "Appraisal of Construction Investment Feasibility Study Report/ Adjustment of Construction",
+    "intent_response_key_target": "cons_trans/q1_19610.0",
+    "intent_response_key_prediction": {
+      "name": "cons_trans/q1_16474.0",
+      "confidence": 0.4607360363006592
+    }
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "text": "Appraisal of Investor Selection Plan",
+    "intent_response_key_target": "eco_trad/q2_8908.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12616.0",
+      "confidence": 0.5392583012580872
+    }
+  },
+  {
+    "text": "Procedures for appraising investor selection plans",
+    "intent_response_key_target": "eco_trad/q2_8908.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12616.0",
+      "confidence": 0.5098093152046204
+    }
+  },
+  {
+    "text": "How to apply for appraisal of investor selection plan",
+    "intent_response_key_target": "eco_trad/q2_8908.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12616.0",
+      "confidence": 0.4708542823791504
+    }
+  },
+  {
+    "text": "Evaluate bidding documents and investor selection request documents",
+    "intent_response_key_target": "eco_trad/q2_8909.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12562.0",
+      "confidence": 0.6045957803726196
+    }
+  },
+  {
+    "text": "Appraisal of documents requesting investor selection",
+    "intent_response_key_target": "eco_trad/q2_8909.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12562.0",
+      "confidence": 0.4591403901576996
+    }
+  },
+  {
+    "text": "Appraisal of investor selection results",
+    "intent_response_key_target": "eco_trad/q2_8911.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12564.0",
+      "confidence": 0.44389137625694275
+    }
+  },
+  {
+    "text": "Procedures for appraising investor selection results",
+    "intent_response_key_target": "eco_trad/q2_8911.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12564.0",
+      "confidence": 0.5169619917869568
+    }
+  },
+  {
+    "text": "Steps to evaluate investor selection results",
+    "intent_response_key_target": "eco_trad/q2_8911.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12564.0",
+      "confidence": 0.4802149534225464
+    }
+  },
+  {
+    "text": "Procedures for appraising project investment policies",
+    "intent_response_key_target": "eco_trad/q2_8922.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.2757931053638458
+    }
+  },
+  {
+    "text": "Procedures for appraising plans to select construction contractors",
+    "intent_response_key_target": "eco_trad/q2_8925.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_9663.0",
+      "confidence": 0.3900572657585144
+    }
+  },
+  {
+    "text": "How to apply for appraisal of the plan to select a construction contractor",
+    "intent_response_key_target": "eco_trad/q2_8925.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12130.0",
+      "confidence": 0.33248788118362427
+    }
+  },
+  {
+    "text": "Procedures for appraising project investment policy",
+    "intent_response_key_target": "eco_trad/q2_8926.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.27579307556152344
+    }
+  },
+  {
+    "text": "How to apply for project investment policy appraisal",
+    "intent_response_key_target": "eco_trad/q2_8926.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_8922.0",
+      "confidence": 0.2521185576915741
+    }
+  },
+  {
+    "text": "Appraisal of construction design and estimates",
+    "intent_response_key_target": "eco_trad/q2_8927.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12551.0",
+      "confidence": 0.4772284924983978
+    }
+  },
+  {
+    "text": "Procedures for appraising construction design and estimates",
+    "intent_response_key_target": "eco_trad/q2_8927.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12551.0",
+      "confidence": 0.4971761107444763
+    }
+  },
+  {
+    "text": "Evaluate the contractor selection plan",
+    "intent_response_key_target": "eco_trad/q2_8930.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_10811.0",
+      "confidence": 0.5205017328262329
+    }
+  },
+  {
+    "text": "Does project investment require appraisal?",
+    "intent_response_key_target": "eco_trad/q2_10807.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.5168562531471252
+    }
+  },
+  {
+    "text": "Procedures for appraising project investment policies",
+    "intent_response_key_target": "eco_trad/q2_10807.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.2757931351661682
+    }
+  },
+  {
+    "text": "Dossier for appraisal of project investment policy",
+    "intent_response_key_target": "eco_trad/q2_10807.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.5805601477622986
+    }
+  },
+  {
+    "text": "How is the project investment policy evaluated?",
+    "intent_response_key_target": "eco_trad/q2_10807.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.4601135551929474
+    }
+  },
+  {
+    "text": "Information on project investment policy appraisal",
+    "intent_response_key_target": "eco_trad/q2_10807.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17981.0",
+      "confidence": 0.5837123394012451
+    }
+  },
+  {
+    "text": "Project approval documents",
+    "intent_response_key_target": "eco_trad/q2_10809.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12550.0",
+      "confidence": 0.5206865668296814
+    }
+  },
+  {
+    "text": "Procedures for appraising plans for selecting construction contractors",
+    "intent_response_key_target": "eco_trad/q2_12130.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_9663.0",
+      "confidence": 0.36209458112716675
+    }
+  },
+  {
+    "text": "Steps to submit for approval project adjustments and group C economic and technical reports",
+    "intent_response_key_target": "eco_trad/q2_14162.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_12343.0",
+      "confidence": 0.5528611540794373
+    }
+  },
+  {
+    "text": "Issuance of new construction permits for special level, level I, level II works (works not according to lines/Lines in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for construction Non-line construction/Phase for linear construction in urban areas/Projects).",
+    "intent_response_key_target": "eco_trad/q2_17519.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17525.0",
+      "confidence": 0.1215161681175232
+    }
+  },
+  {
+    "text": "Issuing construction permits, repairs and renovations for special level, level I and level II works (works not following lines/Lines in urban areas/Beliefs, religions/Monuments, monumental paintings/According to Phases for non-line projects/Phases for linear projects in urban areas/Projects).",
+    "intent_response_key_target": "eco_trad/q2_17521.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17523.0",
+      "confidence": 0.11257640272378922
+    }
+  },
+  {
+    "text": "Issuing construction permits, repairs and renovations for level III and level IV works (works without lines/Lines in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for construction Non-line construction/Phase for linear construction in urban areas/Projects) and individual houses.",
+    "intent_response_key_target": "eco_trad/q2_17522.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17567.0",
+      "confidence": 0.12347067892551422
+    }
+  },
+  {
+    "text": "Issuing relocation permits for level III and level IV works (works not along lines/Lines in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for works not along lines/ By phase for linear construction in urban areas/Projects) and individual houses.",
+    "intent_response_key_target": "eco_trad/q2_17524.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17571.0",
+      "confidence": 0.08478718996047974
+    }
+  },
+  {
+    "text": "Renewal of construction permits for special grade, grade I, grade II projects (non-line/line-based works in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for construction Non-line construction/Phase for linear construction in urban areas/Projects).",
+    "intent_response_key_target": "eco_trad/q2_17527.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17529.0",
+      "confidence": 0.22997435927391052
+    }
+  },
+  {
+    "text": "Re-issuance of construction permits for level III and level IV works (non-line works/Line-based projects in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for non-line projects /Per phase for linear construction in urban areas/Projects) and individual houses.",
+    "intent_response_key_target": "eco_trad/q2_17530.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17528.0",
+      "confidence": 0.09257880598306656
+    }
+  },
+  {
+    "text": "Issuing relocation permits for level III and level IV works (non-line works/Line-based works in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for non-line works/ By phase for linear construction in urban areas/Projects) and individual houses",
+    "intent_response_key_target": "eco_trad/q2_17568.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17528.0",
+      "confidence": 0.08305523544549942
+    }
+  },
+  {
+    "text": "Issuance of adjusted construction permits for level III and IV works (non-line works/Line-following projects in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for non-line projects /Per phase for linear construction in urban areas/Projects) and individual houses",
+    "intent_response_key_target": "eco_trad/q2_17569.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17528.0",
+      "confidence": 0.08051946759223938
+    }
+  },
+  {
+    "text": "Extension of construction permits for level III and level IV works (non-line/line-based works in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for non-line projects /Per phase for linear construction in urban areas/Projects) and individual houses",
+    "intent_response_key_target": "eco_trad/q2_17570.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17526.0",
+      "confidence": 0.08437947183847427
+    }
+  },
+  {
+    "text": "Re-issuance of construction permits for level III and level IV works (non-line works/Line-following projects in urban areas/Beliefs, religions/Monuments, monumental paintings/In stages for non-line projects /Per phase for linear construction in urban areas/Projects) and individual houses",
+    "intent_response_key_target": "eco_trad/q2_17571.0",
+    "intent_response_key_prediction": {
+      "name": "eco_trad/q2_17520.0",
+      "confidence": 0.08242610841989517
+    }
+  }
+]

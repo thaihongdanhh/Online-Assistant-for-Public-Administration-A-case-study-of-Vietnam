@@ -1,0 +1,394 @@
+[
+  {
+    "text": "\"Issuing (re-issuing/ renewing/ extending) Class II surveying and mapping practicecertificates\"",
+    "intent_response_key_target": "res_env/q3_0",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_3",
+      "confidence": 0.07618843764066696
+    }
+  },
+  {
+    "text": "\"Declare and appraise environmental protection fee declarations for wastewater\"",
+    "intent_response_key_target": "res_env/q3_2",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_3",
+      "confidence": 0.2904540002346039
+    }
+  },
+  {
+    "text": "\"Delete the registration of security measures using land use rights and assets attachedto land\"",
+    "intent_response_key_target": "res_env/q3_5",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_63",
+      "confidence": 0.033265113830566406
+    }
+  },
+  {
+    "text": "\"Return the mineral exploitation license or return part of the mineral exploitationarea\"",
+    "intent_response_key_target": "res_env/q3_7",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.034943148493766785
+    }
+  },
+  {
+    "text": "\"Licensing mineral exploitation in areas with construction investment projects\"",
+    "intent_response_key_target": "res_env/q3_8",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_47",
+      "confidence": 0.03180110827088356
+    }
+  },
+  {
+    "text": "\"Issue mineral exploitation licenses\"",
+    "intent_response_key_target": "res_env/q3_9",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.08283789455890656
+    }
+  },
+  {
+    "text": "\"Transfer of mineral exploitation rights\"",
+    "intent_response_key_target": "res_env/q3_10",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.057125337421894073
+    }
+  },
+  {
+    "text": "\"Renewal of mineral exploitation license\"",
+    "intent_response_key_target": "res_env/q3_11",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.0768314003944397
+    }
+  },
+  {
+    "text": "\"Procedures for transferring mineral exploitation rights\"",
+    "intent_response_key_target": "res_env/q3_13",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.0686294212937355
+    }
+  },
+  {
+    "text": "\"Procedures for granting and adjusting mineral exploitation licenses; Issue mineralexploitation licenses in areas with construction investment projects\"",
+    "intent_response_key_target": "res_env/q3_14",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_1",
+      "confidence": 0.04194696620106697
+    }
+  },
+  {
+    "text": "\"Procedures for returning the Mineral Mining License or returning part of the mineralmining area.\"",
+    "intent_response_key_target": "res_env/q3_16",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_10",
+      "confidence": 0.025993499904870987
+    }
+  },
+  {
+    "text": "\"Procedures for approval of mineral reserves\"",
+    "intent_response_key_target": "res_env/q3_17",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.08270447701215744
+    }
+  },
+  {
+    "text": "\"Procedures for registration and issuance of Certificate of land use rights, ownershipof houses and other assets attached to land for the first time\"",
+    "intent_response_key_target": "res_env/q3_18",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_68",
+      "confidence": 0.034339357167482376
+    }
+  },
+  {
+    "text": "\"Procedures for granting Certificate of land use rights, ownership of houses andother assets attached to land to people who have registered land use rights forthe first time\"",
+    "intent_response_key_target": "res_env/q3_19",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_0",
+      "confidence": 0.025822089985013008
+    }
+  },
+  {
+    "text": "\"Procedures for registration and issuance of Certificate of land use rights, ownershipof houses and other assets attached to land for the first time for assets attachedto land whose owner is not also the land user\"",
+    "intent_response_key_target": "res_env/q3_20",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_68",
+      "confidence": 0.058260709047317505
+    }
+  },
+  {
+    "text": "\"Procedures for registration and issuance of Certificates of land use rights, ownershipof houses and other assets attached to land for recipients of land use rights transfer,housing purchases, and construction works in development projects housing development\"",
+    "intent_response_key_target": "res_env/q3_21",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_69",
+      "confidence": 0.06673875451087952
+    }
+  },
+  {
+    "text": "\"Procedures for registration and issuance of Certificates of land use rights, ownershipof houses and other assets attached to land for cases where land use rights havebeen transferred before July 1, 2014 and the transferor has received issued a Certificatebut have not yet carried out the procedures for transfer of rights according toregulations\"",
+    "intent_response_key_target": "res_env/q3_22",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_68",
+      "confidence": 0.04377400502562523
+    }
+  },
+  {
+    "text": "\"Procedures for registering land use rights for the first time\"",
+    "intent_response_key_target": "res_env/q3_30",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.0384509339928627
+    }
+  },
+  {
+    "text": "\"Procedures for deregistration of lease, sublease, capital contribution with landuse rights, ownership of assets attached to land\"",
+    "intent_response_key_target": "res_env/q3_32",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_63",
+      "confidence": 0.025375373661518097
+    }
+  },
+  {
+    "text": "\"Procedures for registering changes in assets attached to land in the issued Certificate\"",
+    "intent_response_key_target": "res_env/q3_34",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_41",
+      "confidence": 0.03381718322634697
+    }
+  },
+  {
+    "text": "\"Procedures for changing land use purposes must be permitted by competent state agenciesfor households and individuals\"",
+    "intent_response_key_target": "res_env/q3_39",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_41",
+      "confidence": 0.02798345312476158
+    }
+  },
+  {
+    "text": "\"Procedures for transferring investment capital and land use rights value\"",
+    "intent_response_key_target": "res_env/q3_41",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.03421662747859955
+    }
+  },
+  {
+    "text": "\"Procedures for changing land use purposes must be permitted by the competent stateagency for the organization\"",
+    "intent_response_key_target": "res_env/q3_42",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_63",
+      "confidence": 0.03615643084049225
+    }
+  },
+  {
+    "text": "\"Registration procedures for changing land use purposes do not require permissionfrom a competent state agency\"",
+    "intent_response_key_target": "res_env/q3_43",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_63",
+      "confidence": 0.03159235417842865
+    }
+  },
+  {
+    "text": "\"The procedure for transferring investment capital is the value of land use rights\"",
+    "intent_response_key_target": "res_env/q3_44",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_41",
+      "confidence": 0.03272762522101402
+    }
+  },
+  {
+    "text": "\"Adjusting the Prime Minister's decisions on land recovery, land allocation, landlease, and permission to change land use purposes issued before July 1, 2004\"",
+    "intent_response_key_target": "res_env/q3_45",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_72",
+      "confidence": 0.035773247480392456
+    }
+  },
+  {
+    "text": "\"Procedures for providing data on land\"",
+    "intent_response_key_target": "res_env/q3_47",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.073853500187397
+    }
+  },
+  {
+    "text": "\"Procedures for appraising land use needs to consider land allocation or land leasenot through auction of land use rights for households, individuals, and residentialcommunities\"",
+    "intent_response_key_target": "res_env/q3_48",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_90",
+      "confidence": 0.14246760308742523
+    }
+  },
+  {
+    "text": "\"Procedures for confirming continued use of agricultural land by households and individualsafter the land use term expires in case of need\"",
+    "intent_response_key_target": "res_env/q3_49",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_1",
+      "confidence": 0.042795538902282715
+    }
+  },
+  {
+    "text": "\"Appraisal of land use plans of agricultural and forestry companies\"",
+    "intent_response_key_target": "res_env/q3_50",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.04950631409883499
+    }
+  },
+  {
+    "text": "\"Appraisal of land use needs; Appraisal of conditions for land allocation and landlease not through auction of land use rights, conditions for allowing change ofland use purpose to implement investment projects for organizations, religious establishments,and Vietnamese people Men residing abroad, foreign-invested enterprises, foreignorganizations with diplomatic functions\"",
+    "intent_response_key_target": "res_env/q3_51",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_29",
+      "confidence": 0.13023367524147034
+    }
+  },
+  {
+    "text": "\"Procedures for renewing Certificates of land use rights, ownership of houses andother assets attached to land\"",
+    "intent_response_key_target": "res_env/q3_54",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_41",
+      "confidence": 0.03048248402774334
+    }
+  },
+  {
+    "text": "\"Procedures for correction of issued Certificates\"",
+    "intent_response_key_target": "res_env/q3_55",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.07692370563745499
+    }
+  },
+  {
+    "text": "\"Procedures for reissuing the Certificate or reissuing an additional page of theCertificate due to loss\"",
+    "intent_response_key_target": "res_env/q3_56",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_47",
+      "confidence": 0.054004210978746414
+    }
+  },
+  {
+    "text": "\"Procedures for granting mineral exploration licenses\"",
+    "intent_response_key_target": "res_env/q3_60",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.08213108032941818
+    }
+  },
+  {
+    "text": "\"Procedures for returning the Mineral Exploration License or returning part of themineral exploration area.\"",
+    "intent_response_key_target": "res_env/q3_61",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.03511754423379898
+    }
+  },
+  {
+    "text": "\"Procedures for renewing mineral exploration licenses\"",
+    "intent_response_key_target": "res_env/q3_62",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_15",
+      "confidence": 0.08535732328891754
+    }
+  },
+  {
+    "text": "\"Decide to change the use of public property in case there is no change in the objectof management and use of public property.\"",
+    "intent_response_key_target": "res_env/q3_64",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_28",
+      "confidence": 0.04954491928219795
+    }
+  },
+  {
+    "text": "\"Decision to transfer public assets\"",
+    "intent_response_key_target": "res_env/q3_65",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_72",
+      "confidence": 0.06727708876132965
+    }
+  },
+  {
+    "text": "\"Decide to purchase public assets to serve the activities of agencies, organizations,and units in cases where investment projects are not required\"",
+    "intent_response_key_target": "res_env/q3_66",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_68",
+      "confidence": 0.03363881632685661
+    }
+  },
+  {
+    "text": "\"Decision to liquidate public assets\"",
+    "intent_response_key_target": "res_env/q3_70",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_11",
+      "confidence": 0.057283785194158554
+    }
+  },
+  {
+    "text": "\"Decision to cancel the decision to auction public assets\"",
+    "intent_response_key_target": "res_env/q3_71",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_11",
+      "confidence": 0.04492361098527908
+    }
+  },
+  {
+    "text": "\"Decide on the handling of public property in case of loss or destruction\"",
+    "intent_response_key_target": "res_env/q3_73",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_10",
+      "confidence": 0.03583144396543503
+    }
+  },
+  {
+    "text": "\"Decide to handle assets serving project activities when the project ends\"",
+    "intent_response_key_target": "res_env/q3_77",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_10",
+      "confidence": 0.03454728052020073
+    }
+  },
+  {
+    "text": "\"Decision to sell public assets\"",
+    "intent_response_key_target": "res_env/q3_82",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_72",
+      "confidence": 0.0897299274802208
+    }
+  },
+  {
+    "text": "\"Decision to transfer public assets (Headquarters, non-business establishments, carsfor work, specialized cars and assets with original price according to accountingbooks of 500 million VND or more /1 unit of assets)\"",
+    "intent_response_key_target": "res_env/q3_84",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_86",
+      "confidence": 0.09035927057266235
+    }
+  },
+  {
+    "text": "\"Registering changes in land use rights and ownership of assets attached to landin cases of conversion, transfer, lease, sublease, inheritance, donation, capitalcontribution with land use rights or land use rights. own assets attached to land;transfer land use rights and ownership of assets attached to land of husband orwife into joint property of husband and wife; Increased area due to transfer, inheritance,or donation of land use rights that already have a Certificate\"",
+    "intent_response_key_target": "res_env/q3_87",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_51",
+      "confidence": 0.14727210998535156
+    }
+  },
+  {
+    "text": "\"Register to mortgage land use rights and assets attached to land\"",
+    "intent_response_key_target": "res_env/q3_88",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_10",
+      "confidence": 0.03345651552081108
+    }
+  },
+  {
+    "text": "\"Register to change the content of security measures using registered land use rightsand assets attached to land\"",
+    "intent_response_key_target": "res_env/q3_89",
+    "intent_response_key_prediction": {
+      "name": "res_env/q3_63",
+      "confidence": 0.03181082382798195
+    }
+  }
+]

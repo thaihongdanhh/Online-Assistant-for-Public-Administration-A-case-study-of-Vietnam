@@ -1,0 +1,3726 @@
+,Unnamed: 0,question,answer
+0,0,"hi, how are you doing?",greeting
+1,1,i'm fine. how about yourself?,greeting
+2,2,i'm pretty good. thanks for asking.,greeting
+3,3,no problem. so how have you been?,greeting
+4,4,i've been great. what about you?,greeting
+5,5,i've been good. i'm in school right now.,greeting
+6,6,what school do you go to?,greeting
+7,7,i go to pcc.,greeting
+8,8,do you like it there?,greeting
+9,9,it's okay. it's a really big campus.,greeting
+10,10,good luck with school.,greeting
+11,11,how's it going?,greeting
+12,12,i'm doing well. how about you?,greeting
+13,13,"never better, thanks.",greeting
+14,14,so how have you been lately?,greeting
+15,15,i've actually been pretty good. you?,greeting
+16,16,i'm actually in school right now.,greeting
+17,17,which school do you attend?,greeting
+18,18,i'm attending pcc right now.,greeting
+19,19,are you enjoying it there?,greeting
+20,20,it's not bad. there are a lot of people there.,greeting
+21,21,good luck with that.,greeting
+22,22,how are you doing today?,greeting
+23,23,i'm doing great. what about you?,greeting
+24,24,"i'm absolutely lovely, thank you.",greeting
+25,25,everything's been good with you?,greeting
+26,26,i haven't been better. how about yourself?,greeting
+27,27,i started school recently.,greeting
+28,28,where are you going to school?,greeting
+29,29,i'm going to pcc.,greeting
+30,30,how do you like it so far?,greeting
+31,31,i like it so far. my classes are pretty good right now.,greeting
+32,32,it's an ugly day today.,greeting
+33,33,i know. i think it may rain.,greeting
+34,34,"it's the middle of summer, it shouldn't rain today.",greeting
+35,35,that would be weird.,greeting
+36,36,"yeah, especially since it's ninety degrees outside.",greeting
+37,37,"i know, it would be horrible if it rained and it was hot outside.",greeting
+38,38,"yes, it would be. ",greeting
+39,39,i really wish it wasn't so hot every day. ,greeting
+40,40,me too. i can't wait until winter.,greeting
+41,41,"i like winter too, but sometimes it gets too cold.",greeting
+42,42,i'd rather be cold than hot.,greeting
+43,43,it doesn't look very nice outside today.,greeting
+44,44,you're right. i think it's going to rain later.,greeting
+45,45,"in the middle of the summer, it shouldn't be raining.",greeting
+46,46,that wouldn't seem right.,greeting
+47,47,"considering that it's over ninety degrees outside, that would be weird.",greeting
+48,48,"exactly, it wouldn't be nice if it started raining. it's too hot.",greeting
+49,49,"i know, you're absolutely right.",greeting
+50,50,i wish it would cool off one day.,greeting
+51,51,"that's how i feel, i want winter to come soon.",greeting
+52,52,"i enjoy the winter, but it gets really cold sometimes.",greeting
+53,53,"i know what you mean, but i'd rather be cold than hot.",greeting
+54,54,i wish it was a nicer day today.,greeting
+55,55,that is true. i hope it doesn't rain.,greeting
+56,56,it wouldn't rain in the middle of the summer.,greeting
+57,57,it wouldn't seem right if it started raining right now.,greeting
+58,58,it would be weird if it started raining in ninety degree weather.,greeting
+59,59,any rain right now would be pointless.,greeting
+60,60,"that's right, it really would be.",greeting
+61,61,i want it to cool down some.,greeting
+62,62,"i know what you mean, i can't wait until it's winter.",greeting
+63,63,winter is great. i wish it didn't get so cold sometimes though.,greeting
+64,64,it's such a nice day.,greeting
+65,65,"yes, it is.",greeting
+66,66,it looks like it may rain soon.,greeting
+67,67,"yes, and i hope that it does.",greeting
+68,68,why is that?,greeting
+69,69,i really love how rain clears the air.,greeting
+70,70,me too. it always smells so fresh after it rains.,greeting
+71,71,"yes, but i love the night air after it rains.",greeting
+72,72,really? why is it?,greeting
+73,73,because you can see the stars perfectly.,greeting
+74,74,i really hope it rains today.,greeting
+75,75,isn't it a nice day?,greeting
+76,76,it really is.,greeting
+77,77,it seems that it may rain today.,greeting
+78,78,hopefully it will.,greeting
+79,79,how come?,greeting
+80,80,i like how clear the sky gets after it rains.,greeting
+81,81,i feel the same way. it smells so good after it rains.,greeting
+82,82,i especially love the night air when it rains.,greeting
+83,83,really? why?,greeting
+84,84,the stars look so much closer after it rains.,greeting
+85,85,i really want it to rain today.,greeting
+86,86,don't you think it's nice out?,greeting
+87,87,"yes, i think so too.",greeting
+88,88,i think that it's going to rain.,greeting
+89,89,i hope that it does rain.,greeting
+90,90,you like the rain?,greeting
+91,91,the sky looks so clean after it rains. i love it.,greeting
+92,92,i understand. rain does make it smell cleaner.,greeting
+93,93,i love most how it is at night after it rains.,greeting
+94,94,how come?,greeting
+95,95,you can see the stars so much more clearly after it rains.,greeting
+96,96,i really want to go to the beach this weekend.,greeting
+97,97,that sounds like fun. what's the weather going to be like?,greeting
+98,98,i heard that it's going to be warm this weekend.,greeting
+99,99,is it going to be perfect beach weather?,greeting
+100,100,i believe so.,greeting
+101,101,good. i hope it doesn't cool off this weekend.,greeting
+102,102,i know. i really want to go to the beach.,greeting
+103,103,but you know that california weather is really unpredictable.,greeting
+104,104,"you're right. one minute it's hot, and then the next minute it's cold.",greeting
+105,105,i really wish the weather would just stay the same.,greeting
+106,106,i do too. that way we can have our activities planned ahead of time.,greeting
+107,107,i would like to take a trip to the beach this weekend.,greeting
+108,108,a trip to the beach would be fun. how is the weather going to be?,greeting
+109,109,the forecast says that it will be warm on the weekend.,greeting
+110,110,so do you think it'll be perfect weather for the beach?,greeting
+111,111,it sounds like it will be.,greeting
+112,112,i really hope it doesn't get cold.,greeting
+113,113,"that would ruin things, i want to go so badly.",greeting
+114,114,"the weather in california is unpredictable, so you never know.",greeting
+115,115,that is true. the weather is constantly changing.,greeting
+116,116,it would be nice if the weather would never change.,greeting
+117,117,"that would be great, then we could plan things sooner.",greeting
+118,118,it would be nice to go to the beach sometime this weekend.,greeting
+119,119,what's the weather going to be like? i may want to go too.,greeting
+120,120,the weather this weekend is supposed to be warm.,greeting
+121,121,will it be good beach weather?,greeting
+122,122,i think it will be.,greeting
+123,123,it wouldn't be good if it got cold this weekend.,greeting
+124,124,"i want this trip to be perfect, i hope it stays warm.",greeting
+125,125,"this california weather is so uncertain, it's impossible to know what'll happen.",greeting
+126,126,i know. every day the weather seems different.,greeting
+127,127,i would love it if it wasn't always so unpredictable.,greeting
+128,128,"hello, may i speak to alice please?",greeting
+129,129,this is she. how's it going?,greeting
+130,130,i've been trying to call you all day.,greeting
+131,131,sorry about that. i was cleaning up.,greeting
+132,132,it's okay.,greeting
+133,133,so what were you calling me about?,greeting
+134,134,"oh, i just wanted to see if you wanted to hang out tomorrow.",greeting
+135,135,"sure, what did you want to do?",greeting
+136,136,maybe we can go see a movie or something.,greeting
+137,137,that sounds like fun. let's do it.,greeting
+138,138,i'll see you tomorrow then.,greeting
+139,139,"hi, how are you. is alice there?",greeting
+140,140,speaking. what's up?,greeting
+141,141,why haven't you answered the phone?,greeting
+142,142,"my bad, i had chores to do.",greeting
+143,143,that's all right.,greeting
+144,144,what was the reason for your call?,greeting
+145,145,i want to do something tomorrow with you.,greeting
+146,146,sounds good. what did you have in mind?,greeting
+147,147,i was thinking about seeing a movie.,greeting
+148,148,"okay, let's go see a movie.",greeting
+149,149,until then.,greeting
+150,150,is alice available?,greeting
+151,151,you're talking to her.,greeting
+152,152,i've called you a hundred times today.,greeting
+153,153,i was busy doing something. i apologize.,greeting
+154,154,no problem.,greeting
+155,155,did you need something?,greeting
+156,156,do you want to do something tomorrow?,greeting
+157,157,is there somewhere special you wanted to go?,greeting
+158,158,how about a movie?,greeting
+159,159,a movie sounds good.,greeting
+160,160,have you seen the new girl in school?,greeting
+161,161,"no, i haven't.",greeting
+162,162,she's really pretty.,greeting
+163,163,describe her to me.,greeting
+164,164,she's not too tall.,greeting
+165,165,"well, how tall is she?",greeting
+166,166,she's about five feet even.,greeting
+167,167,"what does she look like, though?",greeting
+168,168,she has pretty light brown eyes.,greeting
+169,169,i may know which girl you're talking about.,greeting
+170,170,so you have seen her around?,greeting
+171,171,"there's a new girl in school, have you seen her yet?",greeting
+172,172,i haven't seen her yet.,greeting
+173,173,i think that she is very pretty.,greeting
+174,174,tell me how she looks.,greeting
+175,175,she's kind of short.,greeting
+176,176,what height is she?,greeting
+177,177,she's probably about five feet.,greeting
+178,178,"that's nice, but tell me what she looks like.",greeting
+179,179,the first thing i noticed was her beautiful brown eyes.,greeting
+180,180,i think i might've bumped into her before.,greeting
+181,181,are you telling me that you've seen her before?,greeting
+182,182,have you met the new girl?,greeting
+183,183,no. have you?,greeting
+184,184,she's one of the prettiest girls at the school.,greeting
+185,185,what does she look like?,greeting
+186,186,"well, she's quite short.",greeting
+187,187,how tall would you say that she is?,greeting
+188,188,i would say she's only five feet.,greeting
+189,189,what about her facial features?,greeting
+190,190,"she has light brown eyes, absolutely beautiful.",greeting
+191,191,i think i know who you're talking about.,greeting
+192,192,why weren't you at school yesterday?,greeting
+193,193,i wasn't really feeling well.,greeting
+194,194,what was wrong with you?,greeting
+195,195,my stomach was upset.,greeting
+196,196,do you feel better now?,greeting
+197,197,i don't really feel too well yet.,greeting
+198,198,do you want anything to make you feel better?,greeting
+199,199,"no, thanks. i already took some medicine.",greeting
+200,200,i hope you feel better.,greeting
+201,201,what reason do you have for missing school?,greeting
+202,202,i was sick.,greeting
+203,203,how were you sick?,greeting
+204,204,i had a stomachache.,greeting
+205,205,did it get any better?,greeting
+206,206,i'm still feeling under the weather.,greeting
+207,207,would you like anything for your stomach?,greeting
+208,208,i took something earlier.,greeting
+209,209,get better.,greeting
+210,210,why didn't you go to school yesterday?,greeting
+211,211,i stayed home because i wasn't feeling well.,greeting
+212,212,what was your problem?,greeting
+213,213,my stomach was bothering me.,greeting
+214,214,are you feeling any better?,greeting
+215,215,i'm still feeling a little sick.,greeting
+216,216,"i'm going to the store, would you like any pepto bismol?",greeting
+217,217,that's okay.,greeting
+218,218,did you hear the good news?,greeting
+219,219,"no, i haven't.",greeting
+220,220,i got a promotion at my job.,greeting
+221,221,did you really?,greeting
+222,222,"seriously, i am so excited.",greeting
+223,223,"well, congratulations.",greeting
+224,224,thank you.,greeting
+225,225,i'm so happy for you.,greeting
+226,226,really?,greeting
+227,227,yes. you really deserved this.,greeting
+228,228,you think so?,greeting
+229,229,have you heard my good news?,greeting
+230,230,you haven't told me anything yet.,greeting
+231,231,i got a promotion at work earlier this week.,greeting
+232,232,is that right?,greeting
+233,233,it's the truth. i am really happy.,greeting
+234,234,congratulations on your promotion.,greeting
+235,235,thank you very much.,greeting
+236,236,i am really excited for you.,greeting
+237,237,are you really?,greeting
+238,238,i'm serious. you deserved this promotion.,greeting
+239,239,is that what you really think?,greeting
+240,240,"i haven't told you what happened yet, have i?",greeting
+241,241,i haven't heard anything.,greeting
+242,242,"my boss offered me a promotion, and i took it.",greeting
+243,243,are you serious?,greeting
+244,244,"yes, i am really excited.",greeting
+245,245,that's great. congratulations.,greeting
+246,246,i appreciate that.,greeting
+247,247,you have no idea how happy i am for you.,greeting
+248,248,you look really nice today. ,greeting
+249,249,thank you. i just got this outfit the other day.,greeting
+250,250,"really, where did you get it?",greeting
+251,251,i got it from macy's.,greeting
+252,252,it's really nice.,greeting
+253,253,"thanks again. you look nice today, too.",greeting
+254,254,thank you. i just got these shoes today.,greeting
+255,255,really? what kind of shoes are they?,greeting
+256,256,these are called all star chuck taylors.,greeting
+257,257,i really like those. how much did they cost?,greeting
+258,258,they were about forty dollars.,greeting
+259,259,i absolutely love what you're wearing today.,greeting
+260,260,you do? i just bought this outfit a couple days ago.,greeting
+261,261,"seriously, it looks really nice on you. where did you buy it from?",greeting
+262,262,i bought it from the macy's at the santa anita mall.,greeting
+263,263,i really like that outfit.,greeting
+264,264,"thanks. i think you look nice today, too.",greeting
+265,265,thank you. i just bought these new shoes earlier today.,greeting
+266,266,those are nice. what are they?,greeting
+267,267,these are some chucks.,greeting
+268,268,those are great. how much were they?,greeting
+269,269,i got them for forty.,greeting
+270,270,i think that you look very cute today.,greeting
+271,271,is that right? this is a brand new outfit.,greeting
+272,272,what store did you get it from?,greeting
+273,273,i went to macy's and picked it out.,greeting
+274,274,i love your outfit right now.,greeting
+275,275,"well, i think you look nice today too.",greeting
+276,276,thanks. i found these new shoes earlier at the store.,greeting
+277,277,i think that those are some really nice shoes. what kind are they?,greeting
+278,278,these are chucks.,greeting
+279,279,your shoes look really nice. how much did you get them for?,greeting
+280,280,"tell me, what do you enjoy doing in your spare time?",greeting
+281,281,i enjoy drawing and painting.,greeting
+282,282,you know how to draw and paint?,greeting
+283,283,"yes, i do.",greeting
+284,284,when did you learn how to do that?,greeting
+285,285,i learned back in high school.,greeting
+286,286,"oh, so you took an art class?",greeting
+287,287,"yeah, i loved that class.",greeting
+288,288,i see that you're pretty talented.,greeting
+289,289,thank you very much.,greeting
+290,290,i wish i had a talent like that.,greeting
+291,291,what kinds of things do you like to do?,greeting
+292,292,i've always liked to draw and paint.,greeting
+293,293,i didn't know you knew how to draw and paint.,greeting
+294,294,i do it every once in a while.,greeting
+295,295,how long have you known how to do that?,greeting
+296,296,i first learned how to do it in high school.,greeting
+297,297,did you take some sort of art class or something?,greeting
+298,298,that was my favorite class.,greeting
+299,299,you have got to be talented.,greeting
+300,300,thanks.,greeting
+301,301,if only i was talented.,greeting
+302,302,are there any hobbies you do?,greeting
+303,303,"when i have time, i sometimes draw and paint.",greeting
+304,304,"oh, you actually do that?",greeting
+305,305,"every so often, i do.",greeting
+306,306,did you always know how to draw and paint?,greeting
+307,307,i was taught in high school how to draw and paint.,greeting
+308,308,you had an art class?,greeting
+309,309,"exactly, it was my favorite class.",greeting
+310,310,"well, it's good that you're so talented.",greeting
+311,311,i appreciate that.,greeting
+312,312,what's your favorite movie?,greeting
+313,313,my favorite movie is superbad.,greeting
+314,314,"oh, why is that?",greeting
+315,315,it's the funniest movie that i've ever seen.,greeting
+316,316,that's true. it is a very funny movie.,greeting
+317,317,you've seen it before? ,greeting
+318,318,"yes, i saw that movie the first day it came out in theaters.",greeting
+319,319,didn't you laugh through the whole movie? i did.,greeting
+320,320,me too. that movie brought tears to my eyes.,greeting
+321,321,mine too.,greeting
+322,322,i have it on dvd at my house if you want to come over and watch it.,greeting
+323,323,which movie is your favorite to watch?,greeting
+324,324,"i have to say, my favorite movie is superbad.",greeting
+325,325,is that right? why?,greeting
+326,326,"honestly, it is one of the funniest movies i've seen in a long time.",greeting
+327,327,you're right. that movie is hilarious.,greeting
+328,328,i didn't think you saw that movie.,greeting
+329,329,i went to see it the day it came out.,greeting
+330,330,i was laughing through the whole movie.,greeting
+331,331,"i couldn't help laughing, either. ",greeting
+332,332,same here.,greeting
+333,333,i bought the movie. would you like to come to my house and watch it?,greeting
+334,334,"out of every movie that you've seen, which one is your favorite?",greeting
+335,335,i'm going to have to say that superbad is the best movie ever.,greeting
+336,336,"you think so, how come?",greeting
+337,337,"well, superbad is super funny.",greeting
+338,338,"you're not lying, i found that movie absolutely hilarious.",greeting
+339,339,i didn't know that you saw superbad before.,greeting
+340,340,i made sure to be in line to see it the first day it came out.,greeting
+341,341,i couldn't keep from laughing throughout the whole movie.,greeting
+342,342,i was laughing hysterically the whole time; my stomach muscles hurt afterwards.,greeting
+343,343,that's exactly how i felt.,greeting
+344,344,what type of music do you like to listen to?,greeting
+345,345,i like listening to different kinds of music.,greeting
+346,346,"like what, for instance?",greeting
+347,347,i enjoy rock and r&b.,greeting
+348,348,why is that?,greeting
+349,349,i like the different instruments that they use.,greeting
+350,350,that's a good reason to like something.,greeting
+351,351,what kind of music do you enjoy listening to?,greeting
+352,352,i enjoy listening to all kinds of music.,greeting
+353,353,what kind?,greeting
+354,354,i like to listen to rock and r&b.,greeting
+355,355,why do you like that type of music?,greeting
+356,356,i like the kinds of instruments that they use.,greeting
+357,357,i think that's an excellent reason to like something.,greeting
+358,358,what is your favorite kind of music?,greeting
+359,359,i listen to various types of music.,greeting
+360,360,what genres?,greeting
+361,361,i enjoy listening to both rock and r&b.,greeting
+362,362,what interests you in that type of music?,greeting
+363,363,i enjoy the different types of instruments that they use.,greeting
+364,364,did you go to the basketball game on friday?,greeting
+365,365,"no, i couldn't make it.",greeting
+366,366,you missed a really good game.,greeting
+367,367,"oh, really? who won?",greeting
+368,368,our school did. they played really well.,greeting
+369,369,too bad i was busy. i really wanted to go.,greeting
+370,370,"yeah, you should have. it was really exciting.",greeting
+371,371,so what was the score?,greeting
+372,372,the score was 101-98.,greeting
+373,373,"man, that was a really close game.",greeting
+374,374,that's what made it so great.,greeting
+375,375,were you able to attend friday night's basketball game?,greeting
+376,376,i was unable to make it.,greeting
+377,377,you should have been there. it was intense.,greeting
+378,378,is that right. who ended up winning?,greeting
+379,379,our team was victorious.,greeting
+380,380,i wish i was free that night. i'm kind of mad that i didn't go.,greeting
+381,381,it was a great game.,greeting
+382,382,what was the score at the end of the game?,greeting
+383,383,our team won 101-98.,greeting
+384,384,sounds like it was a close game.,greeting
+385,385,that's the reason it was such a great game.,greeting
+386,386,i was meaning to ask you if you saw the basketball game on friday.,greeting
+387,387,"i wanted to go, but i couldn't.",greeting
+388,388,it was a great game.,greeting
+389,389,it's too bad that i couldn't make it. who won?,greeting
+390,390,our team played hard and won.,greeting
+391,391,i really wish i went to the game.,greeting
+392,392,it was the best game ever.,greeting
+393,393,so tell me the final score.,greeting
+394,394,"the other team lost by three points, 101-98. ",greeting
+395,395,it must've been a close game.,greeting
+396,396,what are you doing this weekend?,greeting
+397,397,i'm going to the movies with a friend. how about you?,greeting
+398,398,i'm not sure yet.,greeting
+399,399,"well, did you want to go see a movie with me?",greeting
+400,400,what movie are you going to see?,greeting
+401,401,i'm not sure yet. is there something you want to see?,greeting
+402,402,there's nothing i can think of.,greeting
+403,403,"so, did you want to go?",greeting
+404,404,"no, thanks, maybe another time.",greeting
+405,405,do you know what you're going to do this weekend?,greeting
+406,406,i am going to see a movie with a friend of mine. what about you?,greeting
+407,407,i don't know.,greeting
+408,408,would you like to see a movie with me and my friend?,greeting
+409,409,do you know what movie you're going to watch?,greeting
+410,410,"i don't know, but was there a certain movie you wanted to see?",greeting
+411,411,none that i can think of.,greeting
+412,412,"well, would you like to go?",greeting
+413,413,"thank you for inviting me, but i think i'll pass.",greeting
+414,414,you have any ideas as to what you want to do this weekend?,greeting
+415,415,i'm going to the movie theater with my friend. what are you going to do?,greeting
+416,416,i'm not quite sure yet.,greeting
+417,417,how about you see a movie with me and my friend?,greeting
+418,418,what movie are you and your friend planning on watching?,greeting
+419,419,not sure. is there a movie out that catches your eye?,greeting
+420,420,no good movies come to mind.,greeting
+421,421,have you decided whether or not you would like to go?,greeting
+422,422,did you go to school today?,greeting
+423,423,"yeah, i went to school today. were you there?",greeting
+424,424,"no, i didn't go, i've been sick.",greeting
+425,425,that sucks. did you want the assignments from english class?,greeting
+426,426,"that would be nice, thank you.",greeting
+427,427,"no problem, you're welcome.",greeting
+428,428,i will be glad to do the same for you when you're sick.,greeting
+429,429,have you attended school today?,greeting
+430,430,i attended school today. did you?,greeting
+431,431,i wasn't able to attend school because i was feeling ill.,greeting
+432,432,i'm sorry to hear that. would you like the assignments from english class?,greeting
+433,433,"i would really appreciate that, thanks.",greeting
+434,434,it's no trouble at all.,greeting
+435,435,"if you get sick, i'll return the favor.",greeting
+436,436,have you gone to school today?,greeting
+437,437,i went to school today. did you go to school?,greeting
+438,438,"i couldn't go to school today, i was sick.",greeting
+439,439,that's horrible. i'd be happy to give you the assignments from english class.,greeting
+440,440,"thank you very much, that's kind of you.",greeting
+441,441,don't mention it.,greeting
+442,442,did you hear the news?,greeting
+443,443,what happened?,greeting
+444,444,our cousin went into labor and had her baby last week.,greeting
+445,445,she did? why didn't anyone tell me?,greeting
+446,446,i would've thought that somebody would have told you.,greeting
+447,447,"no, i had no idea.",greeting
+448,448,"well, she did, her baby was 8 pounds 6 ounces.",greeting
+449,449,"oh my god, that's great!",greeting
+450,450,are you going to go and visit her and the baby?,greeting
+451,451,i think that i might.,greeting
+452,452,good! i just thought i'd let you know.,greeting
+453,453,have you heard what happened?,greeting
+454,454,heard what?,greeting
+455,455,debrah already had her baby.,greeting
+456,456,i didn't know that.,greeting
+457,457,i thought you knew.,greeting
+458,458,i honestly didn't know.,greeting
+459,459,the baby was 8 pounds 6 ounces.,greeting
+460,460,that's good to hear.,greeting
+461,461,will you go and visit them?,greeting
+462,462,of course i will.,greeting
+463,463,i just wanted to give you the good news.,greeting
+464,464,have you heard the news?,greeting
+465,465,i haven't heard anything.,greeting
+466,466,debrah had her baby last week.,greeting
+467,467,nobody told me.,greeting
+468,468,i thought you heard.,greeting
+469,469,i really wasn't told anything.,greeting
+470,470,she was a cute 8 pounds 6 ounces.,greeting
+471,471,"wow, how exciting.",greeting
+472,472,"i know, you should really go and see her and the baby.",greeting
+473,473,of course i will.,greeting
+474,474,did you go to school today?,greeting
+475,475,of course. did you?,greeting
+476,476,"i didn't want to, so i didn't.",greeting
+477,477,"that's sad, but have you gone to the movies recently?",greeting
+478,478,that's a switch.,greeting
+479,479,"i'm serious, have you?",greeting
+480,480,"no, i haven't. why?",greeting
+481,481,i really want to go to the movies this weekend.,greeting
+482,482,so go then.,greeting
+483,483,i really don't want to go by myself.,greeting
+484,484,"well anyway, do you plan on going to school tomorrow?",greeting
+485,485,did you make it to school today?,greeting
+486,486,i always do. did you go to school today?,greeting
+487,487,"no, i didn't.",greeting
+488,488,"you should have, but have you seen any movies lately?",greeting
+489,489,that was an odd change of subject.,greeting
+490,490,"maybe it was, but answer the question.",greeting
+491,491,"no, not recently.",greeting
+492,492,i want to go to see a movie this weekend.,greeting
+493,493,what's stopping you then?,greeting
+494,494,i don't want to go alone.,greeting
+495,495,"so, will you be at school tomorrow?",greeting
+496,496,did you even bother to go to school today?,greeting
+497,497,"yeah, i went. did you go?",greeting
+498,498,"no, i didn't feel like it.",greeting
+499,499,"that's nice, have you been to the movies lately?",greeting
+500,500,"no, but that was a random change of subject.",greeting
+501,501,"it may have been random, but have you?",greeting
+502,502,i haven't lately.,greeting
+503,503,i would love to catch a movie this weekend.,greeting
+504,504,"so then, why don't you just go?",greeting
+505,505,i don't want to see a movie by myself.,greeting
+506,506,thanks for coming to see me today.,greeting
+507,507,it's no problem. i was really missing you anyway.,greeting
+508,508,i missed you too.,greeting
+509,509,why haven't you tried to come see me then?,greeting
+510,510,i've been really busy.,greeting
+511,511,doing what?,greeting
+512,512,working.,greeting
+513,513,"i would've come to see you sooner, but i've been busy too.",greeting
+514,514,what have you been doing?,greeting
+515,515,i've been working too.,greeting
+516,516,"well regardless, i'm very happy that you came to see me.",greeting
+517,517,i'm really glad that you came to see me.,greeting
+518,518,i had to. i was missing you a lot.,greeting
+519,519,i was missing you too.,greeting
+520,520,"so, why haven't you visited me?",greeting
+521,521,i've actually been busy lately.,greeting
+522,522,what have you been doing?,greeting
+523,523,i've just been working really hard.,greeting
+524,524,i've also been busy.,greeting
+525,525,tell me what you've been doing.,greeting
+526,526,"basically, i've been working too.",greeting
+527,527,"well whatever, i'm glad you came.",greeting
+528,528,i'm really happy that you came to visit me.,greeting
+529,529,i really missed you a lot.,greeting
+530,530,i've been missing you like crazy.,greeting
+531,531,i don't understand why you haven't come to visit me.,greeting
+532,532,"lately, i've been quite busy.",greeting
+533,533,tell me what you've been up to.,greeting
+534,534,i've really been working a lot lately.,greeting
+535,535,i've been pretty busy myself.,greeting
+536,536,so what have you been up to?,greeting
+537,537,i've just been working a lot.,greeting
+538,538,"hey, did you hear about jessica's party this weekend?",greeting
+539,539,"yeah, but i'm still waiting for my invitation.",greeting
+540,540,oh really? she gave me mine earlier today.,greeting
+541,541,"well, she'll probably just give me my invitation later on today.",greeting
+542,542,"yeah, so are you planning on going?",greeting
+543,543,i think so. it sounds like it's going to be a lot of fun.,greeting
+544,544,"it really does, i can't wait.",greeting
+545,545,what time does the party start?,greeting
+546,546,it starts at 8 o'clock.,greeting
+547,547,"oh, well, how many people has she given invites to so far?",greeting
+548,548,"i'm not sure, but i don't think she's given out that many.",greeting
+549,549,have you heard about jessica's party on saturday?,greeting
+550,550,"i've heard about it, but i'm still waiting for my invitation.",greeting
+551,551,really? i got mine from her this morning.,greeting
+552,552,i'm guessing that she's going to give me my invite today or tomorrow.,greeting
+553,553,"you're probably right, do you intend on going to the party?",greeting
+554,554,i want to. i heard it's going to be really fun.,greeting
+555,555,"i know, it does sound pretty awesome.",greeting
+556,556,"well, when does the party start?",greeting
+557,557,it's supposed to start at about eight.,greeting
+558,558,how many invitations has she given out?,greeting
+559,559,"i really don't know, but i don't think she gave out that many yet.",greeting
+560,560,has anyone told you about jessica's party coming up?,greeting
+561,561,i was told about it already. i'm just waiting for my invitation.,greeting
+562,562,is that right? i already got my invitation from her earlier.,greeting
+563,563,i believe that she will give me the invitation today.,greeting
+564,564,are you even going to go?,greeting
+565,565,"yeah, it sounds like it's going to be the best party of the year.",greeting
+566,566,"exactly, it seems like it's going to be loads of fun.",greeting
+567,567,when exactly does the party start?,greeting
+568,568,the invitation says it starts at 8:00 p.m.,greeting
+569,569,has she given out a lot of invitations yet?,greeting
+570,570,"hey, what's up?",greeting
+571,571,nothing really.,greeting
+572,572,i'm throwing a party on friday.,greeting
+573,573,i didn't realize that.,greeting
+574,574,you didn't?,greeting
+575,575,nobody has told me anything about your party.,greeting
+576,576,did you want to go?,greeting
+577,577,when does it start?,greeting
+578,578,at 8:00 p.m.,greeting
+579,579,i'll be there.,greeting
+580,580,i'd better see you there.,greeting
+581,581,what's going on with you?,greeting
+582,582,fine. what's going on with you?,greeting
+583,583,i'm having a party this friday.,greeting
+584,584,i had no idea.,greeting
+585,585,is that right?,greeting
+586,586,i didn't hear anything about it.,greeting
+587,587,can you go?,greeting
+588,588,what time?,greeting
+589,589,it starts at 8 o'clock.,greeting
+590,590,i'll go.,greeting
+591,591,i hope that i'll see you there.,greeting
+592,592,what's going on?,greeting
+593,593,not much.,greeting
+594,594,"this friday, i'm throwing a party.",greeting
+595,595,oh really? i didn't know that.,greeting
+596,596,are you serious?,greeting
+597,597,i haven't heard anything about it.,greeting
+598,598,can you make it?,greeting
+599,599,what time does it start?,greeting
+600,600,the party starts at 8.,greeting
+601,601,"yeah, i think i'll go.",greeting
+602,602,what's going on?,greeting
+603,603,"nothing really, you?",greeting
+604,604,i'm throwing a party next saturday.,greeting
+605,605,is that right?,greeting
+606,606,"yeah, are you going to come?",greeting
+607,607,"i'm sorry, i can't.",greeting
+608,608,why not?,greeting
+609,609,i don't really want to.,greeting
+610,610,"well, why don't you?",greeting
+611,611,i hate going to parties.,greeting
+612,612,"well, that's okay.",greeting
+613,613,what's up?,greeting
+614,614,"nothing, how about you?",greeting
+615,615,"next saturday, i'm going to have a party.",greeting
+616,616,"oh, really?",greeting
+617,617,you are coming?,greeting
+618,618,probably not.,greeting
+619,619,why is that?,greeting
+620,620,i don't feel like going.,greeting
+621,621,why not?,greeting
+622,622,i really can't stand going to parties.,greeting
+623,623,"i understand, i guess.",greeting
+624,624,what's happening?,greeting
+625,625,"not a lot, what about you?",greeting
+626,626,i'm having a party next saturday.,greeting
+627,627,that's nice.,greeting
+628,628,are you going to be there?,greeting
+629,629,i don't think so.,greeting
+630,630,is there a reason why?,greeting
+631,631,i just really don't want to go.,greeting
+632,632,how come?,greeting
+633,633,i don't really like parties.,greeting
+634,634,what's up?,greeting
+635,635,"nothing much, what's going on?",greeting
+636,636,i'm having a party this friday.,greeting
+637,637,"oh, really? that's nice.",greeting
+638,638,i wanted to see if you wanted to come.,greeting
+639,639,"this friday? sorry, i already have plans.",greeting
+640,640,doing what?,greeting
+641,641,i'm going to dinner with my family.,greeting
+642,642,"i really wanted you to come, but i understand.",greeting
+643,643,"yeah, maybe next time.",greeting
+644,644,i'll hold you to that.,greeting
+645,645,"hey, what's good with you?",greeting
+646,646,not a lot. what about you?,greeting
+647,647,i'm throwing a party on friday.,greeting
+648,648,that sounds like fun.,greeting
+649,649,do you think you can come?,greeting
+650,650,i'm sorry. i'm already doing something this friday.,greeting
+651,651,what are you going to be doing?,greeting
+652,652,my family and i are going to dinner.,greeting
+653,653,i was hoping you would come.,greeting
+654,654,i'll definitely try to make it the next time.,greeting
+655,655,i'd better see you there.,greeting
+656,656,what's going on?,greeting
+657,657,nothing really. how about you?,greeting
+658,658,"a lot, like the party i'm having on friday.",greeting
+659,659,"well, that's cool.",greeting
+660,660,will you be able to make it?,greeting
+661,661,i'm busy this friday. i'm sorry.,greeting
+662,662,what do you have to do?,greeting
+663,663,i'm having dinner with my family,greeting
+664,664,maybe you can come next time.,greeting
+665,665,i'll make sure and come to your next party.,greeting
+666,666,it was nice talking to you.,greeting
+667,667,why are you trying to rush me off the phone?,greeting
+668,668,i really have to go.,greeting
+669,669,why? i still wanted to talk to you.,greeting
+670,670,i have things to do.,greeting
+671,671,like what?,greeting
+672,672,don't be nosey.,greeting
+673,673,i'm not. i just want to know.,greeting
+674,674,"well, it's really none of your business.",greeting
+675,675,that's harsh.,greeting
+676,676,"i'm sorry, but i have to go.",greeting
+677,677,i've enjoyed conversing with you.,greeting
+678,678,is there a reason why you're trying to get off the phone so fast?,greeting
+679,679,i've got to go.,greeting
+680,680,i wasn't done talking to you.,greeting
+681,681,"i have to do some things, and besides, it's not polite to be nosey.",greeting
+682,682,i'm not being nosey. i'm just asking.,greeting
+683,683,i really don't think it's any of your business.,greeting
+684,684,that's not nice.,greeting
+685,685,"i apologize, but i'm getting off the phone now.",greeting
+686,686,i'll talk to you later.,greeting
+687,687,what's the rush?,greeting
+688,688,i have to get off the phone now.,greeting
+689,689,i'm not ready to get off the phone with you.,greeting
+690,690,there are other things i need to take care of.,greeting
+691,691,what is it that you need to do? ,greeting
+692,692,please don't be nosey.,greeting
+693,693,"i'm not being nosey, it's just a question.",greeting
+694,694,you don't need to worry about that.,greeting
+695,695,that was mean to say.,greeting
+696,696,"well, it was nice talking to you.",greeting
+697,697,it was nice talking to you too.,greeting
+698,698,we should really hang out again.,greeting
+699,699,that would be fun.,greeting
+700,700,where do you want to go?,greeting
+701,701,i think we should go out to eat.,greeting
+702,702,that sounds good.,greeting
+703,703,"all right, so i'll see you then.",greeting
+704,704,i'll call you later.,greeting
+705,705,"okay, i'll talk to you later then.",greeting
+706,706,see you later.,greeting
+707,707,i enjoyed talking to you.,greeting
+708,708,i enjoyed talking to you too.,greeting
+709,709,we should hang out some time.,greeting
+710,710,i think that would be nice.,greeting
+711,711,is there anything you would like to do next time?,greeting
+712,712,do you want to go out to eat?,greeting
+713,713,i'd like that.,greeting
+714,714,so i'll see you next time.,greeting
+715,715,i'm going to call you soon. ,greeting
+716,716,i'll talk to you later.,greeting
+717,717,see you soon.,greeting
+718,718,i had fun talking to you.,greeting
+719,719,it was really nice talking to you also.,greeting
+720,720,i think we should really do something sometime.,greeting
+721,721,that should be loads of fun.,greeting
+722,722,what do you want to do next time?,greeting
+723,723,would you like to go to dinner or something?,greeting
+724,724,"yeah, let's do that.",greeting
+725,725,"okay, until next time then.",greeting
+726,726,i'll call you so we can set that up.,greeting
+727,727,talk to you then.,greeting
+728,728,where do you live?,greeting
+729,729,i live in pasadena.,greeting
+730,730,where is pasadena?,greeting
+731,731,it's in california.,greeting
+732,732,is it in northern california?,greeting
+733,733,no. it's in southern california.,greeting
+734,734,is pasadena a big city?,greeting
+735,735,it's pretty big.,greeting
+736,736,"how big is ""pretty big""?",greeting
+737,737,"it has about 140,000 people.",greeting
+738,738,how big is los angeles?,greeting
+739,739,do you have a car?,greeting
+740,740,"yes, i do.",greeting
+741,741,what kind of car do you have?,greeting
+742,742,i have a honda.,greeting
+743,743,is it new?,greeting
+744,744,it was new in 2003.,greeting
+745,745,"so, it's pretty old now.",greeting
+746,746,"yes, it is. but it still looks good.",greeting
+747,747,do you take good care of it?,greeting
+748,748,"oh, yes. i wash it once a week.",greeting
+749,749,do you change the oil?,greeting
+750,750,do you have a girlfriend?,greeting
+751,751,"no, i don't. do you?",greeting
+752,752,"i don't have a girlfriend, either.",greeting
+753,753,why not?,greeting
+754,754,i don't know. maybe i'm not rich enough.,greeting
+755,755,girls like guys with money.,greeting
+756,756,they sure do.,greeting
+757,757,they like guys with new cars.,greeting
+758,758,i don't have money or a new car.,greeting
+759,759,"me, neither.",greeting
+760,760,but girls like guys who are funny.,greeting
+761,761,where are you going?,greeting
+762,762,i have to walk the dog.,greeting
+763,763,what kind of dog do you have?,greeting
+764,764,i have a little poodle.,greeting
+765,765,poodles bark a lot.,greeting
+766,766,they sure do.,greeting
+767,767,they bark at everything.,greeting
+768,768,they never shut up.,greeting
+769,769,why did you get a poodle?,greeting
+770,770,it's my mom's dog.,greeting
+771,771,so she likes poodles.,greeting
+772,772,can i borrow $5?,greeting
+773,773,sure. why do you need it?,greeting
+774,774,i want to buy lunch.,greeting
+775,775,where's your money?,greeting
+776,776,it's not in my wallet.,greeting
+777,777,your wallet is empty?,greeting
+778,778,i don't have even one dollar in it.,greeting
+779,779,being broke is no fun.,greeting
+780,780,even if it's only for a short while.,greeting
+781,781,it's always good to have friends.,greeting
+782,782,friends will lend you money when you're broke.,greeting
+783,783,let's go to the beach.,greeting
+784,784,that's a great idea.,greeting
+785,785,we haven't been in a while.,greeting
+786,786,we haven't been in a month.,greeting
+787,787,"the last time we went, you almost drowned.",greeting
+788,788,"no, i didn't.",greeting
+789,789,then why did the lifeguard dive into the water?,greeting
+790,790,i think he wanted to cool off.,greeting
+791,791,he swam right up to you.,greeting
+792,792,and then he turned right around.,greeting
+793,793,maybe you're right.,greeting
+794,794,are you married?,greeting
+795,795,no. i'm divorced.,greeting
+796,796,when did you get divorced?,greeting
+797,797,i got divorced two years ago.,greeting
+798,798,why did you get divorced?,greeting
+799,799,my wife left me.,greeting
+800,800,why did she leave you?,greeting
+801,801,she said she didn't love me anymore.,greeting
+802,802,wow! that's terrible.,greeting
+803,803,"yes, it was.",greeting
+804,804,why didn't she love you anymore?,greeting
+805,805,i'm bored.,greeting
+806,806,what's on tv?,greeting
+807,807,nothing.,greeting
+808,808,there must be something on tv!,greeting
+809,809,nothing that's interesting.,greeting
+810,810,what about that new game show?,greeting
+811,811,which one?,greeting
+812,812,"""deal or no deal""",greeting
+813,813,tell me you're joking.,greeting
+814,814,i love that show.,greeting
+815,815,i watched it once. that was enough.,greeting
+816,816,i like living here.,greeting
+817,817,i agree. pasadena is a nice city.,greeting
+818,818,it's not too big.,greeting
+819,819,and it's not too small.,greeting
+820,820,it has great weather all year long.,greeting
+821,821,it has the rose parade.,greeting
+822,822,it has beautiful houses.,greeting
+823,823,it has wonderful restaurants.,greeting
+824,824,it has great schools.,greeting
+825,825,it's close to the mountains.,greeting
+826,826,the people are friendly.,greeting
+827,827,we need a new mattress.,greeting
+828,828,what's the matter with this one?,greeting
+829,829,it's not comfortable.,greeting
+830,830,it seems fine to me.,greeting
+831,831,i toss and turn all night.,greeting
+832,832,you should stop drinking coffee.,greeting
+833,833,look at these marks on my arms.,greeting
+834,834,what are they?,greeting
+835,835,they are bites.,greeting
+836,836,did the cat bite you?,greeting
+837,837,no. the bedbugs in that mattress bit me.,greeting
+838,838,my laptop is so slow.,greeting
+839,839,buy a new one.,greeting
+840,840,i would if i had the money.,greeting
+841,841,why is it so slow?,greeting
+842,842,that's a good question.,greeting
+843,843,did you take it to a computer shop?,greeting
+844,844,i would if i had the money.,greeting
+845,845,"well, i guess you have to live with it.",greeting
+846,846,sometimes i want to throw it out the window.,greeting
+847,847,you don't want to do that.,greeting
+848,848,why not?,greeting
+849,849,what's for dinner?,greeting
+850,850,i'm not sure.,greeting
+851,851,how about a pizza?,greeting
+852,852,you had pizza for lunch.,greeting
+853,853,but i love pizza.,greeting
+854,854,everybody loves pizza.,greeting
+855,855,so why can't i have pizza for dinner?,greeting
+856,856,because you need variety.,greeting
+857,857,"what's ""variety?",greeting
+858,858,different thingsÂ—not the same thing all the time.,greeting
+859,859,"you mean, like a pepperoni pizza instead of a cheese pizza?",greeting
+860,860,we need to save money.,greeting
+861,861,why do we need to save money?,greeting
+862,862,because we need to buy a house.,greeting
+863,863,but a house is so expensive.,greeting
+864,864,that's why we need to save money.,greeting
+865,865,how much do we need to save?,greeting
+866,866,we need to save enough for a down payment.,greeting
+867,867,how much is that?,greeting
+868,868,"that's about $30,000.",greeting
+869,869,thirty thousand dollars! that will take forever.,greeting
+870,870,not if we save every penny.,greeting
+871,871,the ocean is so big.,greeting
+872,872,you can't see the end of it.,greeting
+873,873,it goes on and on forever.,greeting
+874,874,"and it's deep, too.",greeting
+875,875,i think it's five miles deep.,greeting
+876,876,are there fish at the bottom?,greeting
+877,877,there are fish at the top and the bottom.,greeting
+878,878,are there more fish or more people?,greeting
+879,879,i think there are more fish.,greeting
+880,880,i'm upset with my mom.,greeting
+881,881,why is that?,greeting
+882,882,i warned her about her new boyfriend. she didn't listen to me.,greeting
+883,883,what happened?,greeting
+884,884,"i gave her $1,000 for her birthday. i told her to spend it on herself.",greeting
+885,885,that was very nice of you.,greeting
+886,886,i found out that she gave it to her new boyfriend.,greeting
+887,887,why did she do that?,greeting
+888,888,he said he would buy her a nice ring.,greeting
+889,889,what's wrong with that?,greeting
+890,890,he went to las vegas. he lost it all gambling.,greeting
+891,891,do animals talk to each other?,greeting
+892,892,of course they talk to each other.,greeting
+893,893,what do they talk about?,greeting
+894,894,they talk about other animals.,greeting
+895,895,what else do they talk about?,greeting
+896,896,they talk about food and the weather.,greeting
+897,897,do they talk about us?,greeting
+898,898,of course they talk about us.,greeting
+899,899,what do they say about us?,greeting
+900,900,they say that we are funny-looking.,greeting
+901,901,ha! we're not funny-looking; animals are funny-looking.,greeting
+902,902,i have to clean the house.,greeting
+903,903,"yes, it's very dirty.",greeting
+904,904,you can help me.,greeting
+905,905,why me?,greeting
+906,906,because you helped make it dirty.,greeting
+907,907,what do you want me to do?,greeting
+908,908,i want you to clean the bathroom.,greeting
+909,909,"oh, that's easy.",greeting
+910,910,"clean the sink, the tub, the counter, and the toilet.",greeting
+911,911,that's a lot of work.,greeting
+912,912,tell me when you finish.,greeting
+913,913,you're watching too much tv.,greeting
+914,914,what do you mean?,greeting
+915,915,i mean you're wasting your life.,greeting
+916,916,i'm having fun.,greeting
+917,917,you're sitting there with your mouth open.,greeting
+918,918,who cares?,greeting
+919,919,i care. do something.,greeting
+920,920,okay. i did something.,greeting
+921,921,what did you do?,greeting
+922,922,i turned up the volume.,greeting
+923,923,"that's not what i meant by ""do something.""",greeting
+924,924,did you write a letter to grandma?,greeting
+925,925,"yes, i did.",greeting
+926,926,did you tell her about school?,greeting
+927,927,i told her that school is fun.,greeting
+928,928,did you put the letter in an envelope?,greeting
+929,929,"yes, and i sealed the envelope.",greeting
+930,930,did you put a stamp on the envelope?,greeting
+931,931,i couldn't find any stamps.,greeting
+932,932,they're in the kitchen drawer.,greeting
+933,933,okay. i just put a stamp on the envelope.,greeting
+934,934,"give me the envelope, and i'll mail it for you.",greeting
+935,935,why are you yawning?,greeting
+936,936,i'm sleepy.,greeting
+937,937,why don't you go to bed?,greeting
+938,938,i want to watch this tv show.,greeting
+939,939,maybe you should record it.,greeting
+940,940,the tape recorder is broken.,greeting
+941,941,then you should watch the rerun.,greeting
+942,942,why? i'm watching the original.,greeting
+943,943,but you'll be asleep in about one minute.,greeting
+944,944,i'm just yawning because the commercials are on.,greeting
+945,945,okay. i'll tell you how the show ends.,greeting
+946,946,it's sunday.,greeting
+947,947,so?,greeting
+948,948,you know what that means.,greeting
+949,949,i forgot.,greeting
+950,950,sunday means we go to church.,greeting
+951,951,"oh, yeah.",greeting
+952,952,put on a coat and tie.,greeting
+953,953,why?,greeting
+954,954,to show respect to god and others.,greeting
+955,955,i'm glad sunday is only once a week.,greeting
+956,956,i hope god didn't hear that.,greeting
+957,957,did you feed the cat?,greeting
+958,958,i'll do that in a minute.,greeting
+959,959,the cat is meowing. he's hungry.,greeting
+960,960,okay. i'll feed him right now.,greeting
+961,961,you shouldn't make him wait.,greeting
+962,962,i was doing my homework.,greeting
+963,963,the cat doesn't care about your homework.,greeting
+964,964,the cat doesn't care about anything.,greeting
+965,965,that's the way cats are.,greeting
+966,966,all they think about is themselves.,greeting
+967,967,maybe we should get rid of him.,greeting
+968,968,i hate shaving.,greeting
+969,969,me too.,greeting
+970,970,i just cut myself again.,greeting
+971,971,did you use a new blade?,greeting
+972,972,"it doesn't matter. old blades cut, new blades cut.",greeting
+973,973,maybe you should use an electric shaver.,greeting
+974,974,"they make a lot of noise, but they don't give a close shave.",greeting
+975,975,maybe you should stop shaving.,greeting
+976,976,and grow a beard?,greeting
+977,977,sure. why not?,greeting
+978,978,because food and other stuff sticks in my beard.,greeting
+979,979,excuse me.,greeting
+980,980,yes?,greeting
+981,981,are you reading this paper?,greeting
+982,982,"oh, no. help yourself.",greeting
+983,983,i asked because the paper is sitting next to you.,greeting
+984,984,thank you. that's polite of you to ask.,greeting
+985,985,some people would just pick it up.,greeting
+986,986,"yes, i know. some people are rude.",greeting
+987,987,i always try to be polite.,greeting
+988,988,so do i.,greeting
+989,989,the world needs more polite people like us.,greeting
+990,990,"mom, i want a puppy.",greeting
+991,991,let me think about it.,greeting
+992,992,why do you have to think about it?,greeting
+993,993,because a puppy costs money.,greeting
+994,994,"no, it doesn't. puppies are free.",greeting
+995,995,"yes, but a puppy needs shots.",greeting
+996,996,shots for what?,greeting
+997,997,so it won't get sick. just like you get shots.,greeting
+998,998,i hate shots.,greeting
+999,999,and a puppy eats food. food costs money.,greeting
+1000,1000,no problem. i'll give him food off my plate.,greeting
+1001,1001,look at all these kittens!,greeting
+1002,1002,how many are there?,greeting
+1003,1003,eight.,greeting
+1004,1004,they're all so cute.,greeting
+1005,1005,"yes, but i can't keep them.",greeting
+1006,1006,what are you going to do with them?,greeting
+1007,1007,i'm going to give them away. do you want one?,greeting
+1008,1008,"yes, i would love one.",greeting
+1009,1009,which one do you want?,greeting
+1010,1010,that one. the one that's all black.,greeting
+1011,1011,"yes, i like that one, too.",greeting
+1012,1012,my parents go to church every sunday.,greeting
+1013,1013,they trust in god.,greeting
+1014,1014,they hope they will go to heaven.,greeting
+1015,1015,they probably will.,greeting
+1016,1016,but no one knows for sure.,greeting
+1017,1017,that's for sure.,greeting
+1018,1018,no one knows what happens after we die.,greeting
+1019,1019,"if we are good, we will be happy in heaven with god.",greeting
+1020,1020,that's what many people believe.,greeting
+1021,1021,"if we are bad, we will be unhappy forever in hell.",greeting
+1022,1022,i don't want to go to hell.,greeting
+1023,1023,my husband died.,greeting
+1024,1024,i'm sorry for you.,greeting
+1025,1025,thank you.,greeting
+1026,1026,when did he die?,greeting
+1027,1027,a couple of months ago.,greeting
+1028,1028,you still miss him.,greeting
+1029,1029,"yes, but i talk to him almost every day.",greeting
+1030,1030,when you go to church?,greeting
+1031,1031,"no, when i call him on his cell phone.",greeting
+1032,1032,what do you mean?,greeting
+1033,1033,i buried him with his cell phone.,greeting
+1034,1034,today is friday the thirteenth.,greeting
+1035,1035,that's a bad day.,greeting
+1036,1036,it's supposed to be unlucky.,greeting
+1037,1037,you're supposed to stay home all day.,greeting
+1038,1038,that's what i do.,greeting
+1039,1039,my friend stayed in a hotel on friday the thirteenth.,greeting
+1040,1040,that was a mistake.,greeting
+1041,1041,he stayed on the thirteenth floor.,greeting
+1042,1042,what happened?,greeting
+1043,1043,someone stole his laptop.,greeting
+1044,1044,he was asking for it.,greeting
+1045,1045,do you really love me?,greeting
+1046,1046,of course.,greeting
+1047,1047,prove it.,greeting
+1048,1048,how can i prove it?,greeting
+1049,1049,take me to dinner.,greeting
+1050,1050,that's it? that's all i have to do?,greeting
+1051,1051,"take me to a nice restaurant, not to mcdonald's.",greeting
+1052,1052,but a nice restaurant costs money.,greeting
+1053,1053,"yes, and you have to make a reservation.",greeting
+1054,1054,that's such a hassle.,greeting
+1055,1055,i knew you didn't love me.,greeting
+1056,1056,my parents are divorced.,greeting
+1057,1057,so are mine.,greeting
+1058,1058,why did your parents get divorced?,greeting
+1059,1059,my father found a new girlfriend.,greeting
+1060,1060,that's too bad.,greeting
+1061,1061,my mother was hurt and angry.,greeting
+1062,1062,she had good reason. what did she do?,greeting
+1063,1063,she told him to drop his girlfriend.,greeting
+1064,1064,what did your father do?,greeting
+1065,1065,he moved out of our house.,greeting
+1066,1066,i guess he really liked his new girlfriend.,greeting
+1067,1067,my grandma's apartment smells funny.,greeting
+1068,1068,so does mine.,greeting
+1069,1069,i think it's an old people's smell.,greeting
+1070,1070,really?,greeting
+1071,1071,"yes. i think when you get old, you begin to smell.",greeting
+1072,1072,like fruit that is too ripe?,greeting
+1073,1073,"yes, just like fruit that is too ripe.",greeting
+1074,1074,but the smell is different.,greeting
+1075,1075,"yes, old people don't smell like fruit.",greeting
+1076,1076,"no, they smell like a thrift shop.",greeting
+1077,1077,"yes, a thrift shop has that same smell.",greeting
+1078,1078,the price of stamps goes up and up.,greeting
+1079,1079,i think stamps used to cost a penny.,greeting
+1080,1080,that was a long time ago.,greeting
+1081,1081,it was before i was born.,greeting
+1082,1082,now a stamp is 42 cents.,greeting
+1083,1083,but in may it will be 44 cents.,greeting
+1084,1084,have you ever lost a letter in the mail?,greeting
+1085,1085,"no, i haven't.",greeting
+1086,1086,neither have i.,greeting
+1087,1087,"so, they do a good job for the money.",greeting
+1088,1088,"yes, they do.",greeting
+1089,1089,a button came off my shirt.,greeting
+1090,1090,what are you going to do?,greeting
+1091,1091,"first, i have to find the button.",greeting
+1092,1092,where did you lose it?,greeting
+1093,1093,i have no idea.,greeting
+1094,1094,a button is hard to find. did you look in your pant cuffs?,greeting
+1095,1095,that's a good idea.,greeting
+1096,1096,i found a button in my pant cuffs one time.,greeting
+1097,1097,"let me look. no, it's not there.",greeting
+1098,1098,many shirts come with an extra button.,greeting
+1099,1099,you're right. this one does have an extra button.,greeting
+1100,1100,i have to go to the bathroom.,greeting
+1101,1101,you drink too much coffee.,greeting
+1102,1102,but i love coffee.,greeting
+1103,1103,"well, it's your life.",greeting
+1104,1104,you eat too much chocolate.,greeting
+1105,1105,i don't think so.,greeting
+1106,1106,have you looked in the mirror?,greeting
+1107,1107,do you think i'm getting fat?,greeting
+1108,1108,i didn't say that.,greeting
+1109,1109,what did you say?,greeting
+1110,1110,i said i have to go to the bathroom.,greeting
+1111,1111,did you do the laundry?,greeting
+1112,1112,"yes, i did.",greeting
+1113,1113,what did you wash?,greeting
+1114,1114,i washed the sheets and towels.,greeting
+1115,1115,what about the pillowcases?,greeting
+1116,1116,"yes, i took them off the pillows and washed them.",greeting
+1117,1117,did you dry everything in the dryer?,greeting
+1118,1118,"yes, i dried everything in the dryer.",greeting
+1119,1119,then what did you do?,greeting
+1120,1120,i folded all the towels.,greeting
+1121,1121,did you put the sheets on the beds?,greeting
+1122,1122,do you listen to the radio?,greeting
+1123,1123,i listen day and night.,greeting
+1124,1124,what do you listen to?,greeting
+1125,1125,mostly talk radio.,greeting
+1126,1126,what's that?,greeting
+1127,1127,people talk about current events.,greeting
+1128,1128,what do they say?,greeting
+1129,1129,they say they want change.,greeting
+1130,1130,what kind of change?,greeting
+1131,1131,they want tax cuts.,greeting
+1132,1132,why do they want tax cuts?,greeting
+1133,1133,"mom, i'm hungry.",greeting
+1134,1134,look in the fridge.,greeting
+1135,1135,i'm looking. there's nothing to eat.,greeting
+1136,1136,are you sure?,greeting
+1137,1137,it's almost empty.,greeting
+1138,1138,i went to the market yesterday.,greeting
+1139,1139,i don't see anything.,greeting
+1140,1140,i bought lots of oranges and apples.,greeting
+1141,1141,i don't want fruit. i want something tasty.,greeting
+1142,1142,eat the fruit. it's good for you.,greeting
+1143,1143,"next time you go to the market, let me go with you.",greeting
+1144,1144,what is there to eat?,greeting
+1145,1145,i don't know. look in the fridge.,greeting
+1146,1146,i think i'll make a sandwich.,greeting
+1147,1147,what kind?,greeting
+1148,1148,a ham sandwich.,greeting
+1149,1149,the bread is in the cabinet.,greeting
+1150,1150,where's the mustard?,greeting
+1151,1151,"it's in the fridge, i think.",greeting
+1152,1152,"oh, yes, here it is. do you want a sandwich?",greeting
+1153,1153,"yes, that sounds nice.",greeting
+1154,1154,how about some potato chips?,greeting
+1155,1155,"it's time for your bath, young lady.",greeting
+1156,1156,"but, mom, i'm not dirty.",greeting
+1157,1157,you need a bath every day.,greeting
+1158,1158,why?,greeting
+1159,1159,because you don't want to smell bad.,greeting
+1160,1160,i don't smell bad.,greeting
+1161,1161,that's what you think.,greeting
+1162,1162,"if i smelled bad, i could smell me.",greeting
+1163,1163,i can smell you.,greeting
+1164,1164,"i can smell you, too.",greeting
+1165,1165,that's my perfume.,greeting
+1166,1166,something's wrong with my computer.,greeting
+1167,1167,exactly what?,greeting
+1168,1168,all i get is a black screen.,greeting
+1169,1169,what's the matter?,greeting
+1170,1170,"i think i know, because this happened before.",greeting
+1171,1171,what happened before?,greeting
+1172,1172,my hard drive crashed.,greeting
+1173,1173,"oh, no. that's bad news.",greeting
+1174,1174,"it sure is, but i'm going to call hp first, just to make sure.",greeting
+1175,1175,will you lose all your files?,greeting
+1176,1176,"no, i always back up my files.",greeting
+1177,1177,i called hp about my computer.,greeting
+1178,1178,what did they say?,greeting
+1179,1179,they said i need a new hard drive.,greeting
+1180,1180,that's too bad. how much is a new one?,greeting
+1181,1181,"it's not too much, only about $85.",greeting
+1182,1182,plus installation?,greeting
+1183,1183,"no, my hard drive is easy to remove and replace.",greeting
+1184,1184,really?,greeting
+1185,1185,"yes, it's just a couple of screws.",greeting
+1186,1186,that's nice.,greeting
+1187,1187,it's a lot better than paying someone $60.,greeting
+1188,1188,what's your email address?,greeting
+1189,1189,it's bluedog123.,greeting
+1190,1190,bluedog123. are you sure that's all?,greeting
+1191,1191,yes.,greeting
+1192,1192,no. that's incomplete.,greeting
+1193,1193,what do you mean?,greeting
+1194,1194,what's your mailing address?,greeting
+1195,1195,"456 cherry drive, pasadena, ca 91170.",greeting
+1196,1196,that's correct.,greeting
+1197,1197,so what's the problem?,greeting
+1198,1198,"bluedog123 is just the street. you have to give me the city, state, and zip code.",greeting
+1199,1199,i'm going to take a nap.,greeting
+1200,1200,you should unplug the phone.,greeting
+1201,1201,that's a good idea.,greeting
+1202,1202,do you want me to wake you in an hour?,greeting
+1203,1203,"no, thanks. just let me sleep until i wake up.",greeting
+1204,1204,i'll start dinner at 6:00.,greeting
+1205,1205,okay. i think i'll be awake by then.,greeting
+1206,1206,"if not, your nose will wake you up.",greeting
+1207,1207,you mean i will smell the food cooking?,greeting
+1208,1208,you might even dream about dinner.,greeting
+1209,1209,i don't think i'm going to dream about anything. i'm really tired.,greeting
+1210,1210,that was a nice funeral.,greeting
+1211,1211,"yes, dad, it was.",greeting
+1212,1212,the son gave a nice speech about his father.,greeting
+1213,1213,"it was long, too.",greeting
+1214,1214,i think it was about 45 minutes long.,greeting
+1215,1215,but it went by fast. it was interesting.,greeting
+1216,1216,i liked it.,greeting
+1217,1217,"i'll give you a speech like that, too.",greeting
+1218,1218,do you think anyone will come to my funeral?,greeting
+1219,1219,of course.,greeting
+1220,1220,i think only the family will be there.,greeting
+1221,1221,yikes! what was that noise?,greeting
+1222,1222,i had to blow my nose.,greeting
+1223,1223,did you have to blow right next to the phone?,greeting
+1224,1224,did you hear that?,greeting
+1225,1225,of course i heard that. i thought a plane had crashed into your house.,greeting
+1226,1226,it wasn't that loud.,greeting
+1227,1227,"i will blow my nose sometime for you, and you'll see.",greeting
+1228,1228,okay. i'll take your word for it.,greeting
+1229,1229,i thought you had an elephant in your house.,greeting
+1230,1230,you're funny.,greeting
+1231,1231,what did you say? i think i've gone deaf.,greeting
+1232,1232,i have lots of friends.,greeting
+1233,1233,really? how many do you have?,greeting
+1234,1234,"i don't know, maybe one hundred.",greeting
+1235,1235,that is a lot of friends. do you have a best friend?,greeting
+1236,1236,of course. i have lots of best friends.,greeting
+1237,1237,how many best friends do you have?,greeting
+1238,1238,i think about twenty-five.,greeting
+1239,1239,hmm. i have only one best friend.,greeting
+1240,1240,i feel sorry for you.,greeting
+1241,1241,i have only a few friends.,greeting
+1242,1242,you must be lonely. i will share my friends with you.,greeting
+1243,1243,don't you ever cheat on me.,greeting
+1244,1244,why would i do that?,greeting
+1245,1245,because men like to cheat.,greeting
+1246,1246,"some men do, but not me.",greeting
+1247,1247,i'm watching you.,greeting
+1248,1248,i'm an open book. watch me all you want.,greeting
+1249,1249,"if i catch you, you'll be sorry.",greeting
+1250,1250,"you won't catch me, because i love you. i'm not a cheater.",greeting
+1251,1251,i will poke your eyes out. ,greeting
+1252,1252,i don't want any other woman.,greeting
+1253,1253,"i will chop your toes off, one by one.",greeting
+1254,1254,i hate to go outside.,greeting
+1255,1255,me too.,greeting
+1256,1256,why do you hate to go outside?,greeting
+1257,1257,i meet too many jerks.,greeting
+1258,1258,i agree.,greeting
+1259,1259,this city is full of jerks.,greeting
+1260,1260,rude people are everywhere.,greeting
+1261,1261,but what can you do?,greeting
+1262,1262,you can yell at them.,greeting
+1263,1263,and they will yell back at you.,greeting
+1264,1264,yelling doesn't do any good.,greeting
+1265,1265,will you look at this form?,greeting
+1266,1266,are you having problems with it?,greeting
+1267,1267,i don't understand some things.,greeting
+1268,1268,let me help you.,greeting
+1269,1269,"what does ""mi"" mean?",greeting
+1270,1270,"""mi"" stands for middle initial.",greeting
+1271,1271,"what does ""mm/dd/yy"" mean?",greeting
+1272,1272,that means month/day/year. use numbers.,greeting
+1273,1273,i don't understand.,greeting
+1274,1274,"for example, if your birth date is january 12, 1987, write 01/12/87.",greeting
+1275,1275,oh. that's simple enough.,greeting
+1276,1276,let's go to the animal shelter.,greeting
+1277,1277,what do you want to do?,greeting
+1278,1278,i want to get a puppy for my son.,greeting
+1279,1279,that will make him so happy.,greeting
+1280,1280,i'll get him one of those little dogs.,greeting
+1281,1281,one that won't grow up too big.,greeting
+1282,1282,and eat too much.,greeting
+1283,1283,do you know which one he would like?,greeting
+1284,1284,"oh, yes, i took him there yesterday. he showed me one that he really liked.",greeting
+1285,1285,i bet you had to drag him away.,greeting
+1286,1286,he wanted to take it home yesterday.,greeting
+1287,1287,what's the weather like?,greeting
+1288,1288,i don't know. i just woke up.,greeting
+1289,1289,why don't you look outside?,greeting
+1290,1290,okay. it looks like rain.,greeting
+1291,1291,why do you say that?,greeting
+1292,1292,the sky is gray.,greeting
+1293,1293,is it raining right now?,greeting
+1294,1294,no.,greeting
+1295,1295,how do you know?,greeting
+1296,1296,the street isn't wet.,greeting
+1297,1297,i have to go shopping today.,greeting
+1298,1298,i can't believe how hot it is.,greeting
+1299,1299,it's not even noon yet.,greeting
+1300,1300,that means it will get hotter.,greeting
+1301,1301,i am dying from the heat.,greeting
+1302,1302,turn on the air conditioner.,greeting
+1303,1303,it doesn't work.,greeting
+1304,1304,what happened?,greeting
+1305,1305,i don't know.,greeting
+1306,1306,did you call the repairman?,greeting
+1307,1307,of course.,greeting
+1308,1308,when is he coming?,greeting
+1309,1309,i'll be glad when winter comes.,greeting
+1310,1310,why is that?,greeting
+1311,1311,because i love the snow.,greeting
+1312,1312,"yes, the snow is fun.",greeting
+1313,1313,last year we made a big snowman.,greeting
+1314,1314,how big was it?,greeting
+1315,1315,it was seven feet tall.,greeting
+1316,1316,how long did it take?,greeting
+1317,1317,it took us all day.,greeting
+1318,1318,did you give him a nose?,greeting
+1319,1319,of course. we gave him a big carrot for a nose.,greeting
+1320,1320,i'm going to the bank.,greeting
+1321,1321,what do you need to do?,greeting
+1322,1322,i need to withdraw some money.,greeting
+1323,1323,how are you going to do that?,greeting
+1324,1324,i'll just use the atm.,greeting
+1325,1325,what's that?,greeting
+1326,1326,it's the automatic teller machine.,greeting
+1327,1327,it gives you money?,greeting
+1328,1328,i just insert my debit card into the machine.,greeting
+1329,1329,and it gives you money?,greeting
+1330,1330,"well, it gives me money, but it's my own money.",greeting
+1331,1331,did you put the blue bin out on the street?,greeting
+1332,1332,"oh, no. i forgot.",greeting
+1333,1333,"well, you'd better take it out front.",greeting
+1334,1334,what time does the recycle truck come by?,greeting
+1335,1335,"it usually gets here at noon on tuesday, which is tomorrow.",greeting
+1336,1336,i'll just take it out to the street tomorrow morning.,greeting
+1337,1337,"oh, no, you don't.",greeting
+1338,1338,what do you mean?,greeting
+1339,1339,every morning you get up late and rush off to work late.,greeting
+1340,1340,do you think i'll forget to do it?,greeting
+1341,1341,"you'll remember to do it, but you won't have time to do it.",greeting
+1342,1342,are you ready?,greeting
+1343,1343,ready for what?,greeting
+1344,1344,ready for the big switch.,greeting
+1345,1345,what are you talking about?,greeting
+1346,1346,the nation is switching to digital tv.,greeting
+1347,1347,oh. of course i'm ready.,greeting
+1348,1348,did you buy the converter?,greeting
+1349,1349,"no, i don't need a converter because i bought a digital tv.",greeting
+1350,1350,how much was that?,greeting
+1351,1351,it was only about $120 for a 13-inch screen.,greeting
+1352,1352,does it pick up any digital channels?,greeting
+1353,1353,people are funny.,greeting
+1354,1354,they sure are.,greeting
+1355,1355,did you hear about the pilot?,greeting
+1356,1356,the one that stole a small plane?,greeting
+1357,1357,"yes, he stole a plane in canada and flew into the u.s.",greeting
+1358,1358,did they catch him?,greeting
+1359,1359,"yes. after two u.s. fighter jets followed him for an hour, he landed on a highway.",greeting
+1360,1360,did he crash?,greeting
+1361,1361,"no, he just landed the plane and walked to a restaurant.",greeting
+1362,1362,did the cops find out why he flew into the u.s.?,greeting
+1363,1363,his life sucked. he was hoping a fighter jet would shoot him down.,greeting
+1364,1364,the police need our help finding a robber.,greeting
+1365,1365,how do you know?,greeting
+1366,1366,the tv news is reporting a bank robbery.,greeting
+1367,1367,do they know what the robber looks like?,greeting
+1368,1368,"yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.",greeting
+1369,1369,what race is he?,greeting
+1370,1370,they didn't say.,greeting
+1371,1371,the tv news doesn't tell us the race anymore.,greeting
+1372,1372,of course not. that would be racist.,greeting
+1373,1373,but how can we identify someone if we don't know their race?,greeting
+1374,1374,don't ask me.,greeting
+1375,1375,don't wipe your nose on your sleeve.,greeting
+1376,1376,but i don't have a tissue.,greeting
+1377,1377,then go find a tissue in the bathroom.,greeting
+1378,1378,i didn't have time to get one from there.,greeting
+1379,1379,your sleeves are not tissues.,greeting
+1380,1380,"but mom, all my friends use their sleeves.",greeting
+1381,1381,that doesn't make it right.,greeting
+1382,1382,i saw dad wipe his nose on his sleeve yesterday.,greeting
+1383,1383,i will talk to your father about that.,greeting
+1384,1384,i bet dad did it all the time when he was my age.,greeting
+1385,1385,your daddy was a good little boy.,greeting
+1386,1386,i'm worried.,greeting
+1387,1387,worried about what?,greeting
+1388,1388,i'm getting married.,greeting
+1389,1389,"you should be happy, not worried.",greeting
+1390,1390,"i am happy, but marriage is a lot of responsibility.",greeting
+1391,1391,"yes, you have to take care of your wife.",greeting
+1392,1392,and i have to take care of our children.,greeting
+1393,1393,are you going to start a family?,greeting
+1394,1394,yes. we want to have a little boy and a little girl.,greeting
+1395,1395,that sounds wonderful.,greeting
+1396,1396,except we can't afford it!,greeting
+1397,1397,i don't get art.,greeting
+1398,1398,or artists.,greeting
+1399,1399,they're in a different world.,greeting
+1400,1400,i saw a painting of a jar that was full of pencils.,greeting
+1401,1401,the artist said the jar was both full and empty.,greeting
+1402,1402,but it was full of pencils! how could he say it was empty?,greeting
+1403,1403,artists see things differently.,greeting
+1404,1404,did you ever see anything that picasso painted?,greeting
+1405,1405,of course! he's world famous.,greeting
+1406,1406,did he ever take art lessons?,greeting
+1407,1407,i can't believe it. i drew paintings like that in third grade.,greeting
+1408,1408,what's the point?,greeting
+1409,1409,the point of what?,greeting
+1410,1410,of living.,greeting
+1411,1411,"who knows? you live, and then you die.",greeting
+1412,1412,we must be here for some reason.,greeting
+1413,1413,maybe we're here to have fun.,greeting
+1414,1414,then why aren't i having fun?,greeting
+1415,1415,because you're thinking too much.,greeting
+1416,1416,so i should stop thinking?,greeting
+1417,1417,stop thinking about what the point is.,greeting
+1418,1418,okay. i'll start thinking about having some fun.,greeting
+1419,1419,beer is a powerful drug.,greeting
+1420,1420,so are cigarettes.,greeting
+1421,1421,which would you prefer?,greeting
+1422,1422,what do you mean?,greeting
+1423,1423,"when you die and go to heaven, they will offer you beer or cigarettes.",greeting
+1424,1424,i could pick only one or the other?,greeting
+1425,1425,"yes. nothing's perfect, not even in heaven.",greeting
+1426,1426,"boy, that's a tough one.",greeting
+1427,1427,"what's so tough about it? of course, i would pick cigarettes.",greeting
+1428,1428,but cigarettes taste much better when you have a cold beer.,greeting
+1429,1429,"well, you can't have everything.",greeting
+1430,1430,my pants have a hole in the front pocket.,greeting
+1431,1431,you shouldn't carry pens in your pocket.,greeting
+1432,1432,yesterday a pen fell through my pants onto my shoe.,greeting
+1433,1433,lucky for you it wasn't a sharp knife.,greeting
+1434,1434,who carries a sharp knife in their pocket?,greeting
+1435,1435,"criminals, of course.",greeting
+1436,1436,"anyway, i have to fix the hole.",greeting
+1437,1437,you can sew it up or use an iron-on patch.,greeting
+1438,1438,tell me about this patch.,greeting
+1439,1439,the patch has glue. the hot iron melts the glue so the patch sticks on.,greeting
+1440,1440,that sounds a lot easier than sewing.,greeting
+1441,1441,do you know any good jokes?,greeting
+1442,1442,i can't remember jokes.,greeting
+1443,1443,neither can i.,greeting
+1444,1444,they go in one ear and out the other.,greeting
+1445,1445,who makes up all these jokes?,greeting
+1446,1446,who knows? but there must be a hundred new ones every day.,greeting
+1447,1447,"yes, just in english alone.",greeting
+1448,1448,i wonder if every language has jokes.,greeting
+1449,1449,of course! people everywhere like good jokes.,greeting
+1450,1450,what do you think people joke about the most?,greeting
+1451,1451,i think most jokes are about women.,greeting
+1452,1452,you're very lucky.,greeting
+1453,1453,why do you say that?,greeting
+1454,1454,you speak two languages.,greeting
+1455,1455,"well, my english isn't perfect.",greeting
+1456,1456,no one speaks perfect english.,greeting
+1457,1457,maybe i will be the first!,greeting
+1458,1458,i've been thinking about learning spanish.,greeting
+1459,1459,spanish is easy. i'll be happy to teach you.,greeting
+1460,1460,how long will it take me to learn?,greeting
+1461,1461,i think it will only take you a year or two.,greeting
+1462,1462,how soon can we begin?,greeting
+1463,1463,do you know what today is?,greeting
+1464,1464,"yes, it's april 22.",greeting
+1465,1465,it's more than just a date.,greeting
+1466,1466,is it your birthday or anniversary?,greeting
+1467,1467,"no, it's earth day.",greeting
+1468,1468,what's that?,greeting
+1469,1469,it's a yearly reminder to take care of our planet.,greeting
+1470,1470,"oh, you mean like reuse things and recycle stuff?",greeting
+1471,1471,"yes. we need to think green, save water, and stop using plastic bags.",greeting
+1472,1472,how about if i take shorter showers?,greeting
+1473,1473,"that's a good idea, because showers waste a lot of water.",greeting
+1474,1474,poetry sucks.,greeting
+1475,1475,i don't know anyone who likes it.,greeting
+1476,1476,"some of it is okay, i guess.",greeting
+1477,1477,"yes, the poems that rhyme and are easy to remember.",greeting
+1478,1478,"like ""one, two, buckle my shoe.""",greeting
+1479,1479,but people still write poems.,greeting
+1480,1480,no one makes any money at it.,greeting
+1481,1481,shakespeare was a poet.,greeting
+1482,1482,did he get rich from his poetry?,greeting
+1483,1483,probably not.,greeting
+1484,1484,poems are a little bit like songs.,greeting
+1485,1485,how smart are you?,greeting
+1486,1486,i don't know. i think i'm average.,greeting
+1487,1487,did you ever take an iq test?,greeting
+1488,1488,"no, i never did. all i know is that i got a's and b's in school.",greeting
+1489,1489,i wish i was really smart.,greeting
+1490,1490,don't be ridiculous.,greeting
+1491,1491,what do you mean?,greeting
+1492,1492,"if you're going to make a wish, wish that you were really rich or famous.",greeting
+1493,1493,don't you ever wonder what it's like to be super-smart?,greeting
+1494,1494,it must be very lonely.,greeting
+1495,1495,why's that?,greeting
+1496,1496,i missed the tv news last night. what was on?,greeting
+1497,1497,nothing that would pass as news.,greeting
+1498,1498,what's the weather going to be like this weekend?,greeting
+1499,1499,"i don't know. whenever the weather comes on, i switch channels.",greeting
+1500,1500,what was the lead story on the news?,greeting
+1501,1501,some actress was in court for driving without a license.,greeting
+1502,1502,what was the second story?,greeting
+1503,1503,some actor married a woman young enough to be his daughter.,greeting
+1504,1504,what was the third story?,greeting
+1505,1505,a bull chased a man in a supermarket.,greeting
+1506,1506,wasn't there anything about octo-mom?,greeting
+1507,1507,what are you going to do about your death?,greeting
+1508,1508,"well, mostly i'll try to avoid it.",greeting
+1509,1509,"i mean, are you going to get buried or cremated?",greeting
+1510,1510,my wife and i will be cremated.,greeting
+1511,1511,are you going to be buried next to each other?,greeting
+1512,1512,"oh, no. our ashes will be shaken into the ocean.",greeting
+1513,1513,you're not going to be buried?,greeting
+1514,1514,a coffin costs too much and takes up too much space.,greeting
+1515,1515,"yes, but it will be in a cemetery where your children can visit you.",greeting
+1516,1516,children seldom visit their parents in a cemetery.,greeting
+1517,1517,"that's true. a cemetery is for dead people, not living people.",greeting
+1518,1518,did you wipe your feet? ,greeting
+1519,1519,"yes, of course i wiped my feet.",greeting
+1520,1520,then why is there mud on the carpet?,greeting
+1521,1521,i don't know. it's not my mud.,greeting
+1522,1522,"well, someone brought it into the house.",greeting
+1523,1523,look at the bottom of my shoesÂ—they're clean.,greeting
+1524,1524,of course they're clean. you left all the mud on the carpet.,greeting
+1525,1525,"okay, i'll get the vacuum cleaner.",greeting
+1526,1526,don't vacuum it now.,greeting
+1527,1527,don't you want me to clean up the mud?,greeting
+1528,1528,wait till it dries. it will be easier to vacuum.,greeting
+1529,1529,what are you getting for your mom?,greeting
+1530,1530,what are you talking about?,greeting
+1531,1531,sunday is mother's day.,greeting
+1532,1532,this sunday?,greeting
+1533,1533,of course. it's all over the news.,greeting
+1534,1534,i thought it was next sunday.,greeting
+1535,1535,"well, you'd better get her something.",greeting
+1536,1536,i'll get her a nice card.,greeting
+1537,1537,is that it?,greeting
+1538,1538,yes. that's all i ever give her.,greeting
+1539,1539,"she raised you, and all you ever give her is a card?",greeting
+1540,1540,i don't like our flag.,greeting
+1541,1541,what's the matter with it?,greeting
+1542,1542,it's too much like other flags.,greeting
+1543,1543,"yes, a lot of flags have stripes.",greeting
+1544,1544,a flag should be pretty.,greeting
+1545,1545,what should our flag look like?,greeting
+1546,1546,it should have a pretty woman on it.,greeting
+1547,1547,that's ridiculous!,greeting
+1548,1548,you don't like pretty women?,greeting
+1549,1549,of course i do. but not on our flag!,greeting
+1550,1550,every nation should have a pretty woman on their flag.,greeting
+1551,1551,i had a busy morning.,greeting
+1552,1552,what did you do?,greeting
+1553,1553,i watered all the plants.,greeting
+1554,1554,you have a lot of plants.,greeting
+1555,1555,then i did my laundry.,greeting
+1556,1556,that takes some time.,greeting
+1557,1557,i took the dog for a walk.,greeting
+1558,1558,i'll bet he enjoyed his walk.,greeting
+1559,1559,i vacuumed the entire house.,greeting
+1560,1560,that's a lot of work.,greeting
+1561,1561,and then i made lunch.,greeting
+1562,1562,i don't have long distance service with my home phone.,greeting
+1563,1563,so how do you make long distance calls?,greeting
+1564,1564,i use a calling card.,greeting
+1565,1565,where do you get that?,greeting
+1566,1566,i buy it at the dollar store.,greeting
+1567,1567,how much is it?,greeting
+1568,1568,it's one dollar for 100 minutes.,greeting
+1569,1569,that's only a penny a minute!,greeting
+1570,1570,it's a great price. but you have to dial a lot of numbers.,greeting
+1571,1571,how many?,greeting
+1572,1572,"first you dial seven numbers, then ten numbers, then ten more numbers.",greeting
+1573,1573,do you go to college?,greeting
+1574,1574,"yes, i do.",greeting
+1575,1575,what college do you go to?,greeting
+1576,1576,i go to pasadena city college.,greeting
+1577,1577,do you like it?,greeting
+1578,1578,"oh, yes, i really like it.",greeting
+1579,1579,why do you like it?,greeting
+1580,1580,because it has great teachers.,greeting
+1581,1581,what else?,greeting
+1582,1582,"i like all my classmates, too.",greeting
+1583,1583,anything else?,greeting
+1584,1584,i lost my new pen.,greeting
+1585,1585,where did you lose it?,greeting
+1586,1586,i don't know.,greeting
+1587,1587,when did you lose it?,greeting
+1588,1588,i think i lost it today. i used it yesterday.,greeting
+1589,1589,did you check all your pockets?,greeting
+1590,1590,i checked all my pockets.,greeting
+1591,1591,did you look in your desk?,greeting
+1592,1592,"yes. it isn't there, either.",greeting
+1593,1593,it's probably around somewhere.,greeting
+1594,1594,"oh, well, it only cost me a dollar.",greeting
+1595,1595,gravity is very important.,greeting
+1596,1596,what is gravity?,greeting
+1597,1597,it's the force that pulls everything down.,greeting
+1598,1598,i don't understand.,greeting
+1599,1599,"if you pour water into a glass, the water goes down into the glass.",greeting
+1600,1600,of course it does.,greeting
+1601,1601,"without gravity, the water would go up.",greeting
+1602,1602,you're joking.,greeting
+1603,1603,"without gravity, you would go up.",greeting
+1604,1604,what do you mean?,greeting
+1605,1605,you would float into the sky like a balloon.,greeting
+1606,1606,i can't read my book.,greeting
+1607,1607,turn on the light.,greeting
+1608,1608,the light is on.,greeting
+1609,1609,open the book.,greeting
+1610,1610,the book is open.,greeting
+1611,1611,see an eye doctor.,greeting
+1612,1612,that's what i need to do.,greeting
+1613,1613,he'll give you a prescription for glasses.,greeting
+1614,1614,i'll make an appointment tomorrow.,greeting
+1615,1615,i'll get the yellow pages for an eye doctor.,greeting
+1616,1616,read the phone number to me.,greeting
+1617,1617,what do you need for school?,greeting
+1618,1618,i need pencils.,greeting
+1619,1619,anything else?,greeting
+1620,1620,i need a notebook.,greeting
+1621,1621,do you need a pen?,greeting
+1622,1622,no. i already have a pen.,greeting
+1623,1623,do you need a calculator?,greeting
+1624,1624,no. the teacher doesn't permit calculators.,greeting
+1625,1625,how about a dictionary?,greeting
+1626,1626,"no, we have a big dictionary in the classroom.",greeting
+1627,1627,"well, i guess that's it.",greeting
+1628,1628,i like this magazine.,greeting
+1629,1629,so do i.,greeting
+1630,1630,"i read it once, and i subscribed.",greeting
+1631,1631,it gives you all the news.,greeting
+1632,1632,all the news in only 50 pages.,greeting
+1633,1633,i like the political cartoons.,greeting
+1634,1634,i like the beautiful photos of the houses for sale.,greeting
+1635,1635,i always read the film reviews.,greeting
+1636,1636,i never miss the food and drink section.,greeting
+1637,1637,i gave a subscription to my parents.,greeting
+1638,1638,me too. they canceled their other news magazines.,greeting
+1639,1639,my pen is out of ink.,greeting
+1640,1640,shake it a couple of times.,greeting
+1641,1641,i shook it. there is no more ink.,greeting
+1642,1642,you can borrow mine.,greeting
+1643,1643,thank you. i'll buy a new one tomorrow.,greeting
+1644,1644,what were you doing?,greeting
+1645,1645,i was writing a letter.,greeting
+1646,1646,who were you writing to?,greeting
+1647,1647,it's to my mom.,greeting
+1648,1648,tell her i said hello.,greeting
+1649,1649,okay. i'll return your pen when i'm done.,greeting
+1650,1650,have you done your homework?,greeting
+1651,1651,not yet.,greeting
+1652,1652,then why are you watching tv?,greeting
+1653,1653,this is my favorite show.,greeting
+1654,1654,go do your homework.,greeting
+1655,1655,"but, mom!",greeting
+1656,1656,you can watch tv after you do your homework.,greeting
+1657,1657,but the show will be over.,greeting
+1658,1658,there will be another show next week.,greeting
+1659,1659,please?,greeting
+1660,1660,you know the rules.,greeting
+1661,1661,i can't wait until i graduate.,greeting
+1662,1662,me too.,greeting
+1663,1663,no more homework.,greeting
+1664,1664,i hate homework.,greeting
+1665,1665,are you going to college?,greeting
+1666,1666,i can't afford it.,greeting
+1667,1667,me neither.,greeting
+1668,1668,so what are you going to do?,greeting
+1669,1669,i'm joining the army.,greeting
+1670,1670,you're kidding. you might get killed.,greeting
+1671,1671,"i don't think so. after i finish, i'll have enough money to go to college.",greeting
+1672,1672,what is your major?,greeting
+1673,1673,english.,greeting
+1674,1674,what are you going to do with an english major?,greeting
+1675,1675,i'm going to be a teacher.,greeting
+1676,1676,high school or middle school?,greeting
+1677,1677,high school.,greeting
+1678,1678,i teach high school english.,greeting
+1679,1679,i didn't know that.,greeting
+1680,1680,i started teaching five years ago.,greeting
+1681,1681,how do you like it?,greeting
+1682,1682,do you see all this gray hair? it was totally black five years ago.,greeting
+1683,1683,parking at school is impossible.,greeting
+1684,1684,i'll say.,greeting
+1685,1685,i drove around for half an hour.,greeting
+1686,1686,did you find a spot?,greeting
+1687,1687,"i found a spot, but someone cut in and took it from me.",greeting
+1688,1688,did you yell at them?,greeting
+1689,1689,"yes, i did.",greeting
+1690,1690,and?,greeting
+1691,1691,and he yelled back at me.,greeting
+1692,1692,how rude.,greeting
+1693,1693,but i got lucky a few minutes later.,greeting
+1694,1694,this is a huge library.,greeting
+1695,1695,"yes, it has lots of rooms and lots of space.",greeting
+1696,1696,and lots of books.,greeting
+1697,1697,and lots of thieves.,greeting
+1698,1698,what do you mean?,greeting
+1699,1699,"i mean, keep your belongings close to you.",greeting
+1700,1700,the only thing in my backpack is used books.,greeting
+1701,1701,but thieves don't know that.,greeting
+1702,1702,they might think that i've got an ipod or laptop in there.,greeting
+1703,1703,now you're thinking.,greeting
+1704,1704,you'd think a library would be safe from thieves.,greeting
+1705,1705,how good is your math?,greeting
+1706,1706,i can add two and two.,greeting
+1707,1707,so you're not very good at math?,greeting
+1708,1708,i'm terrible at math.,greeting
+1709,1709,"well, i need some help.",greeting
+1710,1710,with what?,greeting
+1711,1711,i'm taking a math course in school.,greeting
+1712,1712,"well, you should ask your teacher or your classmates for help.",greeting
+1713,1713,i can't do that.,greeting
+1714,1714,why not?,greeting
+1715,1715,they might think i'm stupid.,greeting
+1716,1716,do you believe in god?,greeting
+1717,1717,of course.,greeting
+1718,1718,do you pray to god?,greeting
+1719,1719,occasionally.,greeting
+1720,1720,when's that?,greeting
+1721,1721,when i need something.,greeting
+1722,1722,like what?,greeting
+1723,1723,"well, if i have a big test at school.",greeting
+1724,1724,does god answer your prayers?,greeting
+1725,1725,"yes, i've passed all my tests.",greeting
+1726,1726,do you ever pray for money?,greeting
+1727,1727,the cops finally found the husband.,greeting
+1728,1728,what husband?,greeting
+1729,1729,the husband of the driver who ran over two college students at 3 a.m.,greeting
+1730,1730,"oh, yeah. the girl died instantly, and the boy is still in the hospital.",greeting
+1731,1731,the husband said he tried to help the boy.,greeting
+1732,1732,"yes, he pushed him off the hood of the car.",greeting
+1733,1733,"no, he said he gently placed the boy on the street.",greeting
+1734,1734,so what? they still drove off.,greeting
+1735,1735,the husband said a fire department was nearby.,greeting
+1736,1736,so what? did he dial 911?,greeting
+1737,1737,"he said he was thinking about it, but he didn't get around to it.",greeting
+1738,1738,i don't like riding the bus.,greeting
+1739,1739,why not?,greeting
+1740,1740,the seats and windows are dirty.,greeting
+1741,1741,don't they clean the bus every night?,greeting
+1742,1742,i think they do.,greeting
+1743,1743,you should bring some wipes with you.,greeting
+1744,1744,that's a good idea.,greeting
+1745,1745,then you can wipe your seat and window.,greeting
+1746,1746,people will think i'm strange.,greeting
+1747,1747,who cares? everyone is strange.,greeting
+1748,1748,that's for sure.,greeting
+1749,1749,i don't like riding the bus.,greeting
+1750,1750,why not?,greeting
+1751,1751,"number one, it's too slow.",greeting
+1752,1752,you're right. a car is faster.,greeting
+1753,1753,"number two, it's usually late.",greeting
+1754,1754,you're right. the buses are never on time.,greeting
+1755,1755,"number three, it doesn't run 24 hours.",greeting
+1756,1756,you're right. buses don't run late at night.,greeting
+1757,1757,"number four, it's too crowded.",greeting
+1758,1758,you're right. you have to stand in the aisle.,greeting
+1759,1759,"number five, it's unsafe.",greeting
+1760,1760,we had a problem at school.,greeting
+1761,1761,what was the problem?,greeting
+1762,1762,someone cut the tires.,greeting
+1763,1763,what tires?,greeting
+1764,1764,the tires on the cars.,greeting
+1765,1765,where were the cars?,greeting
+1766,1766,they were in the student parking lot.,greeting
+1767,1767,how many tires were cut?,greeting
+1768,1768,one or two tires were cut on each car.,greeting
+1769,1769,how many cars?,greeting
+1770,1770,eleven cars.,greeting
+1771,1771,life isn't fair.,greeting
+1772,1772,it sure isn't.,greeting
+1773,1773,i got a ticket yesterday.,greeting
+1774,1774,what for?,greeting
+1775,1775,i was crossing the street.,greeting
+1776,1776,were you in a crosswalk?,greeting
+1777,1777,"yes, but the red hand was blinking.",greeting
+1778,1778,so? that's a ticket?,greeting
+1779,1779,"yes, it's a $140 ticket.",greeting
+1780,1780,that's not right!,greeting
+1781,1781,"when i started to cross the street, the white walk sign was blinking.",greeting
+1782,1782,you're driving too fast.,greeting
+1783,1783,why do you say that?,greeting
+1784,1784,the speed limit is 65.,greeting
+1785,1785,i know that.,greeting
+1786,1786,but you're doing 75.,greeting
+1787,1787,so is everyone else.,greeting
+1788,1788,but a cop might stop you.,greeting
+1789,1789,"no, he won't. some cars are doing 85.",greeting
+1790,1790,so the cop will stop those cars?,greeting
+1791,1791,of course. he stops the fastest cars.,greeting
+1792,1792,my friend got a ticket for doing 75.,greeting
+1793,1793,remember to put air in your tires.,greeting
+1794,1794,how often do i have to do that?,greeting
+1795,1795,once every two months.,greeting
+1796,1796,that's a lot.,greeting
+1797,1797,what do you mean?,greeting
+1798,1798,that's six times a year!,greeting
+1799,1799,"yes, and it takes about five minutes each time.",greeting
+1800,1800,i'll try.,greeting
+1801,1801,check your tires or you'll get a flat.,greeting
+1802,1802,oh. that's not good.,greeting
+1803,1803,"no, it isn't. a flat costs you time and money.",greeting
+1804,1804,you're driving too fast.,greeting
+1805,1805,i'm in a hurry.,greeting
+1806,1806,don't ever be in a hurry.,greeting
+1807,1807,it's not my fault. you didn't wake me up.,greeting
+1808,1808,that's not my fault. you didn't tell me to wake you up.,greeting
+1809,1809,"well, i meant to.",greeting
+1810,1810,don't ever be in a hurry when you're driving.,greeting
+1811,1811,why not?,greeting
+1812,1812,because you'll have an accident. most accidents are because people are in a hurry.,greeting
+1813,1813,how do you know that?,greeting
+1814,1814,i read a lot.,greeting
+1815,1815,let's go for a ride.,greeting
+1816,1816,where are we going?,greeting
+1817,1817,into the mountains.,greeting
+1818,1818,that sounds nice.,greeting
+1819,1819,i want to show you my new car.,greeting
+1820,1820,you bought a new car?,greeting
+1821,1821,yes. i bought a cadillac.,greeting
+1822,1822,a luxury car.,greeting
+1823,1823,luxury plus speed.,greeting
+1824,1824,what are we waiting for?,greeting
+1825,1825,let me get the keys.,greeting
+1826,1826,i have to go to the bathroom.,greeting
+1827,1827,why didn't you go before we left?,greeting
+1828,1828,"i did, but i have to go again.",greeting
+1829,1829,"well, hold on a little longer.",greeting
+1830,1830,i think i'm going to explode.,greeting
+1831,1831,just hold on.,greeting
+1832,1832,oh! don't hit any more bumps!,greeting
+1833,1833,we'll be at mcdonald's in just a few minutes.,greeting
+1834,1834,i hope they are fast minutes.,greeting
+1835,1835,think about something else. think about a hamburger.,greeting
+1836,1836,"i'm thinking, but i still have to go.",greeting
+1837,1837,where's the car?,greeting
+1838,1838,what do you mean?,greeting
+1839,1839,the car isn't here.,greeting
+1840,1840,where did you park it?,greeting
+1841,1841,i parked it right here.,greeting
+1842,1842,are you sure?,greeting
+1843,1843,yes. i remember this big tree.,greeting
+1844,1844,maybe it's the wrong tree.,greeting
+1845,1845,"no, this is the tree.",greeting
+1846,1846,did someone steal it?,greeting
+1847,1847,i sure hope not.,greeting
+1848,1848,look at this traffic.,greeting
+1849,1849,i'd rather not.,greeting
+1850,1850,it gets worse every year.,greeting
+1851,1851,why are you complaining? we're going almost 20 miles an hour.,greeting
+1852,1852,the speed limit is 65!,greeting
+1853,1853,"well, that's between 2:00 and 4:00 a.m.",greeting
+1854,1854,where are all these people going?,greeting
+1855,1855,they're all asking the same question.,greeting
+1856,1856,when are they going to fix this problem?,greeting
+1857,1857,they said they need more money.,greeting
+1858,1858,they always need more money.,greeting
+1859,1859,did you see that car?,greeting
+1860,1860,"yes, he went through the red light.",greeting
+1861,1861,can we call the police?,greeting
+1862,1862,"no, the police don't care.",greeting
+1863,1863,why not?,greeting
+1864,1864,they have to see it happen.,greeting
+1865,1865,they don't believe us?,greeting
+1866,1866,no. they can only give a ticket if they see it happen.,greeting
+1867,1867,"so, what do we do?",greeting
+1868,1868,we don't do anything.,greeting
+1869,1869,maybe we should honk the horn next time.,greeting
+1870,1870,my car is dirty.,greeting
+1871,1871,why don't you wash it?,greeting
+1872,1872,that's what i'm going to do.,greeting
+1873,1873,are you going to wash it yourself?,greeting
+1874,1874,of course. it's not a hard job.,greeting
+1875,1875,i'll help you.,greeting
+1876,1876,"okay, i'll get a bucket.",greeting
+1877,1877,i'll rinse the car first.,greeting
+1878,1878,then we can scrub it with a wet sponge and soap.,greeting
+1879,1879,"after that, we can dry it with a towel.",greeting
+1880,1880,then it will look like new,greeting
+1881,1881,it sure is windy today.,greeting
+1882,1882,paper is flying everywhere.,greeting
+1883,1883,this wind is dangerous for drivers.,greeting
+1884,1884,especially for drivers of big trucks.,greeting
+1885,1885,the wind blows those trucks over.,greeting
+1886,1886,"it blows trees over, too.",greeting
+1887,1887,a tree fell onto my dad's car.,greeting
+1888,1888,was there much damage?,greeting
+1889,1889,my dad had to buy a new car.,greeting
+1890,1890,wow! that's terrible.,greeting
+1891,1891,never park your car under a tree.,greeting
+1892,1892,when are we going to stop?,greeting
+1893,1893,we'll stop at the next mcdonald's.,greeting
+1894,1894,how far away is that?,greeting
+1895,1895,i think we'll be there in half an hour.,greeting
+1896,1896,i hope so. i have to go to the bathroom.,greeting
+1897,1897,"well, i can always pull over.",greeting
+1898,1898,"no, thank you, i'll just wait.",greeting
+1899,1899,we can kill two birds with one stone.,greeting
+1900,1900,what do you mean?,greeting
+1901,1901,"while you're using the bathroom, i'll order some food.",greeting
+1902,1902,don't order for me. i'm not hungry.,greeting
+1903,1903,this is such a long light.,greeting
+1904,1904,look how many cars are waiting in line.,greeting
+1905,1905,they need a left-turn arrow.,greeting
+1906,1906,only two cars can make a left turn every three or four minutes.,greeting
+1907,1907,we'll be here forever.,greeting
+1908,1908,get out of this lane.,greeting
+1909,1909,but we need to turn left.,greeting
+1910,1910,forget it. go straight.,greeting
+1911,1911,then what?,greeting
+1912,1912,then we'll just make a u-turn.,greeting
+1913,1913,and then we can turn right at the light.,greeting
+1914,1914,i need a cheap car.,greeting
+1915,1915,how much money do you have?,greeting
+1916,1916,"$1,000.",greeting
+1917,1917,"well, that should get you something.",greeting
+1918,1918,but i need something that's reliable.,greeting
+1919,1919,you need a car with low mileage.,greeting
+1920,1920,a car that was owned by a little old lady.,greeting
+1921,1921,where have you looked?,greeting
+1922,1922,i haven't looked anywhere yet.,greeting
+1923,1923,why not?,greeting
+1924,1924,because i'll never find one for such a low price.,greeting
+1925,1925,"good afternoon, officer.",greeting
+1926,1926,"your driver's license and registration, please.",greeting
+1927,1927,here you go.,greeting
+1928,1928,do you know why i pulled you over?,greeting
+1929,1929,i have no idea. all of a sudden i heard your siren.,greeting
+1930,1930,you rolled through that stop sign back there.,greeting
+1931,1931,but i stopped!,greeting
+1932,1932,"no, you didn't. you slowed down, but you didn't come to a full stop.",greeting
+1933,1933,"well, nobody else does, so why should i?",greeting
+1934,1934,that's not the attitude of a good driver.,greeting
+1935,1935,but i am a good driver. i've never had a ticket in my life.,greeting
+1936,1936,$140. i can't believe it.,greeting
+1937,1937,what are you talking about?,greeting
+1938,1938,i got a ticket downtown for $140.,greeting
+1939,1939,were you speeding?,greeting
+1940,1940,"no, i was crossing the street.",greeting
+1941,1941,were you jaywalking?,greeting
+1942,1942,"no, i was in the crosswalk.",greeting
+1943,1943,so why did you get a ticket?,greeting
+1944,1944,the officer said the red hand was blinking.,greeting
+1945,1945,was it blinking when you entered the crosswalk?,greeting
+1946,1946,"no, the white walk sign was blinking.",greeting
+1947,1947,they were in a crosswalk near school at 3 a.m.,greeting
+1948,1948,who?,greeting
+1949,1949,two students from usc.,greeting
+1950,1950,what happened?,greeting
+1951,1951,"a speeding car ran a red light, killing the girl.",greeting
+1952,1952,what happened to the other student?,greeting
+1953,1953,he landed on the hood of the car.,greeting
+1954,1954,did he get off the hood?,greeting
+1955,1955,"no, the car stopped and the passenger pushed the injured student off the hood.",greeting
+1956,1956,i'll bet the car continued on its way.,greeting
+1957,1957,of course it did. why stop after you've run over two people?,greeting
+1958,1958,what happened to your car?,greeting
+1959,1959,i got a dent in the parking lot.,greeting
+1960,1960,how did you get it?,greeting
+1961,1961,i don't know. maybe it was from a shopping cart.,greeting
+1962,1962,those shopping carts are dangerous.,greeting
+1963,1963,especially the metal ones.,greeting
+1964,1964,i don't park at a store that uses metal shopping carts.,greeting
+1965,1965,"that's a good idea, but there was a good sale at this store.",greeting
+1966,1966,did you save any money on the sale?,greeting
+1967,1967,"yes, i did. i saved about $50.",greeting
+1968,1968,that's great.,greeting
+1969,1969,"did you see ""titanic""?",greeting
+1970,1970,yes. it is a great movie.,greeting
+1971,1971,i saw it twelve times.,greeting
+1972,1972,i saw it eight times.,greeting
+1973,1973,i have the dvd.,greeting
+1974,1974,so do i.,greeting
+1975,1975,let's go to your home.,greeting
+1976,1976,we can watch my dvd.,greeting
+1977,1977,and then we can go to my home.,greeting
+1978,1978,and watch your dvd.,greeting
+1979,1979,i always cry at the end.,greeting
+1980,1980,let's play cards.,greeting
+1981,1981,i don't know any card games.,greeting
+1982,1982,i'll teach you one.,greeting
+1983,1983,okay. what will you teach me?,greeting
+1984,1984,it's called poker.,greeting
+1985,1985,is it easy to learn?,greeting
+1986,1986,"yes, it will only take about 30 minutes.",greeting
+1987,1987,okay. teach me how to play.,greeting
+1988,1988,we each get five cards.,greeting
+1989,1989,"oh, look. i have four tens.",greeting
+1990,1990,"that's great, but you're not supposed to tell me.",greeting
+1991,1991,i'm a good card player.,greeting
+1992,1992,why is that?,greeting
+1993,1993,because i watch the other players.,greeting
+1994,1994,what do you mean?,greeting
+1995,1995,people will tell you if they have a good hand.,greeting
+1996,1996,how do they do that?,greeting
+1997,1997,"for example, a friend of mine licks his lips.",greeting
+1998,1998,"when he licks his lips, you know he has a good hand?",greeting
+1999,1999,"i know he has a good hand, so i don't bet.",greeting
+2000,2000,he never wins your money?,greeting
+2001,2001,"nope, and it drives him crazy.",greeting
+2002,2002,"turn the radio down, please.",greeting
+2003,2003,but i'm listening to it.,greeting
+2004,2004,"well, listen to it more quietly.",greeting
+2005,2005,i can't wait till i grow up.,greeting
+2006,2006,what will you do?,greeting
+2007,2007,i will play the radio as loud as i want.,greeting
+2008,2008,that's okay with me.,greeting
+2009,2009,i will have a radio in every room of my house.,greeting
+2010,2010,remind me to never visit you.,greeting
+2011,2011,all the radios will be on extra loud.,greeting
+2012,2012,your neighbors will hate you.,greeting
+2013,2013,i hope i win the lotto.,greeting
+2014,2014,your chances are very small.,greeting
+2015,2015,but you can't win if you don't play.,greeting
+2016,2016,ha! you can't win if you do play.,greeting
+2017,2017,someone has to win.,greeting
+2018,2018,that's what everyone says.,greeting
+2019,2019,it might as well be me.,greeting
+2020,2020,that's what everyone says.,greeting
+2021,2021,you're trying to tell me something.,greeting
+2022,2022,that didn't take long.,greeting
+2023,2023,you think i should quit playing.,greeting
+2024,2024,what's on tv?,greeting
+2025,2025,nothing much.,greeting
+2026,2026,what about the baseball game?,greeting
+2027,2027,it got rained out.,greeting
+2028,2028,rained out?,greeting
+2029,2029,"yes, rained out.",greeting
+2030,2030,how could that be?,greeting
+2031,2031,"well, you can't play baseball in a rainstorm.",greeting
+2032,2032,i thought they were playing under a dome.,greeting
+2033,2033,the dome doesn't close.,greeting
+2034,2034,why doesn't it close?,greeting
+2035,2035,can i try your coffee?,greeting
+2036,2036,sure. here you go.,greeting
+2037,2037,"hmm, that's not bad.",greeting
+2038,2038,there's nothing in it.,greeting
+2039,2039,what do you mean?,greeting
+2040,2040,"i mean, it's just coffee.",greeting
+2041,2041,i figured that.,greeting
+2042,2042,it's not too bitter for you?,greeting
+2043,2043,"it's a little bitter, but it's okay.",greeting
+2044,2044,there's no sugar or cream in it.,greeting
+2045,2045,"no, it's a taste you have to get used to.",greeting
+2046,2046,let's take a walk.,greeting
+2047,2047,what's the weather like?,greeting
+2048,2048,let me step outside and see.,greeting
+2049,2049,"it's a little chilly, right?",greeting
+2050,2050,"yes, it is.",greeting
+2051,2051,i'll put on my cap.,greeting
+2052,2052,"wear a jacket, too.",greeting
+2053,2053,i wonder if i should bring my gloves.,greeting
+2054,2054,"maybe you should, just in case it gets colder.",greeting
+2055,2055,i'll put a glove in each pocket.,greeting
+2056,2056,we'll get warmer as we walk.,greeting
+2057,2057,look at the car chase on tv!,greeting
+2058,2058,that driver is crazy.,greeting
+2059,2059,i can't believe he hasn't crashed.,greeting
+2060,2060,how fast is he going?,greeting
+2061,2061,they say he's going 80 miles per hour.,greeting
+2062,2062,he's going to kill someone.,greeting
+2063,2063,look! he just hit that car.,greeting
+2064,2064,"oh, my goodness. no one is safe on the streets.",greeting
+2065,2065,now he's slowing down.,greeting
+2066,2066,maybe he ran out of gas.,greeting
+2067,2067,look! he just got out of the car and started running.,greeting
+2068,2068,tv news is so stupid.,greeting
+2069,2069,they shouldn't even call it news.,greeting
+2070,2070,last night they told us about a cat in a sofa.,greeting
+2071,2071,yesterday they told us about a dog in a pipe.,greeting
+2072,2072,last week they told us about a bear in a back yard.,greeting
+2073,2073,last month they told us about a mouse in a restaurant.,greeting
+2074,2074,the weatherman tells us the temperature in every town.,greeting
+2075,2075,the sports guy shows us players fighting.,greeting
+2076,2076,"they always tell us ""what's next.""",greeting
+2077,2077,"they always make ""what's next"" sound exciting, but it never is.",greeting
+2078,2078,it's more like news for kids.,greeting
+2079,2079,i love my computer.,greeting
+2080,2080,computers are so cool.,greeting
+2081,2081,i love to go online.,greeting
+2082,2082,the internet is amazing.,greeting
+2083,2083,you can travel all over the world.,greeting
+2084,2084,i know. i went to china yesterday.,greeting
+2085,2085,what did you do?,greeting
+2086,2086,i stood on the great wall and looked all around.,greeting
+2087,2087,what was it like?,greeting
+2088,2088,it was like the real thing.,greeting
+2089,2089,it was like being there?,greeting
+2090,2090,the beatles are the best.,greeting
+2091,2091,they are the best musical group ever.,greeting
+2092,2092,i love all their songs.,greeting
+2093,2093,i don't know which one i like the best.,greeting
+2094,2094,i like the ones i can sing along with.,greeting
+2095,2095,"so do i, like ""she loves you.""",greeting
+2096,2096,"""she loves you, yeah, yeah, yeah!...""",greeting
+2097,2097,"""Â…and you know you should be glad!""",greeting
+2098,2098,what a great song.,greeting
+2099,2099,"how about ""let it be?""",greeting
+2100,2100,"oh, yes! ""let it be, let it beÂ…""",greeting
+2101,2101,let's go to a movie.,greeting
+2102,2102,i'd rather not.,greeting
+2103,2103,why not?,greeting
+2104,2104,you know i don't like crowds.,greeting
+2105,2105,let's go to an early movie.,greeting
+2106,2106,"okay, that won't be very crowded.",greeting
+2107,2107,what would you like to see?,greeting
+2108,2108,"oh, i don't care. you're the one who wants to go out.",greeting
+2109,2109,"well, i want to see ""the pursuit of happyness.""",greeting
+2110,2110,what have you heard about it?,greeting
+2111,2111,it's based on a true story about a divorced man and his young son.,greeting
+2112,2112,what's your favorite thing to do?,greeting
+2113,2113,i like to watch people.,greeting
+2114,2114,that's your favorite thing to do?,greeting
+2115,2115,"well, it's one of them.",greeting
+2116,2116,where do you go to watch people?,greeting
+2117,2117,my girlfriend and i sit outside starbucks.,greeting
+2118,2118,that sounds like a good spot.,greeting
+2119,2119,we watch people walk by with their dogs.,greeting
+2120,2120,i guess you see lots of different dogs.,greeting
+2121,2121,we don't even know what kind most of them are.,greeting
+2122,2122,"there are lots of different kinds, but they all have one thing in common.",greeting
+2123,2123,they call him father dollar bill.,greeting
+2124,2124,"yes, he was on the tv news today.",greeting
+2125,2125,every easter sunday he gives away money.,greeting
+2126,2126,is it his money?,greeting
+2127,2127,no. movie stars give him money to give to homeless people.,greeting
+2128,2128,how much money does he give away?,greeting
+2129,2129,"this year he gave away $15,000.",greeting
+2130,2130,that's a lot of money.,greeting
+2131,2131,he gave $100 to people in wheelchairs.,greeting
+2132,2132,what about the other homeless people?,greeting
+2133,2133,they got $1 each.,greeting
+2134,2134,old movies are the best.,greeting
+2135,2135,even though they're in black and white.,greeting
+2136,2136,a good story is more important than color.,greeting
+2137,2137,actors didn't curse back then.,greeting
+2138,2138,and there was no violence.,greeting
+2139,2139,people today don't like that.,greeting
+2140,2140,"no, today people like lots of action.",greeting
+2141,2141,i like a good story.,greeting
+2142,2142,i like to see actors who are like real people.,greeting
+2143,2143,like real people with real problems.,greeting
+2144,2144,they still make movies like that.,greeting
+2145,2145,do you get pbs on tv?,greeting
+2146,2146,"yes, everybody gets the public broadcasting system.",greeting
+2147,2147,it puts me to sleep.,greeting
+2148,2148,tell me about it.,greeting
+2149,2149,a gardening show follows a knitting show.,greeting
+2150,2150,a cooking show follows a sewing show.,greeting
+2151,2151,a travel show follows another travel show.,greeting
+2152,2152,i'll say! i've gone around the world a dozen times already!,greeting
+2153,2153,now they're adding old tv shows to the old movies.,greeting
+2154,2154,i sure would like to see something interesting for a change.,greeting
+2155,2155,"if more people donate money, pbs could offer new shows.",greeting
+2156,2156,"i love to watch ""judge judy.""",greeting
+2157,2157,is that a tv show?,greeting
+2158,2158,yes. it's on every afternoon.,greeting
+2159,2159,what's so good about it?,greeting
+2160,2160,they have interesting lawsuits.,greeting
+2161,2161,such as?,greeting
+2162,2162,"yesterday, a woman complained about a cell phone she bought on ebay.",greeting
+2163,2163,was something wrong with the phone?,greeting
+2164,2164,it works only in canada.,greeting
+2165,2165,did the seller know that?,greeting
+2166,2166,"yes, and he didn't tell the buyer.",greeting
+2167,2167,that woman is a very good singer.,greeting
+2168,2168,"yes, but she looks like a man.",greeting
+2169,2169,what difference does it make?,greeting
+2170,2170,female singers are supposed to be pretty.,greeting
+2171,2171,singers are supposed to sound good.,greeting
+2172,2172,"they should look good, too.",greeting
+2173,2173,there are lots of ugly men singers.,greeting
+2174,2174,men singers don't have to look good.,greeting
+2175,2175,then neither do women singers.,greeting
+2176,2176,"well, i would never buy her cd.",greeting
+2177,2177,but you would buy her cd if she was pretty?,greeting
+2178,2178,all the tv stations are going to go digital.,greeting
+2179,2179,"yes, that will occur next month.",greeting
+2180,2180,most of them are already broadcasting in digital.,greeting
+2181,2181,the digital signal is very clear.,greeting
+2182,2182,"oh, no, it isn't!",greeting
+2183,2183,what do you mean?,greeting
+2184,2184,i can't get a single channel.,greeting
+2185,2185,do you have a digital tv?,greeting
+2186,2186,of course. but i don't have cable.,greeting
+2187,2187,"you don't need to have cable, but you do need a good antenna.",greeting
+2188,2188,but i have rabbit ears.,greeting
+2189,2189,i've got a date for you.,greeting
+2190,2190,"oh, really?",greeting
+2191,2191,are you interested?,greeting
+2192,2192,maybe. what is she like?,greeting
+2193,2193,she's got a great personality.,greeting
+2194,2194,uh-oh. that means that she's fat and ugly.,greeting
+2195,2195,she's cute.,greeting
+2196,2196,"okay, so she's not ugly; she's just fat.",greeting
+2197,2197,she weighs 98 pounds.,greeting
+2198,2198,"okay, she's not fat. so what's the problem with her?",greeting
+2199,2199,who said there is a problem with her?,greeting
+2200,2200,i think you're very pretty.,greeting
+2201,2201,thank you.,greeting
+2202,2202,would you have dinner with me?,greeting
+2203,2203,i would like to.,greeting
+2204,2204,can i pick you up friday night?,greeting
+2205,2205,what time?,greeting
+2206,2206,eight o'clock.,greeting
+2207,2207,that sounds great.,greeting
+2208,2208,we'll go to a french restaurant.,greeting
+2209,2209,i've never been to a french restaurant.,greeting
+2210,2210,i think you'll love the food.,greeting
+2211,2211,you have pretty eyes.,greeting
+2212,2212,thank you. so do you.,greeting
+2213,2213,i wish my eyes were blue.,greeting
+2214,2214,what's the matter with green eyes?,greeting
+2215,2215,"nothing, except my favorite color is blue.",greeting
+2216,2216,maybe in your next life you'll have blue eyes.,greeting
+2217,2217,but what if i'm a fish in my next life?,greeting
+2218,2218,i think some fish have blue eyes.,greeting
+2219,2219,i hope i don't come back as a fish.,greeting
+2220,2220,i hope i come back as a cat.,greeting
+2221,2221,cats have beautiful eyes.,greeting
+2222,2222,i love you.,greeting
+2223,2223,"i love you, too.",greeting
+2224,2224,i loved you the first day i saw you.,greeting
+2225,2225,it was love at first sight?,greeting
+2226,2226,"yes, it was love at first sight.",greeting
+2227,2227,i didn't love you at first.,greeting
+2228,2228,i know. i had to chase you for a while.,greeting
+2229,2229,"yes, you chased me and then you caught me.",greeting
+2230,2230,now you're mine forever.,greeting
+2231,2231,and you're mine forever.,greeting
+2232,2232,we'll grow old together.,greeting
+2233,2233,i'm in love with that girl.,greeting
+2234,2234,have you told her?,greeting
+2235,2235,of course not.,greeting
+2236,2236,why not?,greeting
+2237,2237,she would laugh at me.,greeting
+2238,2238,how do you know?,greeting
+2239,2239,because they always do.,greeting
+2240,2240,maybe she's different.,greeting
+2241,2241,they're all the same.,greeting
+2242,2242,just ask her out to dinner.,greeting
+2243,2243,and then what?,greeting
+2244,2244,give me a hug.,greeting
+2245,2245,i'm not in the mood.,greeting
+2246,2246,what's the matter?,greeting
+2247,2247,i saw you looking at that woman.,greeting
+2248,2248,what woman?,greeting
+2249,2249,"you know, that woman with the big boobs.",greeting
+2250,2250,i was not looking at her.,greeting
+2251,2251,"you were, too.",greeting
+2252,2252,i'm not interested in her.,greeting
+2253,2253,then why were you looking at her?,greeting
+2254,2254,i was looking at something else.,greeting
+2255,2255,would you like to go on a blind date?,greeting
+2256,2256,you must be joking.,greeting
+2257,2257,"no, i'm serious.",greeting
+2258,2258,i don't want to date a blind woman.,greeting
+2259,2259,a blind date doesn't mean that she is blind!,greeting
+2260,2260,what does it mean?,greeting
+2261,2261,a blind date is a date with someone you don't know.,greeting
+2262,2262,why would i date someone i don't even know?,greeting
+2263,2263,to try something new and exciting.,greeting
+2264,2264,what if i don't like her?,greeting
+2265,2265,i have a date tomorrow night.,greeting
+2266,2266,really? who with?,greeting
+2267,2267,a girl i met at the market.,greeting
+2268,2268,you met a girl at the supermarket?,greeting
+2269,2269,she was standing behind me in a really slow line at the checkout counter.,greeting
+2270,2270,what did you say to her?,greeting
+2271,2271,"i had two pineapples in my cart, and she asked where i had found them.",greeting
+2272,2272,she asked you about your pineapples?,greeting
+2273,2273,"i told her i had gotten the last two on the shelf, but i offered her one of mine.",greeting
+2274,2274,that was nice of you.,greeting
+2275,2275,"she asked me how she could return the favor, so i asked her out.",greeting
+2276,2276,did you have a date friday night?,greeting
+2277,2277,"yes, in fact, i did.",greeting
+2278,2278,who did you go out with?,greeting
+2279,2279,a man i met in a coffee shop.,greeting
+2280,2280,where did you go?,greeting
+2281,2281,we went to a nice restaurant.,greeting
+2282,2282,anywhere else?,greeting
+2283,2283,then we went to a jazz club.,greeting
+2284,2284,that sounds like a nice date.,greeting
+2285,2285,"yes, it was pleasant.",greeting
+2286,2286,but you won't date him again?,greeting
+2287,2287,i had the worst date the other night.,greeting
+2288,2288,what happened?,greeting
+2289,2289,"first of all, he was half an hour late.",greeting
+2290,2290,that's not a good start.,greeting
+2291,2291,then he didn't bother to apologize.,greeting
+2292,2292,that's rude.,greeting
+2293,2293,then he drove too fast to the restaurant.,greeting
+2294,2294,that's dangerous.,greeting
+2295,2295,i thought about getting out and taking a taxi home.,greeting
+2296,2296,what happened at the restaurant?,greeting
+2297,2297,"we had a $40 meal, and he left a $1 tip!",greeting
+2298,2298,i don't like that man.,greeting
+2299,2299,why not?,greeting
+2300,2300,he's a dirty old man.,greeting
+2301,2301,what do you mean?,greeting
+2302,2302,"he's old enough to be my father, yet he asked me out.",greeting
+2303,2303,"well, you can't blame a man for asking.",greeting
+2304,2304,he should act his age.,greeting
+2305,2305,but a lot of old people are still interested in dating.,greeting
+2306,2306,they should find a nice hobby.,greeting
+2307,2307,just wait until you're 50 years old.,greeting
+2308,2308,dating will be the furthest thing from my mind.,greeting
+2309,2309,does your girlfriend ever make you angry?,greeting
+2310,2310,sometimes.,greeting
+2311,2311,what does she do?,greeting
+2312,2312,"just yesterday, i told her i wouldn't trade her for all the money in the world.",greeting
+2313,2313,that was a nice thing to say.,greeting
+2314,2314,that's what i thought.,greeting
+2315,2315,what did she say?,greeting
+2316,2316,she laughed! she didn't believe me.,greeting
+2317,2317,that wasn't very nice of her.,greeting
+2318,2318,she said that nothing is more important to me than money.,greeting
+2319,2319,what did you say?,greeting
+2320,2320,some people have good noses.,greeting
+2321,2321,i wish i had a good nose. mine is way too big.,greeting
+2322,2322,i don't mean good-looking. i mean good-smelling.,greeting
+2323,2323,oh. but that can be a curse.,greeting
+2324,2324,"yes, because you can be too sensitive to odors.",greeting
+2325,2325,i'll say. my girlfriend has a nose like a drug dog.,greeting
+2326,2326,did she catch you using drugs?,greeting
+2327,2327,sort of. she knows whenever i sneak a cigarette.,greeting
+2328,2328,you don't need a good nose for thatÂ—cigarettes stink.,greeting
+2329,2329,"but when i sneak just one cigarette in the morning, she can smell it that evening!",greeting
+2330,2330,"boy, that is a good nose.",greeting
+2331,2331,let's go out to eat.,greeting
+2332,2332,that sounds like fun.,greeting
+2333,2333,where do you want to go?,greeting
+2334,2334,let me think a minute.,greeting
+2335,2335,i feel like chinese.,greeting
+2336,2336,that sounds delicious.,greeting
+2337,2337,i know a good chinese restaurant.,greeting
+2338,2338,how far away is it?,greeting
+2339,2339,it's only 10 minutes from here.,greeting
+2340,2340,do we need reservations?,greeting
+2341,2341,"oh, no. we can walk right in.",greeting
+2342,2342,i can't believe how long this line is.,greeting
+2343,2343,"this is a popular restaurant, isn't it?",greeting
+2344,2344,"yes, but it isn't a fast-food restaurant, is it?",greeting
+2345,2345,it's the slowest hamburger in town.,greeting
+2346,2346,that's because they cook it while you wait.,greeting
+2347,2347,yes. that's why it's also the best hamburger in town.,greeting
+2348,2348,a great burger and great service.,greeting
+2349,2349,"yes, the workers are very polite.",greeting
+2350,2350,and they're clean.,greeting
+2351,2351,i've been coming here for years.,greeting
+2352,2352,me too.,greeting
+2353,2353,lunch was delicious.,greeting
+2354,2354,thank you.,greeting
+2355,2355,what kind of soup was that?,greeting
+2356,2356,it was tomato soup.,greeting
+2357,2357,that tasted so good.,greeting
+2358,2358,i put lemon and butter in it.,greeting
+2359,2359,"the sandwich was good, too.",greeting
+2360,2360,everyone likes bacon and tomato sandwiches.,greeting
+2361,2361,especially on toast.,greeting
+2362,2362,"and the pickles were great, too.",greeting
+2363,2363,tomorrow we'll have rice and fish for lunch.,greeting
+2364,2364,i'm calling the waiter.,greeting
+2365,2365,what's the matter?,greeting
+2366,2366,this steak has too much fat.,greeting
+2367,2367,what do you want the waiter to do?,greeting
+2368,2368,bring me a better steak.,greeting
+2369,2369,i wouldn't do that.,greeting
+2370,2370,why not?,greeting
+2371,2371,"they will drop the new steak on the floor, step on it, and then spit on it.",greeting
+2372,2372,you're crazy.,greeting
+2373,2373,then the waiter will give you a big smile as he brings you the new steak.,greeting
+2374,2374,where do you get these crazy ideas?,greeting
+2375,2375,let's leave.,greeting
+2376,2376,but we just got here.,greeting
+2377,2377,did you see the waiter's hands?,greeting
+2378,2378,no.,greeting
+2379,2379,he had dirty fingernails.,greeting
+2380,2380,really?,greeting
+2381,2381,his nails were black!,greeting
+2382,2382,that's disgusting.,greeting
+2383,2383,and he poured water into our glasses.,greeting
+2384,2384,yuck! no water for me.,greeting
+2385,2385,"i wonder if the cooks' nails are dirty, too.",greeting
+2386,2386,this hot bread is delicious.,greeting
+2387,2387,i like this restaurant because they give you free bread.,greeting
+2388,2388,"well, i think we are paying for it.",greeting
+2389,2389,no. look at the bill when we get it. there's no charge for the bread.,greeting
+2390,2390,"it is delicious, especially with butter.",greeting
+2391,2391,i think we should just leave after we fill up on the bread.,greeting
+2392,2392,they probably wouldn't like that.,greeting
+2393,2393,i'm eating so much bread that i'm getting full.,greeting
+2394,2394,then stop eating the bread!,greeting
+2395,2395,"okay, just one more piece. pass the butter, please.",greeting
+2396,2396,"if i owned a restaurant, i would never serve hot bread before the main course.",greeting
+2397,2397,is this a clean restaurant?,greeting
+2398,2398,"well, the tables and chairs look okay.",greeting
+2399,2399,"okay, let's sit down.",greeting
+2400,2400,check out the silverware.,greeting
+2401,2401,it passes inspection.,greeting
+2402,2402,here comes the waiter. see if his hands and nails are clean.,greeting
+2403,2403,"well, the waiter looked clean, so i guess it's okay to eat here.",greeting
+2404,2404,you're forgetting about the bathroom.,greeting
+2405,2405,i'm going to just hope that the bathroom is clean.,greeting
+2406,2406,you're not going to examine it before we order dinner?,greeting
+2407,2407,"no, i'd rather not find out that it's dirty, because i'm pretty hungry right now.",greeting
+2408,2408,have you seen our waiter?,greeting
+2409,2409,here he comes now.,greeting
+2410,2410,we've been sitting here for almost 10 minutes.,greeting
+2411,2411,"oops, i guess i was wrong. that isn't our waiter.",greeting
+2412,2412,"we can give him five more minutes, and then leave.",greeting
+2413,2413,i'll go up front and talk to the manager.,greeting
+2414,2414,that's a good idea.,greeting
+2415,2415,maybe they'll give us free drinks for waiting so long.,greeting
+2416,2416,maybe he'll send us our waiter immediately.,greeting
+2417,2417,"every time we eat out, it's an adventure.",greeting
+2418,2418,"last time, we got seats next to the kitchen.",greeting
+2419,2419,is this table okay?,greeting
+2420,2420,"no, it's too close to the kitchen door.",greeting
+2421,2421,how about this table?,greeting
+2422,2422,"no, it's too close to the front door.",greeting
+2423,2423,this looks like a nice table.,greeting
+2424,2424,"no, it's too close to the salad bar.",greeting
+2425,2425,"okay, i give up.",greeting
+2426,2426,"well, there is one good table.",greeting
+2427,2427,great. which one?,greeting
+2428,2428,i don't believe the art world.,greeting
+2429,2429,what is it this time?,greeting
+2430,2430,an andy warhol drawing.,greeting
+2431,2431,he's a famous artist.,greeting
+2432,2432,he drew two butterflies and a flower on a napkin in a restaurant.,greeting
+2433,2433,did he sign it?,greeting
+2434,2434,yes.,greeting
+2435,2435,is it beautiful?,greeting
+2436,2436,it's just black ink on a white napkin. and the napkin has food stains!,greeting
+2437,2437,so it's not worth much?,greeting
+2438,2438,"only about $30,000.",greeting
+2439,2439,can we go to the baseball game?,greeting
+2440,2440,of course.,greeting
+2441,2441,i love baseball.,greeting
+2442,2442,so do i.,greeting
+2443,2443,i love to eat the peanuts.,greeting
+2444,2444,i love to eat the hot dogs.,greeting
+2445,2445,i hope we'll see a home run.,greeting
+2446,2446,i hope we'll catch a foul ball.,greeting
+2447,2447,bring a jacket.,greeting
+2448,2448,yes. it gets a little cool at night.,greeting
+2449,2449,bring a glove to catch a foul ball.,greeting
+2450,2450,golf is a silly game.,greeting
+2451,2451,it certainly is.,greeting
+2452,2452,you hit a white ball.,greeting
+2453,2453,and then you chase it.,greeting
+2454,2454,and then you hit it again.,greeting
+2455,2455,"finally, you put the ball into a hole in the ground.",greeting
+2456,2456,"you do this 18 times, because there are 18 holes.",greeting
+2457,2457,what's the point?,greeting
+2458,2458,how can it be fun?,greeting
+2459,2459,they pay money to play this silly game!,greeting
+2460,2460,i think golfers have a mental problem.,greeting
+2461,2461,do you want to go fishing?,greeting
+2462,2462,yes. that's a good idea.,greeting
+2463,2463,where do you want to go?,greeting
+2464,2464,we can go to the river.,greeting
+2465,2465,or we can go to the lake.,greeting
+2466,2466,or we can go to the ocean.,greeting
+2467,2467,let's go to the lake.,greeting
+2468,2468,yes. the lake is only 10 miles away.,greeting
+2469,2469,we can be there in 20 minutes.,greeting
+2470,2470,i'll get our fishing rods.,greeting
+2471,2471,i'll get the bait.,greeting
+2472,2472,baseball is fun.,greeting
+2473,2473,i like to hit the ball.,greeting
+2474,2474,i like to run around the bases.,greeting
+2475,2475,i like to slide into the bases.,greeting
+2476,2476,yeah. it's a lot of fun to slide.,greeting
+2477,2477,i want to be a baseball player when i grow up.,greeting
+2478,2478,me too. i want to play for the yankees.,greeting
+2479,2479,not me. i want to play for the dodgers.,greeting
+2480,2480,we have to practice every day.,greeting
+2481,2481,i don't like practice.,greeting
+2482,2482,me neither. it's boring.,greeting
+2483,2483,let's go jogging.,greeting
+2484,2484,that's a good idea.,greeting
+2485,2485,i bought some new shoes.,greeting
+2486,2486,are they comfortable?,greeting
+2487,2487,they're very comfortable.,greeting
+2488,2488,how much were they?,greeting
+2489,2489,they were on sale for $80.,greeting
+2490,2490,do they help you run faster?,greeting
+2491,2491,"no, but my feet don't hurt anymore.",greeting
+2492,2492,then they're worth every penny.,greeting
+2493,2493,you might want to buy a pair.,greeting
+2494,2494,tiger is the greatest golfer in the world.,greeting
+2495,2495,you can say that again.,greeting
+2496,2496,but i'm worried about tiger.,greeting
+2497,2497,why is that?,greeting
+2498,2498,because he likes to scuba dive.,greeting
+2499,2499,what's wrong with that?,greeting
+2500,2500,it can be dangerous.,greeting
+2501,2501,you mean he could drown.,greeting
+2502,2502,he shouldn't scuba dive until he retires.,greeting
+2503,2503,but he dives to relax.,greeting
+2504,2504,"he might relax, but it makes me nervous.",greeting
+2505,2505,did you watch that golf tournament?,greeting
+2506,2506,the one that tiger won?,greeting
+2507,2507,how did he do it?,greeting
+2508,2508,it was nothing for him.,greeting
+2509,2509,he sank a 20-foot putt on the last hole to win by one stroke!,greeting
+2510,2510,he sank a 25-footer last year at the same tournament to win by one stroke.,greeting
+2511,2511,i think he is from outer space.,greeting
+2512,2512,no human could possibly play golf that well.,greeting
+2513,2513,"whenever he needs a shot to win a tournament, he makes that shot.",greeting
+2514,2514,no human can do that.,greeting
+2515,2515,somebody should check his birth record.,greeting
+2516,2516,who's the greatest baseball player?,greeting
+2517,2517,there are so many great players.,greeting
+2518,2518,"yes, but who is the greatest?",greeting
+2519,2519,i'd have to say babe ruth.,greeting
+2520,2520,most people would say that.,greeting
+2521,2521,he changed the game.,greeting
+2522,2522,"yes, he made the home run popular.",greeting
+2523,2523,"everybody loved him, all over the nation.",greeting
+2524,2524,he helped make the yankees the best team ever.,greeting
+2525,2525,"and ruth was a good person, too.",greeting
+2526,2526,he always visited hospitals to cheer up sick kids.,greeting
+2527,2527,did you hear what happened at the baseball game?,greeting
+2528,2528,"no, please tell me.",greeting
+2529,2529,someone punched out someone.,greeting
+2530,2530,that's not nice.,greeting
+2531,2531,it's worse than that.,greeting
+2532,2532,how so?,greeting
+2533,2533,two guys got into an argument.,greeting
+2534,2534,i'll bet they were drinking.,greeting
+2535,2535,a third guy punched one of the two guys.,greeting
+2536,2536,"i'll bet he was drinking, too.",greeting
+2537,2537,the victim hit his head on the concrete steps and died.,greeting
+2538,2538,i want to go to the ball game.,greeting
+2539,2539,is there a game tonight?,greeting
+2540,2540,"yes, it starts at 7 p.m.",greeting
+2541,2541,can we get tickets?,greeting
+2542,2542,"yes, but only the cheap tickets.",greeting
+2543,2543,how much are they?,greeting
+2544,2544,they're only $5 each.,greeting
+2545,2545,that's a good price.,greeting
+2546,2546,"yes, it's cheaper than a hot dog or a beer.",greeting
+2547,2547,where are the seats?,greeting
+2548,2548,they're behind the outfield.,greeting
+2549,2549,golf is so hard.,greeting
+2550,2550,what's so hard about hitting a little white ball?,greeting
+2551,2551,it's hard if you want to do it right.,greeting
+2552,2552,you mean like tiger?,greeting
+2553,2553,"no, like a good amateur golfer.",greeting
+2554,2554,what's so hard about golf?,greeting
+2555,2555,there are so many things you have to do right.,greeting
+2556,2556,like what?,greeting
+2557,2557,"like keep your left arm straight, keep your head down, and follow through.",greeting
+2558,2558,yikes! who can remember all that?,greeting
+2559,2559,you need to get a lot of lessons when you're really young.,greeting
+2560,2560,did you hear about the ball player?,greeting
+2561,2561,the home run hitter on drugs?,greeting
+2562,2562,he said a doctor helped him with a personal problem.,greeting
+2563,2563,he said he wasn't using drugs.,greeting
+2564,2564,he apologized to the fans.,greeting
+2565,2565,the league suspended him for 50 games.,greeting
+2566,2566,that will cost him some money.,greeting
+2567,2567,"yes, about $7 million.",greeting
+2568,2568,that will teach him a good lesson.,greeting
+2569,2569,he probably won't use drugs anymore.,greeting
+2570,2570,but it won't stop other players from using drugs.,greeting
+2571,2571,why is there so much crime?,greeting
+2572,2572,because parents don't teach their kids right from wrong.,greeting
+2573,2573,is that it?,greeting
+2574,2574,"also, there aren't enough police.",greeting
+2575,2575,but there are a lot of police.,greeting
+2576,2576,there's only one police officer per 100 criminals.,greeting
+2577,2577,can't we hire more police?,greeting
+2578,2578,no. it costs too much money.,greeting
+2579,2579,doesn't crime cost more than police?,greeting
+2580,2580,"yes, it does.",greeting
+2581,2581,so it would be cheaper to hire more police?,greeting
+2582,2582,this is a great neighborhood.,greeting
+2583,2583,"yes, it is.",greeting
+2584,2584,people are friendly.,greeting
+2585,2585,"yes, they are.",greeting
+2586,2586,the streets and sidewalks are clean.,greeting
+2587,2587,"yes, they are.",greeting
+2588,2588,there's a real nice park nearby.,greeting
+2589,2589,"yes, there is.",greeting
+2590,2590,i feel safe here.,greeting
+2591,2591,there is no crime here.,greeting
+2592,2592,i wish i could move here.,greeting
+2593,2593,the house burned down.,greeting
+2594,2594,what happened?,greeting
+2595,2595,the man fell asleep.,greeting
+2596,2596,was he smoking?,greeting
+2597,2597,"yes, he was smoking a cigarette.",greeting
+2598,2598,did he die?,greeting
+2599,2599,"yes, he did. his cat died, too.",greeting
+2600,2600,that's too bad. what about his smoke alarm?,greeting
+2601,2601,the battery was dead.,greeting
+2602,2602,a good battery would have saved his life.,greeting
+2603,2603,"he had cigarettes, but no battery.",greeting
+2604,2604,they say he has started fifteen big fires.,greeting
+2605,2605,he's been in jail three times already.,greeting
+2606,2606,why did they ever let him out?,greeting
+2607,2607,it's the law. they can't keep him in jail forever.,greeting
+2608,2608,why not? everyone knows he's a firebug. he loves to start fires.,greeting
+2609,2609,i don't know. sometimes the law doesn't make sense.,greeting
+2610,2610,but his latest fire killed someone.,greeting
+2611,2611,this time they have charged him with murder.,greeting
+2612,2612,so maybe he'll go to jail forever?,greeting
+2613,2613,i sure hope so.,greeting
+2614,2614,someone should set him on fire.,greeting
+2615,2615,put your seatbelt on.,greeting
+2616,2616,why?,greeting
+2617,2617,because it will protect you in case of an accident.,greeting
+2618,2618,but it's uncomfortable.,greeting
+2619,2619,it's the law.,greeting
+2620,2620,it's so much trouble.,greeting
+2621,2621,it's common sense.,greeting
+2622,2622,it's so tight that it's hard for me to breathe.,greeting
+2623,2623,hold your breath till we get there.,greeting
+2624,2624,"okay, my seatbelt is on.",greeting
+2625,2625,i'm glad you don't complain very much.,greeting
+2626,2626,what are you doing?,greeting
+2627,2627,i'm going to change the light bulb. it burnt out.,greeting
+2628,2628,what are you standing on?,greeting
+2629,2629,a couple of dictionaries and some textbooks.,greeting
+2630,2630,are you crazy?,greeting
+2631,2631,what's the matter?,greeting
+2632,2632,those books will slip and you'll fall.,greeting
+2633,2633,it's only a couple of feet.,greeting
+2634,2634,"what if you fall while you're holding the light bulb, and it breaks and pieces go into your eyes?",greeting
+2635,2635,i never thought about that.,greeting
+2636,2636,you'd be blind for the rest of your life!,greeting
+2637,2637,did you see that puddle of water on the floor?,greeting
+2638,2638,yes. i called for a clean-up.,greeting
+2639,2639,a puddle of water is very dangerous.,greeting
+2640,2640,it isn't easy to see.,greeting
+2641,2641,but it's real easy to slip on.,greeting
+2642,2642,especially on these slick floors.,greeting
+2643,2643,someone who slips could hurt their back.,greeting
+2644,2644,they could even crack their head open.,greeting
+2645,2645,we should stand here till the clean-up person gets here.,greeting
+2646,2646,we can leave if we put an orange cone here.,greeting
+2647,2647,"yes, but i don't know where the orange cones are.",greeting
+2648,2648,what happens when the fire alarm rings?,greeting
+2649,2649,we tell our students to leave the classroom.,greeting
+2650,2650,can they take their belongings?,greeting
+2651,2651,"yes, if they do it quickly.",greeting
+2652,2652,where do the students go?,greeting
+2653,2653,they go out to the north parking lot.,greeting
+2654,2654,what do the teachers do?,greeting
+2655,2655,we take our rosters to the parking lot and take roll.,greeting
+2656,2656,why do you do that?,greeting
+2657,2657,we want to make sure all the students are out of the building.,greeting
+2658,2658,"if they are all outside, then what?",greeting
+2659,2659,i have to go back upstairs.,greeting
+2660,2660,why? we're already late.,greeting
+2661,2661,i have to check the stove.,greeting
+2662,2662,what's the matter?,greeting
+2663,2663,maybe i left the burner on.,greeting
+2664,2664,"no, you didn't. i checked the stove before we left.",greeting
+2665,2665,are you sure?,greeting
+2666,2666,of course i'm sure.,greeting
+2667,2667,"well, i have to go back upstairs anyway.",greeting
+2668,2668,it's getting later every minute.,greeting
+2669,2669,i think i left the water running.,greeting
+2670,2670,the city is buying guns.,greeting
+2671,2671,what are they paying?,greeting
+2672,2672,"up to $200 for each gun, no questions asked.",greeting
+2673,2673,why are they doing this?,greeting
+2674,2674,they want to get guns off the street.,greeting
+2675,2675,who would turn in a gun for $200?,greeting
+2676,2676,that isn't a good deal?,greeting
+2677,2677,a good gun costs $400 or more.,greeting
+2678,2678,"well, if you bring your receipt, maybe they'll give you $400.",greeting
+2679,2679,i'll keep my receipt and my gun.,greeting
+2680,2680,i didn't know you had a gun.,greeting
+2681,2681,you're yawning.,greeting
+2682,2682,i sure am.,greeting
+2683,2683,you should go to bed.,greeting
+2684,2684,i will as soon as i finish this article.,greeting
+2685,2685,what are you reading?,greeting
+2686,2686,it's about crime in los angeles.,greeting
+2687,2687,what does it say?,greeting
+2688,2688,the mayor says the crime rate is going down.,greeting
+2689,2689,then why does everyone lock their doors?,greeting
+2690,2690,i guess they haven't read this article.,greeting
+2691,2691,no one believes that the crime rate is going down.,greeting
+2692,2692,people who live in california are crazy.,greeting
+2693,2693,why is that?,greeting
+2694,2694,because of all the earthquakes and fires.,greeting
+2695,2695,but big earthquakes happen only once in a while.,greeting
+2696,2696,once in a while is once too many.,greeting
+2697,2697,but you're right. there are a lot of fires.,greeting
+2698,2698,a recent fire destroyed 85 homes.,greeting
+2699,2699,"still, it's safer than florida.",greeting
+2700,2700,florida doesn't have earthquakes or fires.,greeting
+2701,2701,"no, florida just has hurricanes every year from june to october.",greeting
+2702,2702,but most of those hurricanes are harmless.,greeting
+2703,2703,i went to hawaii on vacation.,greeting
+2704,2704,did you like it?,greeting
+2705,2705,i loved it. i want to live there.,greeting
+2706,2706,what did you like?,greeting
+2707,2707,"the island is so green, and the water is so blue.",greeting
+2708,2708,did you go swimming?,greeting
+2709,2709,i went to the beach every day.,greeting
+2710,2710,how was the weather?,greeting
+2711,2711,it was hot and sunny every day.,greeting
+2712,2712,what did you do at night?,greeting
+2713,2713,at night i went out to eat. the food was delicious.,greeting
+2714,2714,i like this hotel.,greeting
+2715,2715,what do you like about it?,greeting
+2716,2716,we get a free breakfast.,greeting
+2717,2717,coffee and a roll?,greeting
+2718,2718,"no, a real breakfast.",greeting
+2719,2719,bacon and eggs?,greeting
+2720,2720,"with toast, ham, sausage, fresh fruit, and juice.",greeting
+2721,2721,wow! that is nice. let's stay for two nights.,greeting
+2722,2722,"and the rooms are clean, too.",greeting
+2723,2723,do they allow pets?,greeting
+2724,2724,"no pets, no smoking.",greeting
+2725,2725,i'm not sleeping here tonight.,greeting
+2726,2726,what's the matter? this is a nice room.,greeting
+2727,2727,"maybe the room is nice, but not the bed.",greeting
+2728,2728,what's wrong with the bed?,greeting
+2729,2729,look at this sheet.,greeting
+2730,2730,yes?,greeting
+2731,2731,see those stains?,greeting
+2732,2732,i sure do.,greeting
+2733,2733,i'm not sleeping on that sheet.,greeting
+2734,2734,"well, just call the front desk. they'll give us new sheets.",greeting
+2735,2735,i want sheets without stains on them.,greeting
+2736,2736,what time does your plane leave?,greeting
+2737,2737,it leaves at 12:15.,greeting
+2738,2738,when do you have to be at the airport?,greeting
+2739,2739,i have to be there two hours early.,greeting
+2740,2740,so we have to be at the airport at 10:15.,greeting
+2741,2741,that means we have to leave the house at 9:15.,greeting
+2742,2742,"well, it's an hour to get there, if there are no traffic problems.",greeting
+2743,2743,so maybe we better leave at 8:15?,greeting
+2744,2744,"yes, it's better to get there too early than too late.",greeting
+2745,2745,i agree.,greeting
+2746,2746,you never know what might happen on these freeways.,greeting
+2747,2747,i need to fly to new york.,greeting
+2748,2748,when are you going?,greeting
+2749,2749,during the christmas holidays.,greeting
+2750,2750,you'd better buy your ticket now.,greeting
+2751,2751,you must be kidding.,greeting
+2752,2752,"no, i'm not. it's march. time is running out. seats are selling out right now.",greeting
+2753,2753,i thought i would wait until october.,greeting
+2754,2754,i'll bet this is the first time you've ever flown during christmas.,greeting
+2755,2755,you're right.,greeting
+2756,2756,"well, listen to me. you need to buy a ticket now.",greeting
+2757,2757,but maybe prices will be cheaper in october.,greeting
+2758,2758,i hate flying.,greeting
+2759,2759,so do i.,greeting
+2760,2760,"a long time ago, flying used to be okay.",greeting
+2761,2761,now it's like riding a bus.,greeting
+2762,2762,you're jammed in with people all around you.,greeting
+2763,2763,"half of them are coughing, and the other half are sneezing.",greeting
+2764,2764,you don't have any elbow room or knee room.,greeting
+2765,2765,people are always getting up to use the bathroom.,greeting
+2766,2766,kids are crying or climbing over you.,greeting
+2767,2767,it's a flying zoo!,greeting
+2768,2768,i wish i could afford first class seats.,greeting
+2769,2769,some guy rowed across the atlantic ocean.,greeting
+2770,2770,good for him.,greeting
+2771,2771,why would he do that?,greeting
+2772,2772,did he set a new record?,greeting
+2773,2773,"yes, i think he did.",greeting
+2774,2774,"well, i guess that's why he did it.",greeting
+2775,2775,what's the point?,greeting
+2776,2776,now he has the world record!,greeting
+2777,2777,"but someone's going to break it, so what good is it?",greeting
+2778,2778,"well, he can enjoy it while it lasts.",greeting
+2779,2779,i don't think he even got paid for it.,greeting
+2780,2780,i want to go on a cruise ship.,greeting
+2781,2781,that sounds like fun. where do you want to go?,greeting
+2782,2782,i want to cruise to hawaii.,greeting
+2783,2783,"that should be a nice trip. lots of fun, and lots of food.",greeting
+2784,2784,i have no idea how much it will cost.,greeting
+2785,2785,i think it depends on the season and on your cabin.,greeting
+2786,2786,"well, of course i want to go when the weather is nice.",greeting
+2787,2787,"yes, you don't want to travel in winter storms.",greeting
+2788,2788,and i want to get a big cabin with a view.,greeting
+2789,2789,are you going to travel alone?,greeting
+2790,2790,"no, my sister and i will travel together.",greeting
+2791,2791,i hate to fly.,greeting
+2792,2792,because of all the security?,greeting
+2793,2793,"no, because it hurts my ears.",greeting
+2794,2794,what do you mean?,greeting
+2795,2795,"every time we land or take off, my ears hurt so much.",greeting
+2796,2796,"that's just the altitude change, i think.",greeting
+2797,2797,"whatever it is, it hurts.",greeting
+2798,2798,can't you take medicine or something for it?,greeting
+2799,2799,"i've tried everything, but nothing works.",greeting
+2800,2800,have you tried earplugs?,greeting
+2801,2801,"they don't work, either.",greeting
+2802,2802,spring break starts tomorrow.,greeting
+2803,2803,are you going to go anywhere?,greeting
+2804,2804,i was thinking of driving to arizona.,greeting
+2805,2805,to the grand canyon?,greeting
+2806,2806,yes. i've never been there.,greeting
+2807,2807,i was there when i was a kid.,greeting
+2808,2808,how did you like it?,greeting
+2809,2809,i loved it. i still remember how amazing it was.,greeting
+2810,2810,"i'm sure i'll like it, too.",greeting
+2811,2811,you should try riding a mule on a trail to the bottom.,greeting
+2812,2812,no way! i don't want to fall to my death.,greeting
+2813,2813,that hotel was terrible.,greeting
+2814,2814,the worst in the whole world.,greeting
+2815,2815,the walls were so thin.,greeting
+2816,2816,all day long we heard tvs or telephones.,greeting
+2817,2817,all night long we heard people snoring.,greeting
+2818,2818,housekeeping didn't give us fresh towels.,greeting
+2819,2819,room service brought us a cold dinner.,greeting
+2820,2820,our nonsmoking room stunk of cigarette smoke.,greeting
+2821,2821,our room was right next to the elevator and the ice machine.,greeting
+2822,2822,they added phony charges to our bill.,greeting
+2823,2823,how did we end up in that terrible hotel?,greeting
+2824,2824,i have to hang up. i'm so sleepy.,greeting
+2825,2825,it's not even 10 o'clock.,greeting
+2826,2826,i'm falling asleep on the phone.,greeting
+2827,2827,you got up real early.,greeting
+2828,2828,i had to take my friend to the airport.,greeting
+2829,2829,why didn't you take a nap when you got home?,greeting
+2830,2830,i didn't get home until 30 minutes ago.,greeting
+2831,2831,why is that?,greeting
+2832,2832,there was a bomb threat at the airport.,greeting
+2833,2833,only a threat?,greeting
+2834,2834,"yes, but i was stuck there all day while they looked for the bomb.",greeting
+2835,2835,"my dad went to washington, d.c.",greeting
+2836,2836,why did he do that?,greeting
+2837,2837,"he was invited, along with about 90 other veterans.",greeting
+2838,2838,who invited them?,greeting
+2839,2839,some private organization.,greeting
+2840,2840,why did they invite him?,greeting
+2841,2841,to thank him and all the other soldiers who served in world war ii.,greeting
+2842,2842,that's very nice.,greeting
+2843,2843,my dad got to see the beautiful new world war ii monument.,greeting
+2844,2844,that trip must have cost a lot of money. ,greeting
+2845,2845,"that was a great trip to washington, d.c.",greeting
+2846,2846,"tell me about it, dad.",greeting
+2847,2847,about 90 of us world war ii veterans got on the plane at 8 a.m.,greeting
+2848,2848,how long was the flight?,greeting
+2849,2849,it only took about two hours.,greeting
+2850,2850,did you take pictures at the world war ii monument?,greeting
+2851,2851,"oh, yes. we all took lots of pictures.",greeting
+2852,2852,then you flew back home that evening?,greeting
+2853,2853,"yes. when we landed, tv reporters and the army band were there.",greeting
+2854,2854,that must have made you feel really special.,greeting
+2855,2855,"oh, it did. there were about 300 people there to honor us.",greeting
+2856,2856,i need a job.,greeting
+2857,2857,i thought you had a job.,greeting
+2858,2858,i did.,greeting
+2859,2859,what happened?,greeting
+2860,2860,i got laid off.,greeting
+2861,2861,that's terrible! when did it happen?,greeting
+2862,2862,i got laid off last week.,greeting
+2863,2863,just you?,greeting
+2864,2864,"no, ten of my coworkers got laid off, too.",greeting
+2865,2865,what are you going to do?,greeting
+2866,2866,i'm looking in the newspaper for a job.,greeting
+2867,2867,"before you go to that interview, check yourself.",greeting
+2868,2868,what's to check?,greeting
+2869,2869,are your nails clean?,greeting
+2870,2870,"yes, they are.",greeting
+2871,2871,did you double-check your nose and teeth?,greeting
+2872,2872,"they are clean, too.",greeting
+2873,2873,did you shine your shoes?,greeting
+2874,2874,my shoes are shined.,greeting
+2875,2875,do your socks match?,greeting
+2876,2876,of course they match.,greeting
+2877,2877,"no, they don't. one is black and one is dark blue.",greeting
+2878,2878,life is hard.,greeting
+2879,2879,it sure is.,greeting
+2880,2880,i thought school was hard.,greeting
+2881,2881,"me, too. i couldn't wait to graduate.",greeting
+2882,2882,"but now work is hard, too.",greeting
+2883,2883,i agree. work is just as hard as school.,greeting
+2884,2884,sometimes i wish i was back in school.,greeting
+2885,2885,"me, too. school was fun.",greeting
+2886,2886,and it was only 12 years.,greeting
+2887,2887,it went by pretty fast.,greeting
+2888,2888,but work goes on forever!,greeting
+2889,2889,i'm sleepy.,greeting
+2890,2890,so am i.,greeting
+2891,2891,i had a long day.,greeting
+2892,2892,so did i.,greeting
+2893,2893,i didn't even have lunch.,greeting
+2894,2894,neither did i.,greeting
+2895,2895,i was busy the whole day.,greeting
+2896,2896,so was i.,greeting
+2897,2897,i had to bring work home with me.,greeting
+2898,2898,i did too.,greeting
+2899,2899,your day was just like mine.,greeting
+2900,2900,i don't like my job.,greeting
+2901,2901,what do you do?,greeting
+2902,2902,i'm a babysitter.,greeting
+2903,2903,is that a lot of work?,greeting
+2904,2904,babies cry all the time.,greeting
+2905,2905,you have to change their diapers.,greeting
+2906,2906,i have to feed them.,greeting
+2907,2907,are you looking for another job?,greeting
+2908,2908,"no, i'm looking for another family.",greeting
+2909,2909,another family?,greeting
+2910,2910,a family with only one baby.,greeting
+2911,2911,i need a job.,greeting
+2912,2912,what was your last job?,greeting
+2913,2913,i was a painter.,greeting
+2914,2914,what happened?,greeting
+2915,2915,i got laid off because there was no work.,greeting
+2916,2916,what else can you do?,greeting
+2917,2917,i'm a handyman.,greeting
+2918,2918,can you fix a dripping faucet in a kitchen sink?,greeting
+2919,2919,of course.,greeting
+2920,2920,then i have a job for you in my kitchen.,greeting
+2921,2921,it will cost you only $20 plus parts.,greeting
+2922,2922,what would you do if you lost your job?,greeting
+2923,2923,i have no idea. i've been here for 20 years.,greeting
+2924,2924,do you have any other skills?,greeting
+2925,2925,"well, i know how to flip hamburgers.",greeting
+2926,2926,no one would hire you to flip hamburgers.,greeting
+2927,2927,have you heard something that you're not telling me?,greeting
+2928,2928,what do you mean?,greeting
+2929,2929,are there going to be layoffs at this place?,greeting
+2930,2930,i certainly hope not!,greeting
+2931,2931,"if you got laid off, you'd be flipping hamburgers, too.",greeting
+2932,2932,"oh great, we could both work at burger king.",greeting
+2933,2933,do your students ever talk about their jobs?,greeting
+2934,2934,"yes, and they ask me what jobs are the best.",greeting
+2935,2935,i tell my students to become a teacher.,greeting
+2936,2936,teaching is a great job.,greeting
+2937,2937,it's the best job i've ever had.,greeting
+2938,2938,what makes it so good?,greeting
+2939,2939,"for me, it's the students.",greeting
+2940,2940,what do you mean?,greeting
+2941,2941,i mean i have wonderful students.,greeting
+2942,2942,that must be nice.,greeting
+2943,2943,teaching is the best part of my whole day.,greeting
+2944,2944,"boy, i'm glad that job is finished.",greeting
+2945,2945,how long did it take?,greeting
+2946,2946,"four hours, without a break.",greeting
+2947,2947,it's always nice to finish a job.,greeting
+2948,2948,"well, it's good and bad.",greeting
+2949,2949,what's bad about it?,greeting
+2950,2950,"when you finish, all you do is start another job!",greeting
+2951,2951,"yes, that's right. it does get boring.",greeting
+2952,2952,"especially if it's the same work, over and over.",greeting
+2953,2953,but that's what most people do.,greeting
+2954,2954,"yes, i guess most of us are stuck in a routine.",greeting
+2955,2955,i think i have the worst boss in the world.,greeting
+2956,2956,what makes him so bad?,greeting
+2957,2957,he's rude and he yells a lot.,greeting
+2958,2958,that's hard to take.,greeting
+2959,2959,i've never heard him say please or thank you.,greeting
+2960,2960,he sounds like a real jerk.,greeting
+2961,2961,no one at work likes him.,greeting
+2962,2962,can't you report him to his supervisor?,greeting
+2963,2963,"of course not. if i do that, i'll lose my job.",greeting
+2964,2964,"yes, they don't like troublemakers or complainers.",greeting
+2965,2965,"i can't quit, because i'm making a good salary.",greeting
+2966,2966,what are we going to do?,greeting
+2967,2967,about what?,greeting
+2968,2968,about finding a job for me.,greeting
+2969,2969,you don't need a job. i make enough money for both of us.,greeting
+2970,2970,that doesn't matter. i don't want to sit around.,greeting
+2971,2971,"okay, what kind of job do you want?",greeting
+2972,2972,i'm not sure.,greeting
+2973,2973,"well, you should do something that you enjoy.",greeting
+2974,2974,i enjoy selling. i was born to sell.,greeting
+2975,2975,"okay, what do you want to sell?",greeting
+2976,2976,cigarette lighters. i'll make a fortune.,greeting
+2977,2977,a new hotel is looking for workers.,greeting
+2978,2978,"yes, i saw it on the tv news.",greeting
+2979,2979,they need 300 new workers.,greeting
+2980,2980,"and 4,000 people showed up.",greeting
+2981,2981,so many people are out of work.,greeting
+2982,2982,"i still have my job, thank goodness.",greeting
+2983,2983,"so do i, but i'm worried.",greeting
+2984,2984,me too. there are no guarantees.,greeting
+2985,2985,"if you lose your job, you can move in with me.",greeting
+2986,2986,"oh, thank you. that's very nice of you.",greeting
+2987,2987,you would do the same for me.,greeting
+2988,2988,i think i did something real stupid.,greeting
+2989,2989,what did you do?,greeting
+2990,2990,i bought some stock.,greeting
+2991,2991,everybody buys stock.,greeting
+2992,2992,i bought it on a hunch.,greeting
+2993,2993,you didn't read about the company first?,greeting
+2994,2994,i didn't have to. it's been in business for 60 years.,greeting
+2995,2995,so what's the problem?,greeting
+2996,2996,i used all my savings on this one company.,greeting
+2997,2997,you put all your eggs into one basket.,greeting
+2998,2998,"if the company goes out of business, i'll have nothing.",greeting
+2999,2999,i was going to be a doctor.,greeting
+3000,3000,what happened to your plans?,greeting
+3001,3001,i got a d in college chemistry.,greeting
+3002,3002,"well, a d is better than an f.",greeting
+3003,3003,a tutor helped me get the d!,greeting
+3004,3004,"so, you didn't become a doctor.",greeting
+3005,3005,and now i'm glad that i didn't.,greeting
+3006,3006,why's that?,greeting
+3007,3007,a hospital is the most dangerous place in the world.,greeting
+3008,3008,"oh, yes, because of all the killer germs.",greeting
+3009,3009,"if you're a smart doctor, you stay away from hospitals.",greeting
+3010,3010,i want to be a mail carrier when i grow up.,greeting
+3011,3011,why?,greeting
+3012,3012,because you get to meet a lot of people.,greeting
+3013,3013,you sure do.,greeting
+3014,3014,and you get a lot of exercise every day.,greeting
+3015,3015,that's the truth.,greeting
+3016,3016,and you get to play with a lot of dogs.,greeting
+3017,3017,"well, you're supposed to be working.",greeting
+3018,3018,"yes, but i will always pet the friendly dogs.",greeting
+3019,3019,what about the unfriendly dogs?,greeting
+3020,3020,"i think if you are friendly to dogs, they are friendly to you.",greeting
+3021,3021,i want to move to new york.,greeting
+3022,3022,to the state or the city?,greeting
+3023,3023,"to the city, of course.",greeting
+3024,3024,why do you want to move there?,greeting
+3025,3025,because i want to make a lot of money.,greeting
+3026,3026,there are a lot of poor people in new york.,greeting
+3027,3027,there sure areÂ—at least a million.,greeting
+3028,3028,so how do you plan to become rich?,greeting
+3029,3029,i will knock on the doors of all the corporations.,greeting
+3030,3030,that won't make you rich. nobody will talk to you.,greeting
+3031,3031,i will keep knocking on doors.,greeting
+3032,3032,i love salads.,greeting
+3033,3033,me too.,greeting
+3034,3034,i usually eat a simple salad.,greeting
+3035,3035,what do you put in it?,greeting
+3036,3036,"just lettuce, tomato, and celery.",greeting
+3037,3037,that's it?,greeting
+3038,3038,i add some pepper and salt.,greeting
+3039,3039,i always put cheese in my salads.,greeting
+3040,3040,"yes, cheese is nice.",greeting
+3041,3041,what kind of dressing do you use?,greeting
+3042,3042,i pour lots of french dressing on top.,greeting
+3043,3043,i love cheese.,greeting
+3044,3044,me too.,greeting
+3045,3045,where does cheese come from?,greeting
+3046,3046,it comes from cows.,greeting
+3047,3047,"so we get cheese from cows, and we get milk, too?",greeting
+3048,3048,"yes, we do.",greeting
+3049,3049,what else do we get from cows?,greeting
+3050,3050,we get hamburgers and steak.,greeting
+3051,3051,"oh, that's so delicious.",greeting
+3052,3052,we also get leather.,greeting
+3053,3053,"we get a lot of things from cows, don't we?",greeting
+3054,3054,i used to work in a deli.,greeting
+3055,3055,how did you like it?,greeting
+3056,3056,i loved it!,greeting
+3057,3057,did you get free food?,greeting
+3058,3058,i ate free cheese and meat every day.,greeting
+3059,3059,that sounds like a great job.,greeting
+3060,3060,"whatever a customer ordered, i sliced off a little more for me.",greeting
+3061,3061,did you get fat?,greeting
+3062,3062,"no, but i did put on a few pounds.",greeting
+3063,3063,that sounds like a dream job.,greeting
+3064,3064,"it was, until one day my manager caught me.",greeting
+3065,3065,i'm on a new diet.,greeting
+3066,3066,what are you eating now?,greeting
+3067,3067,i switched from pasta to potatoes.,greeting
+3068,3068,why did you do that?,greeting
+3069,3069,pasta is processed food. potatoes are natural food.,greeting
+3070,3070,natural food has more vitamins.,greeting
+3071,3071,and it's just as easy to prepare.,greeting
+3072,3072,how do you prepare the potatoes?,greeting
+3073,3073,"i wash them, and then steam them for 15 minutes.",greeting
+3074,3074,that's pretty simple.,greeting
+3075,3075,"then i add butter, salt, and pepper.",greeting
+3076,3076,my girlfriend's mom got mad at me at the dinner table.,greeting
+3077,3077,why was that?,greeting
+3078,3078,i sprinkled salt and pepper on the food before i tasted it.,greeting
+3079,3079,what's the matter with that?,greeting
+3080,3080,her mom is a great cook.,greeting
+3081,3081,"so, a little salt and pepper never hurt anything.",greeting
+3082,3082,it hurt her feelings.,greeting
+3083,3083,oh.,greeting
+3084,3084,"i apologized to her, but i could tell she was still upset.",greeting
+3085,3085,maybe you shouldn't eat there again.,greeting
+3086,3086,i'm sure everything will be okay in a day or two.,greeting
+3087,3087,i eat the same thing every day.,greeting
+3088,3088,you're kidding.,greeting
+3089,3089,"no, i'm serious.",greeting
+3090,3090,doesn't that get old?,greeting
+3091,3091,"no, because i'm eating food that i like.",greeting
+3092,3092,but the same thing day after day gets old.,greeting
+3093,3093,"well, i guess if it ever does get old, i'll change to something different.",greeting
+3094,3094,do you eat fruits and vegetables every day?,greeting
+3095,3095,"no, i hate vegetables.",greeting
+3096,3096,but you eat fruits.,greeting
+3097,3097,"i eat two apples, one banana, and one orange every day.",greeting
+3098,3098,there's something wrong with my orange.,greeting
+3099,3099,what's wrong?,greeting
+3100,3100,it's not orange!,greeting
+3101,3101,your orange isn't orange?,greeting
+3102,3102,"no, it's dark pink!",greeting
+3103,3103,are you sure? i never heard of such a thing.,greeting
+3104,3104,"i just peeled it, and i'm looking at it right now.",greeting
+3105,3105,"let me see. yes, you're right. your orange is pink.",greeting
+3106,3106,who ever heard of such a thing?,greeting
+3107,3107,"oh, look. here's the little sticker that was on it. it's called a pink navel.",greeting
+3108,3108,what is this world coming to?,greeting
+3109,3109,i love peanuts.,greeting
+3110,3110,"me, too. i love them roasted and salted.",greeting
+3111,3111,i love boiled peanuts.,greeting
+3112,3112,boiled? i never heard of that.,greeting
+3113,3113,just boil raw peanuts in salt water until the shells are soft.,greeting
+3114,3114,i'll have to try them sometime.,greeting
+3115,3115,they're best when they're hot.,greeting
+3116,3116,my brother is allergic to peanuts.,greeting
+3117,3117,that's not good.,greeting
+3118,3118,"no, it isn't. he almost died when he was little.",greeting
+3119,3119,i guess he has to be very careful about what he eats.,greeting
+3120,3120,i'm gaining weight.,greeting
+3121,3121,how much have you gained?,greeting
+3122,3122,three pounds just this month.,greeting
+3123,3123,do you know why?,greeting
+3124,3124,i think it's the ice cream.,greeting
+3125,3125,you started eating ice cream?,greeting
+3126,3126,it was on sale.,greeting
+3127,3127,how much did you buy?,greeting
+3128,3128,i filled up my freezer with ice cream.,greeting
+3129,3129,"well, it won't last forever.",greeting
+3130,3130,"no, i figure i'll finish it all by next week.",greeting
+3131,3131,i'm stuffed.,greeting
+3132,3132,of course you are. you ate everything on the table.,greeting
+3133,3133,i don't like to eat leftovers.,greeting
+3134,3134,i'm glad to hear there's something you don't like to eat.,greeting
+3135,3135,i like my food hot and fresh.,greeting
+3136,3136,you like to see it disappear.,greeting
+3137,3137,i don't like it reheated.,greeting
+3138,3138,"well, you'll have hot fresh food tomorrow night.",greeting
+3139,3139,i'm so full i'm going to burst.,greeting
+3140,3140,you should loosen your belt.,greeting
+3141,3141,i already loosened my belt and unbuttoned my pants.,greeting
+3142,3142,i saw what you did.,greeting
+3143,3143,i didn't do anything.,greeting
+3144,3144,"oh yes, you did.",greeting
+3145,3145,what are you talking about?,greeting
+3146,3146,you know what i'm talking about.,greeting
+3147,3147,i don't have any idea.,greeting
+3148,3148,you know what you did.,greeting
+3149,3149,"maybe i know, but how could you know?",greeting
+3150,3150,because i was watching you.,greeting
+3151,3151,"okay, i'm sorry i did it.",greeting
+3152,3152,don't drink milk out of the carton. use a glass!,greeting
+3153,3153,i like that shirt.,greeting
+3154,3154,so do i.,greeting
+3155,3155,how much is it?,greeting
+3156,3156,i don't know. the tag is missing.,greeting
+3157,3157,ask the clerk.,greeting
+3158,3158,i will.,greeting
+3159,3159,"oh, look. here's another shirt just like it.",greeting
+3160,3160,does it have a price tag?,greeting
+3161,3161,"yes, it does. it's only $20.",greeting
+3162,3162,that's a great price.,greeting
+3163,3163,i think i'll buy both of them.,greeting
+3164,3164,i bought you a pair of pants.,greeting
+3165,3165,thank you.,greeting
+3166,3166,i hope they fit.,greeting
+3167,3167,i hope you kept the receipt.,greeting
+3168,3168,you think they won't fit?,greeting
+3169,3169,i think i've put on some weight.,greeting
+3170,3170,you think?,greeting
+3171,3171,maybe a pound or two.,greeting
+3172,3172,maybe four or five pounds?,greeting
+3173,3173,my waist is bigger than it was.,greeting
+3174,3174,no problem. these pants have an elastic waistband.,greeting
+3175,3175,what do we need to buy?,greeting
+3176,3176,let me look at our list.,greeting
+3177,3177,i know that we need milk.,greeting
+3178,3178,nonfat.,greeting
+3179,3179,of course. what else?,greeting
+3180,3180,"we need cheese, bread, and ham.",greeting
+3181,3181,what kind of cheese?,greeting
+3182,3182,swiss.,greeting
+3183,3183,"of course, the cheese with holes in it.",greeting
+3184,3184,i never used to buy swiss cheese.,greeting
+3185,3185,why not?,greeting
+3186,3186,i need some pants.,greeting
+3187,3187,i thought you just bought a pair.,greeting
+3188,3188,i did.,greeting
+3189,3189,what's wrong with them so soon?,greeting
+3190,3190,"the pants are fine, but the pocket has a huge hole in it.",greeting
+3191,3191,you shouldn't carry your keys and pens in your pocket.,greeting
+3192,3192,but that's what pockets are for.,greeting
+3193,3193,you should carry them in a purse.,greeting
+3194,3194,"i'm a man, and men don't carry purses!",greeting
+3195,3195,"well, you should buy pants with stronger pockets.",greeting
+3196,3196,i would if i could find someone who makes strong pockets.,greeting
+3197,3197,what are those wipes for?,greeting
+3198,3198,you use them to wipe the handle of the shopping cart.,greeting
+3199,3199,that's a great idea.,greeting
+3200,3200,"yes, all the markets just started offering wipes to shoppers.",greeting
+3201,3201,i'm going to take five wipes.,greeting
+3202,3202,what do you need five of them for?,greeting
+3203,3203,"one to wipe the handle, and the others to wipe the produce.",greeting
+3204,3204,what's the matter with the produce?,greeting
+3205,3205,do you think the bananas fell from the sky?,greeting
+3206,3206,what do you mean?,greeting
+3207,3207,"i mean, someone used their dirty hands to pick the bananas, the apples, and the oranges.",greeting
+3208,3208,did you go to the 99 cents store?,greeting
+3209,3209,"yes, i did.",greeting
+3210,3210,what did you buy?,greeting
+3211,3211,"well, i got a lot of good deals, as usual.",greeting
+3212,3212,like what?,greeting
+3213,3213,"well, a dozen large eggs were only 99 cents.",greeting
+3214,3214,that's a good deal.,greeting
+3215,3215,and a one-pound tub of soft butter was the same price.,greeting
+3216,3216,another good deal.,greeting
+3217,3217,but the best deal was five pounds of potatoes for 99 cents.,greeting
+3218,3218,i don't know how that store makes money.,greeting
+3219,3219,i need a new computer.,greeting
+3220,3220,what's the matter with yours?,greeting
+3221,3221,it's six years old.,greeting
+3222,3222,that's pretty old.,greeting
+3223,3223,"it still works, but i'm going to give it to a charity.",greeting
+3224,3224,are you going to buy a desktop or laptop?,greeting
+3225,3225,"oh, a laptop, of course.",greeting
+3226,3226,a pc or a mac?,greeting
+3227,3227,i haven't decided yet.,greeting
+3228,3228,more and more people are using macs.,greeting
+3229,3229,but 90 percent of the world uses pcs.,greeting
+3230,3230,i got ripped off.,greeting
+3231,3231,what happened?,greeting
+3232,3232,"i had a car problem, so i went online.",greeting
+3233,3233,did you find a solution?,greeting
+3234,3234,"yes, i did. a site i went to said they would send me the solution.",greeting
+3235,3235,"so, what's the problem?",greeting
+3236,3236,"i sent them $20 using my credit card, but they never sent me the solution.",greeting
+3237,3237,what are you going to do?,greeting
+3238,3238,i sent them an email asking for my money back.,greeting
+3239,3239,have you heard from them?,greeting
+3240,3240,not yet. it's been a week.,greeting
+3241,3241,where's the pencil sharpener?,greeting
+3242,3242,which one?,greeting
+3243,3243,any one. i need to sharpen this pencil.,greeting
+3244,3244,i think there's one on the dining room table.,greeting
+3245,3245,i already looked there.,greeting
+3246,3246,did you look in the desk drawer?,greeting
+3247,3247,"yes, i looked there, too.",greeting
+3248,3248,don't we have about five sharpeners?,greeting
+3249,3249,"yes, but they seem to have legs.",greeting
+3250,3250,tomorrow i'm going to buy an electric sharpener.,greeting
+3251,3251,get one with the rubber suction cups on the bottom.,greeting
+3252,3252,i'm trying to stretch my dollars.,greeting
+3253,3253,how are you doing that?,greeting
+3254,3254,i started shopping at the dollar store.,greeting
+3255,3255,that saves a lot of money.,greeting
+3256,3256,i bought three pounds of potatoes for a dollar.,greeting
+3257,3257,that's a good deal.,greeting
+3258,3258,"yes, even though some of the potatoes had eyes.",greeting
+3259,3259,just put them in the fridge.,greeting
+3260,3260,"also, i bought a can of cheap coffee and a bag of good coffee.",greeting
+3261,3261,why did you do that?,greeting
+3262,3262,i mixed them together.,greeting
+3263,3263,i really like this house.,greeting
+3264,3264,can we afford it?,greeting
+3265,3265,they want 20 percent down.,greeting
+3266,3266,that's a lot of money.,greeting
+3267,3267,but the house is so nice.,greeting
+3268,3268,it's in a great neighborhood.,greeting
+3269,3269,it's close to the beach.,greeting
+3270,3270,it's close to the freeways.,greeting
+3271,3271,it's got a big yard.,greeting
+3272,3272,"the kids love the house, too.",greeting
+3273,3273,"if we don't buy it, someone else will.",greeting
+3274,3274,we can't afford this house.,greeting
+3275,3275,are you sure?,greeting
+3276,3276,"we will be house rich, but cash poor.",greeting
+3277,3277,what do you mean?,greeting
+3278,3278,our monthly payments will be too high.,greeting
+3279,3279,we won't have any money for other things?,greeting
+3280,3280,"no, we won't have money for gas or food.",greeting
+3281,3281,we'll be eating peanut butter sandwiches?,greeting
+3282,3282,without the peanut butter!,greeting
+3283,3283,that's no good!,greeting
+3284,3284,we have to find a cheaper house.,greeting
+3285,3285,that is a beautiful house.,greeting
+3286,3286,i don't like it.,greeting
+3287,3287,what's the matter with it?,greeting
+3288,3288,it's on the corner.,greeting
+3289,3289,so?,greeting
+3290,3290,that means it gets twice as much traffic.,greeting
+3291,3291,you're right.,greeting
+3292,3292,"when you're inside, you will always hear cars stopping and stopping at the intersection.",greeting
+3293,3293,or you'll hear the collision if someone doesn't stop.,greeting
+3294,3294,or you'll see the collision if they crash into the house.,greeting
+3295,3295,let's find a house that's at the end of a dead end.,greeting
+3296,3296,i hate looking for an apartment.,greeting
+3297,3297,"me, too.",greeting
+3298,3298,we have a 2 o'clock appointment to see the one on main street.,greeting
+3299,3299,we'd better get ready to go.,greeting
+3300,3300,it's an upstairs unit.,greeting
+3301,3301,"that's good, because i don't want to live under people with loud feet.",greeting
+3302,3302,and it's a corner unit.,greeting
+3303,3303,that's great. we won't have neighbors on both sides of us.,greeting
+3304,3304,no pets are allowed.,greeting
+3305,3305,perfect. we don't have to listen to barking dogs.,greeting
+3306,3306,and there are only six units in the whole building.,greeting
+3307,3307,did you call the manager?,greeting
+3308,3308,yes. he said he'd come over tomorrow.,greeting
+3309,3309,did he say what time?,greeting
+3310,3310,yes. he said he'd be here at 9 o'clock.,greeting
+3311,3311,did he understand what the problem is?,greeting
+3312,3312,yes. i told him our doorbell doesn't work.,greeting
+3313,3313,it shouldn't take him long to fix it.,greeting
+3314,3314,i don't even know why we need to fix it.,greeting
+3315,3315,in case we have visitors.,greeting
+3316,3316,but they can just knock on the door.,greeting
+3317,3317,"actually, i want him to look at our carpet, too.",greeting
+3318,3318,do you like this house?,greeting
+3319,3319,"yes, it's beautiful.",greeting
+3320,3320,it's perfect for us and the kids.,greeting
+3321,3321,"three bedrooms, three bathrooms, and a big back yard.",greeting
+3322,3322,and we can afford it!,greeting
+3323,3323,so are we going to buy it?,greeting
+3324,3324,i'm afraid not.,greeting
+3325,3325,"it's too far from your job, isn't it?",greeting
+3326,3326,i can't spend four hours on the road every day.,greeting
+3327,3327,"by the time you get home, you'll be too tired to even eat.",greeting
+3328,3328,i won't be able to play with the kids.,greeting
+3329,3329,"boy, it's chilly outside, isn't it?",greeting
+3330,3330,it sure is.,greeting
+3331,3331,"in fact, it's chilly in the apartment, too.",greeting
+3332,3332,let's turn on the heat.,greeting
+3333,3333,i'll check to make sure that all the windows are shut.,greeting
+3334,3334,it should be warmer in a few minutes.,greeting
+3335,3335,it's so nice to have a heated apartment.,greeting
+3336,3336,how did they survive in the old days?,greeting
+3337,3337,they had fireplaces.,greeting
+3338,3338,someone had to chop the wood.,greeting
+3339,3339,and carry it into the house.,greeting
+3340,3340,this is a nice neighborhood.,greeting
+3341,3341,the streets are clean and quiet.,greeting
+3342,3342,the neighbors don't party on the weekends.,greeting
+3343,3343,people take care of their lawns.,greeting
+3344,3344,no rusty old cars are sitting in the front yards.,greeting
+3345,3345,we never have to call the police about anything.,greeting
+3346,3346,our kids are completely safe.,greeting
+3347,3347,so why are we selling our house?,greeting
+3348,3348,they're building a 3-story apartment building on the corner.,greeting
+3349,3349,so we've got to sell before property values go down?,greeting
+3350,3350,yes. i still can't believe our city council allowed this building.,greeting
+3351,3351,that was a huge fire in santa barbara.,greeting
+3352,3352,"yes, it was.",greeting
+3353,3353,they said about 30 houses burned to the ground.,greeting
+3354,3354,and they were expensive houses.,greeting
+3355,3355,i feel so sorry for those people.,greeting
+3356,3356,why feel sorry for rich people?,greeting
+3357,3357,i feel sorry for anyone who loses their home.,greeting
+3358,3358,"so do i, but not if they're rich.",greeting
+3359,3359,what does that have to do with it?,greeting
+3360,3360,rich people think they're better than us.,greeting
+3361,3361,how many rich people do you know?,greeting
+3362,3362,bears are invading our neighborhoods.,greeting
+3363,3363,of course they are. they're starving to death.,greeting
+3364,3364,they should stay in the woods where they belong.,greeting
+3365,3365,there's no food in the woods.,greeting
+3366,3366,can't they eat grass?,greeting
+3367,3367,do you think a bear is a cow?,greeting
+3368,3368,"well, i've seen them eating berries.",greeting
+3369,3369,berries aren't in season all year round.,greeting
+3370,3370,it's too dangerous for kids and pets.,greeting
+3371,3371,people need to cover their trash cans.,greeting
+3372,3372,the police need to shoot all the bears.,greeting
+3373,3373,who did you vote for?,greeting
+3374,3374,i voted for obama.,greeting
+3375,3375,me too.,greeting
+3376,3376,he will be a great president.,greeting
+3377,3377,everyone likes him.,greeting
+3378,3378,he's a good speaker.,greeting
+3379,3379,and he's really smart.,greeting
+3380,3380,he will solve our problems.,greeting
+3381,3381,he will end the war.,greeting
+3382,3382,the next four years will be good years.,greeting
+3383,3383,"i'll vote for him next time, too.",greeting
+3384,3384,the election is next week.,greeting
+3385,3385,who are you voting for?,greeting
+3386,3386,i'm not voting for the mayor.,greeting
+3387,3387,why not?,greeting
+3388,3388,he made promises that he didn't keep.,greeting
+3389,3389,like what?,greeting
+3390,3390,"he promised to hire 1,000 more police officers.",greeting
+3391,3391,how many did he hire?,greeting
+3392,3392,one hundred!,greeting
+3393,3393,maybe he had a good reason.,greeting
+3394,3394,maybe he's just a liar.,greeting
+3395,3395,i can't believe he won the election.,greeting
+3396,3396,only 15 percent of the voters turned out.,greeting
+3397,3397,that is a joke.,greeting
+3398,3398,"voting is so important, but people don't bother.",greeting
+3399,3399,many people think their vote doesn't matter.,greeting
+3400,3400,"the mayor won by only 2,000 votes.",greeting
+3401,3401,we're stuck with him for four more years.,greeting
+3402,3402,voting is so easy. you can even mail your ballot in.,greeting
+3403,3403,all you have to do is vote and put a stamp on it.,greeting
+3404,3404,how easy is that?,greeting
+3405,3405,i guess people just don't care.,greeting
+3406,3406,"well, we have a new president.",greeting
+3407,3407,but we have the same old problems.,greeting
+3408,3408,"well, he's made a few changes.",greeting
+3409,3409,like what?,greeting
+3410,3410,i think he closed the bowling alley in the white house.,greeting
+3411,3411,"oh, yeah. he's changing it to a basketball court.",greeting
+3412,3412,who's paying for that?,greeting
+3413,3413,i think we are!,greeting
+3414,3414,"well, that's okay, as long as it helps him relax and think more clearly.",greeting
+3415,3415,"yes, we need a relaxed president who thinks clearly.",greeting
+3416,3416,do any other world leaders have a basketball court?,greeting
+3417,3417,people say that everybody loves obama.,greeting
+3418,3418,"well, more than 50 million people voted for mccain.",greeting
+3419,3419,that's 50 million people who don't love obama.,greeting
+3420,3420,obama's got four years to make everyone happy.,greeting
+3421,3421,he's never going to make everyone happy.,greeting
+3422,3422,can you imagine being president?,greeting
+3423,3423,everyone wants you to solve their problems.,greeting
+3424,3424,i have enough stress from trying to solve my own problems.,greeting
+3425,3425,you and everybody else.,greeting
+3426,3426,i would never want to be president.,greeting
+3427,3427,but think about all the power you'd have.,greeting
+3428,3428,did you read this article?,greeting
+3429,3429,what article?,greeting
+3430,3430,it says the mayor spends only 11 percent of his time on city duties.,greeting
+3431,3431,only 11 percent?,greeting
+3432,3432,about 50 percent of the time he's traveling.,greeting
+3433,3433,where does he travel to?,greeting
+3434,3434,"oh, all over the world.",greeting
+3435,3435,but he's supposed to be making our city a better place.,greeting
+3436,3436,he's visiting other cities to get ideas.,greeting
+3437,3437,can't he just go online?,greeting
+3438,3438,the rest of the time he's raising money for his reelection.,greeting
+3439,3439,who did you vote for for president?,greeting
+3440,3440,i voted for ralph nader.,greeting
+3441,3441,who in the world is ralph nader?,greeting
+3442,3442,he's the best man for president.,greeting
+3443,3443,why's that?,greeting
+3444,3444,he hates corporations.,greeting
+3445,3445,"well, most corporations do think only about money.",greeting
+3446,3446,he hates democrats and republicans.,greeting
+3447,3447,"well, they do put their party before their country.",greeting
+3448,3448,he's the only candidate that i trust.,greeting
+3449,3449,but he didn't have a chance. nobody voted for him!,greeting
+3450,3450,i don't know why i bother to vote.,greeting
+3451,3451,why's that?,greeting
+3452,3452,what good does it do?,greeting
+3453,3453,you get to put someone in power that you like.,greeting
+3454,3454,only if my candidate wins.,greeting
+3455,3455,"well, he can't win unless you and others vote for him.",greeting
+3456,3456,"but even if my candidate wins, he'll break his promises.",greeting
+3457,3457,that's true. they promise anything just so they get elected.,greeting
+3458,3458,"and when elected, they go their own way.",greeting
+3459,3459,they forget who put them in power.,greeting
+3460,3460,they forget where they came from.,greeting
+3461,3461,that election for u.s. senator stunk.,greeting
+3462,3462,what do you mean?,greeting
+3463,3463,there were more votes than voters!,greeting
+3464,3464,but that's impossible.,greeting
+3465,3465,officials said that it's possible.,greeting
+3466,3466,did they explain how it's possible?,greeting
+3467,3467,no. they said there are some things you can't explain.,greeting
+3468,3468,so are they going to hold another election?,greeting
+3469,3469,no. that will cost too much money.,greeting
+3470,3470,so it's better to save money than to have an honest election?,greeting
+3471,3471,"well, the democratic party says it was an honest election.",greeting
+3472,3472,i see that former president bush is at a conference.,greeting
+3473,3473,yes. he's telling jokes about his eight years as president.,greeting
+3474,3474,"yes, those eight years were a lot of fun for everyone.",greeting
+3475,3475,"only 4,000 american soldiers were killed overseas.",greeting
+3476,3476,"not to mention 40,000 wounded soldiers.",greeting
+3477,3477,but bush visited some of them in the hospital once.,greeting
+3478,3478,that's nice that he found the time to make a visit.,greeting
+3479,3479,he spoke to them and made them feel better.,greeting
+3480,3480,did he speak to every family that lost a soldier?,greeting
+3481,3481,"no, he didn't have time to do that.",greeting
+3482,3482,"well, he's got plenty of time now!",greeting
+3483,3483,did you get your official sample ballot?,greeting
+3484,3484,"yes, with the voter instructions.",greeting
+3485,3485,how are you going to vote?,greeting
+3486,3486,"same as ever, by mail. all it costs me is a 42-cent stamp.",greeting
+3487,3487,"i meant, are you going to vote for or against the new taxes?",greeting
+3488,3488,"against all of them, of course.",greeting
+3489,3489,"but we need new taxes to pay for highways, schools, and prisons.",greeting
+3490,3490,we've already voted for new taxes to pay for all that stuff!,greeting
+3491,3491,that's true. where did that money go?,greeting
+3492,3492,our legislators spent it on first-class travel all over the world.,greeting
+3493,3493,they are having a good time with our money.,greeting
+3494,3494,have you decided how you are going to vote?,greeting
+3495,3495,"do you mean on measures 1, 2, and 3?",greeting
+3496,3496,"yes. the ones that will improve our schools, roads, and hospitals.",greeting
+3497,3497,you mean the measures that will raise our taxes.,greeting
+3498,3498,but the tv ads say that our taxes will not increase.,greeting
+3499,3499,do you believe the tv ads?,greeting
+3500,3500,i like the one where the fireman tells us why we should vote yes.,greeting
+3501,3501,"don't believe him! whatever the tv ads tell you, the opposite is true.",greeting
+3502,3502,"but the title of measure 1 is ""better schools at no cost.""",greeting
+3503,3503,"the title should be ""better schools at huge cost.""",greeting
+3504,3504,i can't believe that they would lie to us.,greeting
+3505,3505,i have a stomachache.,greeting
+3506,3506,is it something you ate?,greeting
+3507,3507,maybe. i'm not sure.,greeting
+3508,3508,what did you have for breakfast?,greeting
+3509,3509,"the usual, cereal with milk and a banana.",greeting
+3510,3510,maybe the milk was bad.,greeting
+3511,3511,it didn't smell bad.,greeting
+3512,3512,maybe the banana was bad.,greeting
+3513,3513,"no, the banana was delicious.",greeting
+3514,3514,maybe you just need to go to the bathroom.,greeting
+3515,3515,"no, that's not the problem.",greeting
+3516,3516,what's this stain?,greeting
+3517,3517,i don't know.,greeting
+3518,3518,it looks like blood.,greeting
+3519,3519,i think my nose was bleeding.,greeting
+3520,3520,you should wet your shirt immediately.,greeting
+3521,3521,why?,greeting
+3522,3522,because that gets the blood out of the shirt.,greeting
+3523,3523,what's a little blood?,greeting
+3524,3524,your white shirt is ruined.,greeting
+3525,3525,"so, i'll just buy another one.",greeting
+3526,3526,you can wear this one around the house.,greeting
+3527,3527,my fingers hurt.,greeting
+3528,3528,why do they hurt?,greeting
+3529,3529,i type too much.,greeting
+3530,3530,you should take a break.,greeting
+3531,3531,i need to type to make money.,greeting
+3532,3532,but typing is causing you pain.,greeting
+3533,3533,maybe i should see a doctor.,greeting
+3534,3534,doctors are too expensive.,greeting
+3535,3535,he might tell me to rest for a while.,greeting
+3536,3536,he might want to cut you open.,greeting
+3537,3537,he might say i'm okay.,greeting
+3538,3538,what did the doctor say?,greeting
+3539,3539,he thinks i have too much stress.,greeting
+3540,3540,stress causes your stomachaches?,greeting
+3541,3541,stress causes different problems with different people.,greeting
+3542,3542,so what did he tell you to do?,greeting
+3543,3543,he said i need to think positive.,greeting
+3544,3544,he didn't give you any medication?,greeting
+3545,3545,i hate medication. it makes me feel different.,greeting
+3546,3546,so how do you think positive?,greeting
+3547,3547,i think about nice things.,greeting
+3548,3548,like what?,greeting
+3549,3549,i cut my finger.,greeting
+3550,3550,how did you do that?,greeting
+3551,3551,it's a paper cut.,greeting
+3552,3552,paper can be dangerous.,greeting
+3553,3553,"it hurts, too.",greeting
+3554,3554,paper cuts can hurt a lot.,greeting
+3555,3555,where are the band-aids?,greeting
+3556,3556,i think they're in the medicine cabinet.,greeting
+3557,3557,it's on the tip of my finger.,greeting
+3558,3558,a band-aid might not work.,greeting
+3559,3559,i must not use this finger until the cut heals.,greeting
+3560,3560,do you smell that?,greeting
+3561,3561,"oh, yes.",greeting
+3562,3562,i can't stand cigarette smoke.,greeting
+3563,3563,it smells so bad.,greeting
+3564,3564,one cigarette stinks up the whole sidewalk.,greeting
+3565,3565,smokers think they are so cool.,greeting
+3566,3566,they are so weak.,greeting
+3567,3567,a little cigarette controls them.,greeting
+3568,3568,they look so stupid taking a puff.,greeting
+3569,3569,and then they blow smoke out of their mouth.,greeting
+3570,3570,they think it's cool.,greeting
+3571,3571,do you have a cold?,greeting
+3572,3572,"yes, i do.",greeting
+3573,3573,how did you get it?,greeting
+3574,3574,my sister had a cold. she gave it to me.,greeting
+3575,3575,have you taken anything for your cold?,greeting
+3576,3576,"no, i just blow my nose a lot.",greeting
+3577,3577,your nose is stopped up?,greeting
+3578,3578,yes. i have to breathe through my mouth.,greeting
+3579,3579,have you tried nose drops?,greeting
+3580,3580,"no, i don't like nose drops.",greeting
+3581,3581,they work great.,greeting
+3582,3582,"would you put suntan lotion on my back, please?",greeting
+3583,3583,sure.,greeting
+3584,3584,thank you.,greeting
+3585,3585,you shouldn't lie in the sun for too long.,greeting
+3586,3586,i want to get a tan. i don't want to look so pale.,greeting
+3587,3587,what's wrong with looking pale?,greeting
+3588,3588,people think you might be sick.,greeting
+3589,3589,who thinks that?,greeting
+3590,3590,i don't know.,greeting
+3591,3591,it's better to be pale than to have skin cancer.,greeting
+3592,3592,i know that.,greeting
+3593,3593,i can't quit smoking.,greeting
+3594,3594,of course you can.,greeting
+3595,3595,i don't have enough will power.,greeting
+3596,3596,of course you do.,greeting
+3597,3597,i wish i had never started.,greeting
+3598,3598,so does every smoker.,greeting
+3599,3599,i've tried to quit so many times.,greeting
+3600,3600,so has everyone else.,greeting
+3601,3601,nothing seems to work.,greeting
+3602,3602,"all it takes is will power, and you have it.",greeting
+3603,3603,then why can't i quit?,greeting
+3604,3604,my back is killing me.,greeting
+3605,3605,what did you do?,greeting
+3606,3606,i got out of my car.,greeting
+3607,3607,that's it?,greeting
+3608,3608,i injured my back one time just by sneezing.,greeting
+3609,3609,you should see a doctor.,greeting
+3610,3610,my doctor said i need surgery.,greeting
+3611,3611,so?,greeting
+3612,3612,"so, forget it.",greeting
+3613,3613,you don't have the money?,greeting
+3614,3614,i have no insurance.,greeting
+3615,3615,my brother smokes three packs a day.,greeting
+3616,3616,three packs of what?,greeting
+3617,3617,"cigarettes, of course.",greeting
+3618,3618,how can he do that?,greeting
+3619,3619,"when he is almost finished with one cigarette, he uses it to light another.",greeting
+3620,3620,he's a chain smoker.,greeting
+3621,3621,he's been a chain smoker for 30 years.,greeting
+3622,3622,that's unbelievable. can he still breathe?,greeting
+3623,3623,"he can, but the people around him can't.",greeting
+3624,3624,how can he still be alive?,greeting
+3625,3625,his doctor says his heart and lungs are strong and healthy.,greeting
+3626,3626,i hate brushing my teeth.,greeting
+3627,3627,it's such a chore.,greeting
+3628,3628,"brush, brush. spit, spit.",greeting
+3629,3629,what did they do in the old days?,greeting
+3630,3630,they brushed with their fingers.,greeting
+3631,3631,they also ate with their fingers!,greeting
+3632,3632,why do they call it the good old days?,greeting
+3633,3633,maybe because they didn't have to brush and floss.,greeting
+3634,3634,who invented flossing?,greeting
+3635,3635,"a dentist, i'm sure.",greeting
+3636,3636,i hate flossing more than brushing!,greeting
+3637,3637,let's stop for a while. i need a break and some water.,greeting
+3638,3638,this trail is hard to climb.,greeting
+3639,3639,especially on a hot day like this.,greeting
+3640,3640,i can't believe we haven't seen any animals.,greeting
+3641,3641,thank goodness! i don't want to see any wild animals.,greeting
+3642,3642,all we've seen so far is a couple of lizards.,greeting
+3643,3643,"we're hiking to lose weight, not to see goats and bears.",greeting
+3644,3644,i bet i've lost a couple of pounds already.,greeting
+3645,3645,all you've lost is some sweat.,greeting
+3646,3646,i haven't even lost one pound of fat?,greeting
+3647,3647,"if you want to lose fat, you've got to do this hike every day.",greeting
+3648,3648,"oh no, another pimple on my face.",greeting
+3649,3649,pimples suck.,greeting
+3650,3650,it seems like i get a new pimple almost every day.,greeting
+3651,3651,maybe it's something in your diet.,greeting
+3652,3652,"no, i eat the same things day after day.",greeting
+3653,3653,then maybe it's in your genes.,greeting
+3654,3654,you might be right.,greeting
+3655,3655,do pimples run in your family?,greeting
+3656,3656,not that i've noticed.,greeting
+3657,3657,"well, maybe it's from the pollution in the air.",greeting
+3658,3658,"whatever the cause, i hate seeing them on my face.",greeting
+3659,3659,do you believe everything you hear?,greeting
+3660,3660,i don't believe anything i don't see with my own eyes.,greeting
+3661,3661,you can't believe what you hear on tv or radio.,greeting
+3662,3662,you can't believe what you read in the newspapers.,greeting
+3663,3663,everyone tells you a different story about the same thing.,greeting
+3664,3664,three different people will give you three different stories.,greeting
+3665,3665,and the government will give you a fourth story.,greeting
+3666,3666,"yes, like the government says not to worry about the swine flu.",greeting
+3667,3667,but the swine flu just killed 20 people in mexico.,greeting
+3668,3668,the government says we have nothing to worry about.,greeting
+3669,3669,then why are some schools telling the kids to stay home?,greeting
+3670,3670,don't pick your nose.,greeting
+3671,3671,i wasn't picking my nose.,greeting
+3672,3672,what were you doing?,greeting
+3673,3673,i was scratching my nose.,greeting
+3674,3674,i think i know the difference between picking and scratching.,greeting
+3675,3675,"okay, mom, maybe i was picking it a little bit.",greeting
+3676,3676,use a tissue next time.,greeting
+3677,3677,i didn't have a tissue.,greeting
+3678,3678,then wait till you find a tissue.,greeting
+3679,3679,i couldn't wait. it was an emergency.,greeting
+3680,3680,"oh, really? maybe you should have called 911.",greeting
+3681,3681,our tv remote is filthy.,greeting
+3682,3682,"yes, it's covered with crud.",greeting
+3683,3683,i'm going to clean it.,greeting
+3684,3684,don't use water on it!,greeting
+3685,3685,i'll use a damp cloth.,greeting
+3686,3686,don't let water get into any of the cracks.,greeting
+3687,3687,i'll squeeze the cloth so it's almost dry.,greeting
+3688,3688,don't rub the numbers off the remote.,greeting
+3689,3689,i will rub gently but firmly.,greeting
+3690,3690,"do it quickly, please, so i can change channels during commercials.",greeting
+3691,3691,i'll give it back to you in a couple of minutes.,greeting
+3692,3692,my ear is killing me.,greeting
+3693,3693,what's the matter?,greeting
+3694,3694,i was on a plane.,greeting
+3695,3695,so?,greeting
+3696,3696,"so, every time the plane goes up, my ear starts to hurt.",greeting
+3697,3697,that's no good.,greeting
+3698,3698,"sometimes the pain goes away, and sometimes it doesn't.",greeting
+3699,3699,have you seen a doctor?,greeting
+3700,3700,i've been to two doctors.,greeting
+3701,3701,and they couldn't fix your problem?,greeting
+3702,3702,they both said i have to live with it.,greeting
+3703,3703,did you see the woman with the new face?,greeting
+3704,3704,did she get a nice job?,greeting
+3705,3705,"she got an ""everything"" job!",greeting
+3706,3706,what do you mean?,greeting
+3707,3707,a team of doctors gave her a whole new face.,greeting
+3708,3708,why did they do that?,greeting
+3709,3709,a mad dog bit most of her face off.,greeting
+3710,3710,"oh, that's terrible. what does she look like now?",greeting
+3711,3711,"her face is really fat, but they say the swelling will go down.",greeting
+3712,3712,and then will she look normal again?,greeting
+3713,3713,i guess so.,greeting
+3714,3714,there's something wrong with my right hand.,greeting
+3715,3715,what's wrong with it?,greeting
+3716,3716,it aches most of the time.,greeting
+3717,3717,what do you think it is?,greeting
+3718,3718,i don't know. i think it's old age.,greeting
+3719,3719,"if it's old age, why don't both of your hands hurt?",greeting
+3720,3720,that's a good question. maybe it's not old age.,greeting
+3721,3721,are you right-handed?,greeting
+3722,3722,yes. all my life.,greeting
+3723,3723,you're wearing out your right hand. stop using it so much.,greeting
+3724,3724,but i do all my writing with my right hand.,greeting
